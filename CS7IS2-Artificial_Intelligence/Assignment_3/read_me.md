@@ -31,3 +31,5 @@ Asssignment_3/
 │
 └── demos/
     └── game_demos.py            # 游戏演示脚本
+
+2.logic 

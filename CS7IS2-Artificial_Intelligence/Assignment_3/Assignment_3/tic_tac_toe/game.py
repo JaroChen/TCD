@@ -40,21 +40,21 @@ def get_player_move(board):
 
 
 def make_move(board, row, col, player):
-    # if board[row][col] == ' ':
-    board[row][col] = player
-    #     return True
-    # return False
+    if board[row][col] == ' ':                 # exchange player A and player B
+        board[row][col] = player
+        return True
+    return False
 
 def check_winner(board, player):
-    # check row
+    # check rows
     for row in board:
         if all(s == player for s in row):
             return True
-    # check col
+    # check cols
     for col in range(len(board[0])):
         if all(board[row][col] == player for row in range(len(board))):
             return True
-    # check diagonal
+    # check diagonals
     if all(board[i][i] == player for i in range(len(board))):
         return True
     if all(board[i][len(board)-i-1] == player for i in range(len(board))):
@@ -66,11 +66,18 @@ def check_draw(board):     # Checking for a tie
     return all(all(cell != ' ' for cell in row) for row in board)
 
 
-def tic_tac_toe():        # string methods together
-    board = initialize_board()                        # step1
+def tic_tac_toe():                                               # string methods together
+    board = initialize_board()                                   # step1
     current_player = 'A'
     while True:
-        print_board(board)                            # step2
+        print_board(board)                                       # step2
+        move = get_player_move(board)
+        if move == (None, None):                                 # step3: check it if quit game
+            break
+        row, col = move
+        if not make_move(board, row, col, current_player):       # step4: check mark
+            print("This position is already taken. Choose another one.")
+            continue
 
         if check_winner(board, current_player):
             print_board(board)
@@ -81,14 +88,6 @@ def tic_tac_toe():        # string methods together
             print_board(board)
             print("It's a tie!")
             break
-
-        move = get_player_move(board)
-        if move == (None, None):                      # step3 check it if quit game
-            break
-        row, col = move
-        if not make_move(board, row, col, current_player):
-            print("This position is already taken. Choose another one.")
-            continue
 
         current_player = 'B' if current_player == 'A' else 'A'      # Automatic player switching
 
