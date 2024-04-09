@@ -50,14 +50,14 @@ def minimax(board, depth, is_max):
     """
     Minimax
     """
-    score = evaluate(board)
+    score = evaluate(board)          # step 1： evaluate
 
     # If the player/opponent has won the board, return the evaluated value
     if score == 10 or score == -10:
         return score
 
     # if there are no more moves and no winners, return 0
-    if not is_moves_left(board):
+    if not is_moves_left(board):     # step 2: is_moves_left
         return 0
 
     if is_max:
@@ -96,7 +96,7 @@ def find_best_move(board):
         for j in range(3):
             if board[i][j] == ' ':
                 board[i][j] = PLAYER
-                move_val = minimax(board, 0, False)
+                move_val = minimax(board, 0, False)    #  Step 3: minmax
                 board[i][j] = ' '
 
     # Iterate through all the grids to see where the best move is located If this move is evaluated higher, update the best move
