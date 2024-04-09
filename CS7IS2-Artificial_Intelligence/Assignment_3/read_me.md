@@ -1,4 +1,4 @@
-AI_Games_Project/
+Asssignment_3/
 │
 ├── tic_tac_toe/
 │   ├── __init__.py
