@@ -67,36 +67,38 @@ def minimax(board, depth, is_max, alpha, beta):        # add alpha & beta
         return 0
 
     if is_max:
-        best = -1000
+        best = -float('inf')
         # Iterate the board
         for i in range(3):
             for j in range(3):
                 if board[i][j] == ' ':
                     board[i][j] = PLAYER
                     # recursive call minimax
-                    best = max(best, minimax(board, depth + 1, not is_max))
+                    # best = max(best, minimax(board, depth + 1, not is_max))
+                    best = max(best, minimax(board, depth + 1, not is_max, alpha, beta))     # alpha, beta passing
                     board[i][j] = ' '  # Undoing a move
 
                     # A-B opmitization: add alpha
                     alpha = max(alpha, best)
                     if beta <= alpha:
-                        return best
+                        break
         return best
     else:
-        best = 1000
+        best = float('inf')
 
 
         for i in range(3):
             for j in range(3):
                 if board[i][j] == ' ':
                     board[i][j] = OPPONENT
-                    best = min(best, minimax(board, depth + 1, not is_max))
+                    # best = min(best, minimax(board, depth + 1, not is_max))
+                    best = min(best, minimax(board, depth + 1, not is_max, alpha, beta))    # alpha, beta passing
                     board[i][j] = ' '
 
                     # A-B opmitization: add beta
                     beta = min(beta, best)
                     if beta <= alpha:
-                        return best
+                        break
         return best
 
 
@@ -104,7 +106,8 @@ def find_best_move(board):
     """
     Calculate and return the best position to move
     """
-    best_val = -1000
+    # best_val = -1000
+    best_val = -float('inf')  # Use negative infinity as the initial optimum
     best_move = (-1, -1)
 
     # Iterate through all the grids to see the best place to move
@@ -112,12 +115,16 @@ def find_best_move(board):
         for j in range(3):
             if board[i][j] == ' ':
                 board[i][j] = PLAYER
-                move_val = minimax(board, 0, False)    #  Step 3: minmax
+                # move_val = minimax(board, 0, False)    #  Step 3: minmax
+
+                # Calls to the minimax function now include alpha & beta arguments
+                move_val = minimax(board, 0, False, -float('inf'), float('inf'))
                 board[i][j] = ' '
 
     # Iterate through all the grids to see where the best move is located If this move is evaluated higher, update the best move
                 if move_val > best_val:
                     best_move = (i, j)
                     best_val = move_val
+
 
     return best_move
