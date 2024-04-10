@@ -1,4 +1,10 @@
 # tic_tac_toe/minimax.py
+# 1)基础的minmax算法
+# 2)在基础之上优化minmax算法，带有A-B剪枝【跟踪两个额外的参数 —— alpha 和 beta】
+#   alpha 是到目前为止在最大化层（即 AI 层）找到的最好的移动。
+#   beta 是到目前为止在最小化层（即对手层）找到的最差的移动。
+#   目的是：使得函数能够剪枝那些不可能产生更好结果的分支
+
 # Defining Player Markers
 PLAYER = 'A'
 OPPONENT = 'B'
@@ -46,7 +52,7 @@ def is_moves_left(board):
     return False
 
 
-def minimax(board, depth, is_max):
+def minimax(board, depth, is_max, alpha, beta):        # add alpha & beta
     """
     Minimax
     """
@@ -70,6 +76,11 @@ def minimax(board, depth, is_max):
                     # recursive call minimax
                     best = max(best, minimax(board, depth + 1, not is_max))
                     board[i][j] = ' '  # Undoing a move
+
+                    # A-B opmitization: add alpha
+                    alpha = max(alpha, best)
+                    if beta <= alpha:
+                        return best
         return best
     else:
         best = 1000
@@ -81,6 +92,11 @@ def minimax(board, depth, is_max):
                     board[i][j] = OPPONENT
                     best = min(best, minimax(board, depth + 1, not is_max))
                     board[i][j] = ' '
+
+                    # A-B opmitization: add beta
+                    beta = min(beta, best)
+                    if beta <= alpha:
+                        return best
         return best
 
 
