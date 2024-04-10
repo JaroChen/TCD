@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65dd419a-db38-421c-bb26-594b0b48804e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Assignment_3/tic_tac_toe/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment_3/tic_tac_toe/game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assignment_3/tic_tac_toe/minimax.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment_3/tic_tac_toe/minimax.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -122,7 +123,7 @@
       <option name="presentableId" value="Default" />
       <updated>1712578190294</updated>
       <workItem from="1712578200002" duration="6142000" />
-      <workItem from="1712756277959" duration="5698000" />
+      <workItem from="1712756277959" duration="6007000" />
     </task>
     <servers />
   </component>

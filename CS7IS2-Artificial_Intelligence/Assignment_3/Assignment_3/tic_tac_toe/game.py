@@ -14,10 +14,15 @@
 
 #  10.增加对手的策略(基础防守&必胜策略)，提升对手的智能化【先做10，后做9】
 
+#  11.增加A-B方法，优化minmax算法
+
+#  12.增加用户选择模式(人vs智障、人vs人、智障vs智障)
+
 # from minimax import find_best_move
 import copy
 from Assignment_3.oppoents.tic_tac_toe_oppoent import  opponent_move
 from Assignment_3.utils.common_functions import check_winner
+from Assignment_3.utils.common_functions import get_game_mode
 
 def initialize_board(size=3):
     # return [[' ' for _ in range(3)] for _ in range(3)]
@@ -70,11 +75,25 @@ def undo_move(board_history):
 
 
 def tic_tac_toe():                                               # string methods together
+    mode = get_game_mode()
     board = initialize_board()                                   # step1
     board_history = [copy.deepcopy(board)]                       # Initialize the game history
     current_player = 'A'                                         # Suppose 'A' is a human player and 'B' is an AI.
     while True:
         print_board(board)                                       # step2
+
+        if mode == '1':                                          # Player vs AI
+            if current_player == 'X':
+                player_move(board, current_player)
+            else:
+                ai_move(board, current_player)
+
+        elif mode == '2':  # AI vs AI
+            ai_move(board, current_player)
+
+        elif mode == '3':  # Player vs Player
+            player_move(board, current_player)
+
 
         # Tips: the expansion of the player's operational functions is all here.
         if current_player == 'A':
