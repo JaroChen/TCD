@@ -10,8 +10,10 @@
 
 #  8.增加了minmax方法，合并到主方法中修改
 
+#  9.增加了悔棋的操作
 
 from minimax import find_best_move
+import copy
 
 def initialize_board(size=3):
     # return [[' ' for _ in range(3)] for _ in range(3)]
@@ -68,14 +70,24 @@ def check_winner(board, player):
 def check_draw(board):     # Checking for a tie
     return all(all(cell != ' ' for cell in row) for row in board)
 
+def player_wants_to_undo():
+    answer = input("Would you like to reverse your move? (y/n): ").strip().lower()
+    return answer == 'y'
+
+def undo_move(board_history):
+    if len(board_history) > 1:                                   # Make sure at least one move to regret.
+        return board_history.pop()                               # Remove and return the state of the last move
+    return board_history[0]                                      # If it is not possible to repent, return to the current state
+
 
 def tic_tac_toe():                                               # string methods together
     board = initialize_board()                                   # step1
+    board_history = [copy.deepcopy(board)]                       # Initialize the game history
     current_player = 'A'                                         # Suppose 'A' is a human player and 'B' is an AI.
     while True:
         print_board(board)                                       # step2
 
-        # Player's Turn
+        # Tips: the expansion of the player's operational functions is all here.
         if current_player == 'A':
             move = get_player_move(board)                        # Same as base logic
             if move == (None, None):                             # step3 check it if quit game
@@ -84,13 +96,17 @@ def tic_tac_toe():                                               # string method
             if not make_move(board, row, col, current_player):
                 print("This position is already taken. Choose another one.")
                 continue
+            if player_wants_to_undo():
+                board = undo_move(board_history)
+                continue
             make_move(board, row, col, 'A')
+            board_history.append(copy.deepcopy(board))  # Save current board state
+
+        # AI's turn to find the best move using the Minimax algorithm
         else:
-            # AI's turn to find the best move using the Minimax algorithm
             row, col = find_best_move(board)
             make_move(board, row, col, 'B')
             print(f"AI chose the location {row + 1},{col + 1}")
-
 
         # Check if the game is over
         if check_winner(board, 'A'):
