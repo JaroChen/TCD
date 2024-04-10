@@ -1,4 +1,4 @@
-# Minimax 算法实现，针对 Tic Tac Toe
+# tic_tac_toe/minimax.py
 # Defining Player Markers
 PLAYER = 'A'
 OPPONENT = 'B'

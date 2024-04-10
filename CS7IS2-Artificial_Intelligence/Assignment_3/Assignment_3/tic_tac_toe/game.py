@@ -10,10 +10,13 @@
 
 #  8.增加了minmax方法，合并到主方法中修改
 
-#  9.增加了悔棋的操作
+#  9.增加了悔棋的操作（仅限一步）
 
-from minimax import find_best_move
+#  10.增加对手的策略(基础防守&必胜策略)，提升对手的智能化【先做10，后做9】
+
+# from minimax import find_best_move
 import copy
+from ..oppoents.tic_tac_toe_oppoent import  opponent_move
 
 def initialize_board(size=3):
     # return [[' ' for _ in range(3)] for _ in range(3)]
@@ -104,7 +107,8 @@ def tic_tac_toe():                                               # string method
 
         # AI's turn to find the best move using the Minimax algorithm
         else:
-            row, col = find_best_move(board)
+            # row, col = find_best_move(board)
+            row, col = opponent_move(board,current_player)       #  Pass in the current object of the definition
             make_move(board, row, col, 'B')
             print(f"AI chose the location {row + 1},{col + 1}")
 
@@ -122,7 +126,7 @@ def tic_tac_toe():                                               # string method
             print("It's a tie!")
             break
 
-        current_player = 'B' if current_player == 'A' else 'A'      # Automatic player switching
+        current_player = 'B' if current_player == 'A' else 'A'      # Automatic player switching(Put it in the oppoent file method)
 
 
 if __name__ == "__main__":
