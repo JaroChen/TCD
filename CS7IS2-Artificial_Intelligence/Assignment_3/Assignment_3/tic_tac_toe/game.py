@@ -16,7 +16,9 @@
 
 #  11.增加A-B方法，优化minmax算法
 
-#  12.增加用户选择模式(人vs智障、人vs人、智障vs智障)
+#  12.增加用户选择模式(人vs智障、人vs人、智障vs智障)，并将玩家操作和智障操作，封装成一个方法：player_move和ai_move
+
+#  13.增加一个重新开始的功能
 
 # from minimax import find_best_move
 import copy
@@ -60,6 +62,31 @@ def make_move(board, row, col, player):
     return False
 
 
+def player_move(board, player, board_history):
+    while True:
+        move = get_player_move(board)  # Same as base logic）
+        if move == (None, None):       # check it if quit game
+            return "quit"
+        row, col = move
+        if make_move(board, row, col, player):
+            if player_wants_to_undo():  # 检查是否要悔棋
+                undo_move(board_history)
+                continue
+            board_history.append(copy.deepcopy(board))  # 保存棋盘历史
+            return "continue"
+        else:
+            print("This position is already taken. Choose another one.")
+
+
+def ai_move(board, player, board_history):
+    row, col = opponent_move(board, player)
+    # Perform a move and save the history
+    if make_move(board, row, col, player):
+        print(f"AI ({player}) chose the location {row + 1},{col + 1}")
+        board_history.append(copy.deepcopy(board))
+    else:
+        print("AI attempted to make an invalid move.")
+
 
 def check_draw(board):     # Checking for a tie
     return all(all(cell != ' ' for cell in row) for row in board)
@@ -73,65 +100,98 @@ def undo_move(board_history):
         return board_history.pop()                               # Remove and return the state of the last move
     return board_history[0]                                      # If it is not possible to repent, return to the current state
 
+def ask_for_restart():
+    while True:
+        response = input("Do you want to play again? (y/n): ").strip().lower()
+        if response == 'y':
+            return True
+        elif response == 'n':
+            return False
+        else:
+            print("Please enter 'y' for yes or 'n' for no.")
 
 def tic_tac_toe():                                               # string methods together
-    mode = get_game_mode()
-    board = initialize_board()                                   # step1
-    board_history = [copy.deepcopy(board)]                       # Initialize the game history
-    current_player = 'A'                                         # Suppose 'A' is a human player and 'B' is an AI.
-    while True:
-        print_board(board)                                       # step2
+    while True:                                                  #  add the game if coniute?
+        game_over = False                                            # Marking the end of a game
+        mode = get_game_mode()
+        board = initialize_board()                                   # step1
+        board_history = [copy.deepcopy(board)]                       # Initialize the game history
+        current_player = 'A'                                         # Suppose 'A' is a human player and 'B' is an AI.
+        while True:
+            print_board(board)                                       # step2
 
-        if mode == '1':                                          # Player vs AI
-            if current_player == 'X':
-                player_move(board, current_player)
-            else:
-                ai_move(board, current_player)
+            if mode == '1':                                          # Player vs AI
+                # Tips: the expansion of the player's operational functions is all here.
+                if current_player == 'A':
+                    result = player_move(board, current_player, board_history)
+                    if result == "quit":
+                        game_over = True
+                        break
+                else:
+                    ai_move(board, current_player, board_history)
+            elif mode == '2':                                        # AI vs AI
+                ai_move(board, current_player, board_history)
+            elif mode == '3':                                        # Player vs Player
+                result = player_move(board, current_player, board_history)
+                if result == "quit":
+                    game_over = True
+                    break
 
-        elif mode == '2':  # AI vs AI
-            ai_move(board, current_player)
-
-        elif mode == '3':  # Player vs Player
-            player_move(board, current_player)
 
 
-        # Tips: the expansion of the player's operational functions is all here.
-        if current_player == 'A':
-            move = get_player_move(board)                        # Same as base logic
-            if move == (None, None):                             # step3 check it if quit game
-                break                                            # break the loop
-            row, col = move
-            if not make_move(board, row, col, current_player):
-                print("This position is already taken. Choose another one.")
-                continue
-            if player_wants_to_undo():
-                board = undo_move(board_history)
-                continue
-            make_move(board, row, col, 'A')
-            board_history.append(copy.deepcopy(board))  # Save current board state
 
-        # AI's turn to find the best move using the Minimax algorithm
-        else:
-            # row, col = find_best_move(board)
-            row, col = opponent_move(board,current_player)       #  Pass in the current object of the definition
-            make_move(board, row, col, 'B')
-            print(f"AI chose the location {row + 1},{col + 1}")
+    #  -----------------------------------v 1.0---------------------------------------
+    #         # Tips: the expansion of the player's operational functions is all here.
+    #             if current_player == 'A':
+    #             move = get_player_move(board)                        # Same as base logic
+    #             if move == (None, None):                             # step3 check it if quit game
+    #                 break                                            # break the loop
+    #             row, col = move
+    #             if not make_move(board, row, col, current_player):
+    #                 print("This position is already taken. Choose another one.")
+    #                 continue
+    #             if player_wants_to_undo():
+    #                 board = undo_move(board_history)
+    #                 continue
+    #             make_move(board, row, col, 'A')
+    #             board_history.append(copy.deepcopy(board))  # Save current board state
+    #
+    #         # AI's turn to find the best move using the Minimax algorithm
+    #         else:
+    #             # row, col = find_best_move(board)
+    #             row, col = opponent_move(board,current_player)       #  Pass in the current object of the definition
+    #             make_move(board, row, col, 'B')
+    #             print(f"AI chose the location {row + 1},{col + 1}")
+    #   -----------------------------------v 1.0---------------------------------------
 
-        # Check if the game is over
-        if check_winner(board, 'A'):
-            print_board(board)
-            print("Player wins!")
-            break
-        elif check_winner(board, 'B'):
-            print_board(board)
-            print("AI wins!")
-            break
-        elif check_draw(board):
-            print_board(board)
-            print("It's a tie!")
-            break
 
-        current_player = 'B' if current_player == 'A' else 'A'      # Automatic player switching(Put it in the oppoent file method)
+
+            # Check if the game is over
+            if check_winner(board, 'A'):
+                print_board(board)
+                print("A wins!")
+                game_over = True                            # ask to restart
+                break
+            elif check_winner(board, 'B'):
+                print_board(board)
+                print("B wins!")
+                game_over = True                           # ask to restart
+                break
+            elif check_draw(board):
+                print_board(board)
+                print("It's a tie!")
+                game_over = True                           # ask to restart
+                break
+
+            current_player = 'B' if current_player == 'A' else 'A'      # Automatic player switching(Put it in the oppoent file method)
+
+        if not game_over:                               # If the game doesn't end properly, it doesn't ask whether to restart or not
+             continue
+
+        # Game over, ask to restart
+        if not ask_for_restart():
+            print("Thanks for playing!")
+            break                                       # quit game
 
 
 if __name__ == "__main__":

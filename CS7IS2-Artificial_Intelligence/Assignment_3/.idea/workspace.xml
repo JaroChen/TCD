@@ -7,6 +7,7 @@
     <list default="true" id="65dd419a-db38-421c-bb26-594b0b48804e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/Assignment_3/tic_tac_toe/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment_3/tic_tac_toe/game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assignment_3/tic_tac_toe/minimax.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment_3/tic_tac_toe/minimax.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_3/utils/common_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment_3/utils/common_functions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +124,7 @@
       <option name="presentableId" value="Default" />
       <updated>1712578190294</updated>
       <workItem from="1712578200002" duration="6142000" />
-      <workItem from="1712756277959" duration="6007000" />
+      <workItem from="1712756277959" duration="9683000" />
     </task>
     <servers />
   </component>
@@ -134,6 +135,6 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Assignment_3$game.coverage" NAME="game Coverage Results" MODIFIED="1712764184364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment_3/tic_tac_toe" />
+    <SUITE FILE_PATH="coverage/Assignment_3$game.coverage" NAME="game Coverage Results" MODIFIED="1712776917355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment_3/tic_tac_toe" />
   </component>
 </project>
