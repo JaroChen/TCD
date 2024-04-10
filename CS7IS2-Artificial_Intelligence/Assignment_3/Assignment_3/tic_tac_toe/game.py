@@ -16,7 +16,8 @@
 
 # from minimax import find_best_move
 import copy
-from ..oppoents.tic_tac_toe_oppoent import  opponent_move
+from Assignment_3.oppoents.tic_tac_toe_oppoent import  opponent_move
+from Assignment_3.utils.common_functions import check_winner
 
 def initialize_board(size=3):
     # return [[' ' for _ in range(3)] for _ in range(3)]
@@ -53,21 +54,6 @@ def make_move(board, row, col, player):
         return True
     return False
 
-def check_winner(board, player):
-    # check rows
-    for row in board:
-        if all(s == player for s in row):
-            return True
-    # check cols
-    for col in range(len(board[0])):
-        if all(board[row][col] == player for row in range(len(board))):
-            return True
-    # check diagonals
-    if all(board[i][i] == player for i in range(len(board))):
-        return True
-    if all(board[i][len(board)-i-1] == player for i in range(len(board))):
-        return True
-    return False
 
 
 def check_draw(board):     # Checking for a tie

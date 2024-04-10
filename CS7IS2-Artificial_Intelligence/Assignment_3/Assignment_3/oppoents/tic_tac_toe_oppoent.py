@@ -5,8 +5,8 @@
 # 4)随机移动：如果上述策略都不适用，AI可以选择一个随机的合法移动【这里直接用minmax算法的最优随机移动】
 
 # import random
-from ..tic_tac_toe.game import check_winner
-from ..tic_tac_toe.minimax import find_best_move
+from Assignment_3.utils.common_functions import check_winner
+from Assignment_3.tic_tac_toe.minimax import find_best_move
 
 def find_winning_move(board, player):
     for i in range(3):
