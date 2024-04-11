@@ -59,9 +59,9 @@ def minimax(board, depth, is_max, alpha, beta):        # add alpha & beta
     """
     Minimax
     """
-    global nodes_evaluated
+    # global nodes_evaluated
     # 当前节点将要被评估，因此增加计数器
-    nodes_evaluated += 1
+    # nodes_evaluated += 1
     score = evaluate(board)          # step 1： evaluate
 
     # If the player/opponent has won the board, return the evaluated value
