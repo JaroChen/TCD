@@ -3,7 +3,7 @@ import numpy as np
 from Assignment_3.oppoents.tic_tac_toe_oppoent import opponent_move
 from Assignment_3.utils.common_functions import check_winner as base_check_winner
 from Assignment_3.tic_tac_toe.q_learning import QLearningAgent
-
+from Assignment_3.tic_tac_toe.game_q_environment import TicTacToeEnvironment
 
 class TicTacToe:
     def __init__(self, size=3):
@@ -13,7 +13,14 @@ class TicTacToe:
         self.board_history = [copy.deepcopy(self.board)]
         self.game_mode = self.get_game_mode()
         # self.q_agent = None  # Q-Learning代理初始化为None
-        self.q_agent = QLearningAgent(game=YourGameEnvironment(self))
+        self.environment = TicTacToeEnvironment(size)
+        self.q_agent = QLearningAgent(self.environment)
+
+    def train_and_save_q_agent(self):
+        # 训练 Q-Learning 代理
+        self.q_agent.learn()
+        # 保存学习到的 Q 表
+        self.q_agent.save_policy()
 
     def initialize_board(self, size):
         return [[' ' for _ in range(size)] for _ in range(size)]
@@ -25,9 +32,9 @@ class TicTacToe:
 
     def get_game_mode(self):
         print("Select game mode:")
-        print("1. Player vs AI (Minimax)")
+        print("1. Player vs PlayerAI (Minimax)")
         print("2. AI vs AI (Minimax vs Q-Learning)")
-        print("3. Player vs Player")
+        print("3. Player vs AI (Minimax)")
         print("4. Player vs AI (Q-Learning)")               # 添加 Q 学习模式
         return input("Enter your choice (1/2/3/4): ").strip()
 
@@ -93,7 +100,7 @@ class TicTacToe:
     def q_agent_action(self):
         # Q-Learning代理决定下一步
         state = self.get_current_game_tuple()
-        action = self.q_agent._choose_action(state)
+        action = self.q_agent.choose_action(state)
         row, col = divmod(action, self.size)  # 假设action是一个0到size^2-1的整数
         self.make_move(row, col, 'B')
         print(f"Q-Agent ('B') chose the location {row + 1},{col + 1}")
@@ -113,13 +120,30 @@ class TicTacToe:
         game_over = False
 
         while not game_over:
-            self.print_board()
-            if self.game_mode == '1' or (self.game_mode == '3' and self.current_player == 'A'):
+            # self.print_board()
+            # 玩家A动作
+            if self.game_mode in ['1', '3'] and self.current_player == 'A':
                 if not self.player_action():
                     break
-            elif self.game_mode == '2' or self.current_player == 'B':
-                self.ai_action()
+            # AI的动作，可能是Minimax也可能是Q-Learning
+            elif self.game_mode == '2' or (self.game_mode == '4' ):
+                if self.check_draw() or not self.get_available_positions():  # 检查是否平局或没有可用位置
+                    print("It's a draw!")
+                    game_over = True
+                    continue
+                if self.game_mode == '4':# Q-Learning动作选择
+                    action = self.q_agent.choose_action(self.get_current_game_tuple())
+                    if action is None:
+                        print("No valid action available.")
+                        game_over = True
+                        continue
+                    row, col = divmod(action, self.size)
+                    self.make_move(row, col, self.current_player)
+                else:
+                    # Minimax或其他AI策略
+                    self.ai_action()
 
+            # 检查游戏状态：胜利、平局
             if self.check_winner():
                 self.print_board()
                 print(f"{self.current_player} wins!")
@@ -128,23 +152,12 @@ class TicTacToe:
                 self.print_board()
                 print("It's a draw!")
                 game_over = True
-            if self.game_mode == '4':                        # q_learning
-                self.init_q_agent()
-                while True:
-                    if self.game_mode == '4' and self.current_player == 'B':
-                        # 使用 Q-Learning 代理选择动作
-                        state = self.game.get_current_game_tuple()
-                        action = self.q_agent.choose_action(state)
-                        self.make_move(*action, self.current_player)
-                    else:
-                        # 处理其他模式的逻辑
-                        pass
-                        # self.q_agent_action()
+
             if not game_over:
                 self.switch_player()
 
             if game_over and self.ask_for_restart():
-                game_over = False
+                game_over = False  # 如果用户选择重新开始，重置游戏结束标志
 
 
 if __name__ == "__main__":
