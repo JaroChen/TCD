@@ -4,6 +4,7 @@
 #   alpha 是到目前为止在最大化层（即 AI 层）找到的最好的移动。
 #   beta 是到目前为止在最小化层（即对手层）找到的最差的移动。
 #   目的是：使得函数能够剪枝那些不可能产生更好结果的分支
+# 3)增加了节点数评估，做性能测试用
 
 # Defining Player Markers
 PLAYER = 'A'
@@ -51,11 +52,16 @@ def is_moves_left(board):
                 return True
     return False
 
+# 添加一个全局变量来追踪检查的节点数
+# nodes_evaluated = 0
 
 def minimax(board, depth, is_max, alpha, beta):        # add alpha & beta
     """
     Minimax
     """
+    global nodes_evaluated
+    # 当前节点将要被评估，因此增加计数器
+    nodes_evaluated += 1
     score = evaluate(board)          # step 1： evaluate
 
     # If the player/opponent has won the board, return the evaluated value
