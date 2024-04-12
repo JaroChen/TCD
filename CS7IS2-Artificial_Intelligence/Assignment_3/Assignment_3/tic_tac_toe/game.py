@@ -136,36 +136,6 @@ def tic_tac_toe():                                               # string method
                 if result == "quit":
                     game_over = True
                     break
-
-
-
-
-    #  -----------------------------------v 1.0---------------------------------------
-    #         # Tips: the expansion of the player's operational functions is all here.
-    #             if current_player == 'A':
-    #             move = get_player_move(board)                        # Same as base logic
-    #             if move == (None, None):                             # step3 check it if quit game
-    #                 break                                            # break the loop
-    #             row, col = move
-    #             if not make_move(board, row, col, current_player):
-    #                 print("This position is already taken. Choose another one.")
-    #                 continue
-    #             if player_wants_to_undo():
-    #                 board = undo_move(board_history)
-    #                 continue
-    #             make_move(board, row, col, 'A')
-    #             board_history.append(copy.deepcopy(board))  # Save current board state
-    #
-    #         # AI's turn to find the best move using the Minimax algorithm
-    #         else:
-    #             # row, col = find_best_move(board)
-    #             row, col = opponent_move(board,current_player)       #  Pass in the current object of the definition
-    #             make_move(board, row, col, 'B')
-    #             print(f"AI chose the location {row + 1},{col + 1}")
-    #   -----------------------------------v 1.0---------------------------------------
-
-
-
             # Check if the game is over
             if check_winner(board, 'A'):
                 print_board(board)

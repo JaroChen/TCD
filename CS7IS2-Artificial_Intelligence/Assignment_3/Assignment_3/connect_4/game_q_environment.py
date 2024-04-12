@@ -45,7 +45,7 @@ class ConnectFourEnvironment:
 
     def reset(self):
         """ 重置棋盘为初始状态。 """
-        self.board = np.zeros((self.rows, self.cols), dtype=int)
+        self.board = np.full((self.rows, self.cols), ' ', dtype=str)  # Reset the board to all empty spaces
         # self.current_player = 1
 
     def is_winner(self, player):

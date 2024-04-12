@@ -7,11 +7,11 @@ from Assignment_3.connect_4.q_learning import ConnectFourQLearningAgent
 
 class ConnectFourGame:
     def __init__(self, rows=6, cols=7):
-        self.current_player = 'A'  # 开始时设置初始玩家为 'A'
+        self.current_player = 'A'
         self.environment = ConnectFourEnvironment(rows, cols)
         self.q_agent = ConnectFourQLearningAgent(self.environment)
         self.game_mode = self.get_game_mode()
-        self.is_board_full = self.is_board_full()
+        # self.is_board_full = self.is_board_full()
 
 
     def get_game_mode(self):
@@ -29,34 +29,25 @@ class ConnectFourGame:
             self.current_player = 'A'
 
     def is_board_full(self):
+        # Check if the board is full
         return not np.any(self.board == ' ')
 
     def play_game(self):
-        # self.reset()  # 确保开始新游戏时棋盘是清空的
         game_over = False
-        current_player = 'A'  # Player 'A'
+        current_player = 'A'
 
         while not game_over:
-            self.environment.print_board()               # 打印当前棋盘状态
+            self.environment.print_board()
 
-            if self.game_mode == '1' or (self.game_mode == '3' and current_player == 'A'):  # Player vs Player
+            if self.game_mode in ['1', '3'] and current_player == 'A':  # Player vs Player or Player vs AI
                 move = self.get_player_move(current_player)
-
-            elif self.game_mode == '2' :  # AI vs AI
+            elif self.game_mode == '2' or (self.game_mode == '3' and current_player != 'A'):  # AI
                 move = self.q_agent.choose_action(self.environment.get_current_game_tuple())
                 if move is None:
                     print("No valid move available.")
                     continue
-
-            elif self.game_mode == '3' and current_player == 'A':  # Player vs AI
-                move = self.get_player_move(current_player)
-            else:  # AI move in Player vs AI
-                move = self.q_agent.choose_action(self.environment.get_current_game_tuple())
-                if move is None:
-                    print("No valid move available.")
-                    continue
-
-            if not self.environment.make_move(move, current_player):
+            valid_move = self.environment.make_move(move, current_player)
+            if not valid_move:
                 print("Invalid move. Try again.")
                 continue
 
@@ -65,17 +56,17 @@ class ConnectFourGame:
                 print(f"Player {current_player} wins!")
                 game_over = True
             elif not self.environment.get_available_positions():
-                if self.environment.is_board_full():  # You need to implement this method to check if board is really full
-                    self.environment.print_board()
-                    print("It's a draw!")
-                    game_over = True
+                self.environment.print_board()
+                print("It's a draw!")
+                game_over = True
 
-            current_player = self.switch_player()  # Switch player
+            if not game_over:
+                current_player = self.switch_player()  # change
 
             if game_over and self.ask_for_restart():
                 self.environment.reset()
                 game_over = False
-                current_player = 'A'  # Reset to player 'A'
+                current_player = 'A'  # Reset to player A
 
     def get_player_move(self, player):
         try:

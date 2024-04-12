@@ -84,10 +84,10 @@ def minimax(board, depth, maximizingPlayer, alpha, beta, player):
 def connect_four_automated():
     """ 自动运行 Connect Four 游戏 """
     board = initialize_board()
-    current_player = 'A'
+    current_player = random.choice(['A', 'B'])  # 随机选择起手玩家
     while True:
         best_move = find_best_move(board, current_player)
-        if best_move is None:
+        if best_move is None:     # 没有可行的移动
             print("Game Over. Draw.")
             break
         drop_piece(board, best_move, current_player)
@@ -95,7 +95,7 @@ def connect_four_automated():
         print(board)
         if check_winner(board, current_player):
             print(current_player + " wins!")
-            break
+            return f"{current_player} wins"  # 返回胜利结果
         current_player = 'B' if current_player == 'A' else 'A'
 
 if __name__ == "__main__":

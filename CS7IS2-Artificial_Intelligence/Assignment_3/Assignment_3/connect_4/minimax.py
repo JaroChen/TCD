@@ -54,11 +54,12 @@ def is_moves_left(board):
     return np.any(board == ' ')
 
 
-def minimax(board, depth, is_max, alpha, beta):
+def minimax(board, depth, is_max, alpha, beta, player):
+    # Added maximizing and minimizing players to add different players to win
     """
-    Minimax function with alpha-beta pruning for Connect Four.
+    Minimax function with alpha-beta pruning for Connect Four, dynamically switching players.
     """
-    score = evaluate(board)
+    score = evaluate(board, player)
 
     if score == 1000 or score == -1000:
         return score
@@ -68,11 +69,12 @@ def minimax(board, depth, is_max, alpha, beta):
 
     if is_max:
         best = -np.inf
+        next_player = 'B' if player == 'A' else 'A'  # Switch player
         for c in range(board.shape[1]):
             for r in range(board.shape[0] - 1, -1, -1):
                 if board[r, c] == ' ':
-                    board[r, c] = PLAYER
-                    best = max(best, minimax(board, depth + 1, False, alpha, beta))
+                    board[r, c] = player
+                    best = max(best, minimax(board, depth + 1, False, alpha, beta, next_player))
                     board[r, c] = ' '
                     alpha = max(alpha, best)
                     if beta <= alpha:
@@ -82,11 +84,12 @@ def minimax(board, depth, is_max, alpha, beta):
         return best
     else:
         best = np.inf
+        next_player = 'B' if player == 'A' else 'A'  # Switch player
         for c in range(board.shape[1]):
             for r in range(board.shape[0] - 1, -1, -1):
                 if board[r, c] == ' ':
-                    board[r, c] = OPPONENT
-                    best = min(best, minimax(board, depth + 1, True, alpha, beta))
+                    board[r, c] = player
+                    best = min(best, minimax(board, depth + 1, True, alpha, beta, next_player))
                     board[r, c] = ' '
                     beta = min(beta, best)
                     if beta <= alpha:

@@ -2,7 +2,7 @@ import time
 import tracemalloc
 from Assignment_3.connect_4.game_automated import connect_four_automated, initialize_board
 
-def performance_analysis(games_to_play=1):
+def performance_analysis(games_to_play=2):
     results = {'A_win': 0, 'B_win': 0, 'draw': 0}
     total_time = 0
     total_memory = 0
