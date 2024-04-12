@@ -7,8 +7,9 @@ class ConnectFourEnvironment:
     def __init__(self, rows=6, cols=7):
         self.rows = rows
         self.cols = cols
-        self.board = np.zeros((rows, cols), dtype=int)  # 0 表示空，1 表示玩家 A，-1 表示玩家 B
-        # self.current_player = 1  # 1 代表玩家 'A'
+
+        # self.board = np.zeros((rows, cols), dtype=int)  # 使用数组就是0，1初始化棋盘：0 表示空，1 表示玩家 A，-1 表示玩家 B
+        self.board = np.full((rows, cols), ' ', dtype=str)  # 使用空格初始化棋盘
     def print_board(self):
         """打印当前棋盘的状态，其中0表示空，1表示'A'，-1表示'B'。"""
         print("Current Board:")
@@ -26,11 +27,22 @@ class ConnectFourEnvironment:
 
     def make_move(self, col, player):
         """ 尝试在指定列放置玩家的棋子。 """
-        for row in range(self.rows - 1, -1, -1):
-            if self.board[row, col] == 0:
+        # 使用1.-1来初始化棋盘
+        # for row in range(self.rows - 1, -1, -1):
+        #     if self.board[row, col] == 0:
+        #         self.board[row, col] = player
+        #         return True
+        # return False  # If no space was available in the column
+
+        # 使用A,B来初始化棋盘
+        if player not in ['A', 'B']:
+            raise ValueError("Player must be 'A' or 'B'.")
+        for row in range(self.rows - 1, -1, -1):  # Start checking from the bottom of the column
+            if self.board[row, col] == ' ':  # Check if the spot is empty
                 self.board[row, col] = player
                 return True
-        return False  # If no space was available in the column
+        return False  # Column is full
+
     def reset(self):
         """ 重置棋盘为初始状态。 """
         self.board = np.zeros((self.rows, self.cols), dtype=int)
