@@ -189,7 +189,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="performance_analysis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="performance_analysis_tic_tac_toe_minmax" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Assignment_3" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -203,7 +203,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignment_3/analysis/performance_analysis.py" />
+      <option name="SCRIPT_NAME" value="D:\TCD\CS7IS2-Artificial_Intelligence\Assignment_3\Assignment_3\analysis\performance_analysis_tic_tac_toe_minmax.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -217,7 +217,7 @@
         <item itemvalue="Python.game_q (1)" />
         <item itemvalue="Python.game_qq" />
         <item itemvalue="Python.game (1)" />
-        <item itemvalue="Python.performance_analysis" />
+        <item itemvalue="Python.performance_analysis_tic_tac_toe_minmax" />
         <item itemvalue="Python.game" />
       </list>
     </recent_temporary>

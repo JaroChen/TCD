@@ -51,12 +51,12 @@ def performance_analysis(games_to_play=250):
     print(f"Total memory used: {total_memory / games_to_play} bytes")
     # print(f"Average nodes evaluated per game: {total_nodes_evaluated / games_to_play}")
 
-# 5)稳定性和鲁棒性测试
+# 5)Stability and robustness testing
 def stability_and_robustness_test(games_to_play=10000):
-    # 假设你有一个计数器
+
     game_count = 0
     try:
-        while game_count < games_to_play:
+        while game_count < games_to_play:    # 假设你有一个计数器
             tic_tac_toe_automated()  # 或任何长时间运行的代码
             game_count += 1  # 增加游戏计数
     except Exception as e:

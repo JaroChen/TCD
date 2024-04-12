@@ -1,0 +1,79 @@
+# ConnectFourGame 环境需要实现以下功能：
+# - reset(): 重置游戏到初始状态
+# - get_current_game_tuple(): 获取当前游戏状态的哈希或可哈希表示
+# - get_available_positions(): 返回当前可以放置棋子的列
+# - make_move(column, player): 在指定列执行移动
+# - is_winner(player): 检查指定玩家是否获胜
+
+import numpy as np
+import random
+import pickle
+
+class ConnectFourQLearningAgent:
+    def __init__(self, game, player='A', epsilon=0.9, alpha=0.1, gamma=0.9, episodes=10000):
+        self.game = game
+        self.Q = {}  # Q-table
+        self.epsilon = epsilon  # Exploration rate
+        self.alpha = alpha  # Learning rate
+        self.gamma = gamma  # Discount factor
+        self.episodes = episodes
+        self.player = player  # 'A' or 'B'
+
+    def learn(self):
+        for episode in range(self.episodes):
+            self.game.reset()
+            state = self.game.get_current_game_tuple()
+            done = False
+
+            while not done:
+                available_positions = self.game.get_available_positions()
+                if not available_positions:
+                    break  # 如果没有可用位置，直接跳出循环
+
+                if random.uniform(0, 1) < self.epsilon:
+                    action = random.choice(available_positions)  # Explore
+                else:
+                    action = self._choose_action(state)  # Exploit
+
+                self.game.make_move(action, self.player)
+                next_state = self.game.get_current_game_tuple()
+                reward, done = self._get_reward(next_state)
+
+                old_value = self.Q.get((state, action), 0)
+                next_max = max(self.Q.get((next_state, a), 0) for a in self.game.get_available_positions())
+
+                new_value = (1 - self.alpha) * old_value + self.alpha * (reward + self.gamma * next_max)
+                self.Q[(state, action)] = new_value
+
+                state = next_state
+
+            if self.epsilon > 0.1:
+                self.epsilon *= 0.99
+
+    def choose_action(self, state):
+        actions = self.game.get_available_positions()
+        if not actions:
+            return None
+
+        values = [self.Q.get((state, a), 0) for a in actions]
+        max_value = max(values, default=0)
+        max_actions = [actions[i] for i, v in enumerate(values) if v == max_value]
+        return random.choice(max_actions) if max_actions else None
+
+    def _get_reward(self, next_state):
+        if self.game.is_winner(self.player):
+            return 1, True
+        elif not self.game.get_available_positions():
+            return 0, True
+        else:
+            return 0, False
+
+    def save_policy(self):
+        with open('connect_four_policy.pkl', 'wb') as f:
+            pickle.dump(self.Q, f)
+
+    def load_policy(self):
+        with open('connect_four_policy.pkl', 'rb') as f:
+            self.Q = pickle.load(f)
+
+
