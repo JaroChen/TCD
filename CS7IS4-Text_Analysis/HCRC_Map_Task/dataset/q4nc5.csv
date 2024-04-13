@@ -1,0 +1,621 @@
+conversation_id,transaction_id,transaction_type,move_id,label,map_start_point,map_end_point,timed_units,timed_unit_type,timed_unit_start,timed_unit_end,eyecontact,familiar,map,quad,devscore,f_gaze_type,g_gaze_type
+5,q4nc5.transaction.1,normal,q4nc5.g.move.1,ready,1,2,right,,0.0,0.2759,no,no,m7,4,21,down,down
+5,q4nc5.transaction.1,normal,q4nc5.g.move.2,explain,1,2,ah this is the same one i got with lynn we spent ages on it,,0.5818,5.9608,no,no,m7,4,21,down,down
+5,q4nc5.transaction.1,normal,q4nc5.f.move.3,acknowledge,1,2,oh good stuff,,6.5027,7.2607,no,no,m7,4,21,down,down
+5,q4nc5.transaction.1,normal,q4nc5.g.move.3.5,,1,2,,nonvocal,5.9608,6.6589,no,no,m7,4,21,down,down
+5,q4nc5.transaction.1,normal,q4nc5.f.move.5.5,,1,2,,,7.2607,9.1456,no,no,m7,4,21,down,down
+5,q4nc5.transaction.1,normal,q4nc5.g.move.4,ready,1,2,right,,6.6589,6.9032,no,no,m7,4,21,down,down
+5,q4nc5.transaction.1,normal,q4nc5.g.move.7,query_yn,1,2,the burnt forest the remote village,,9.0076,10.8261,no,no,m7,4,21,down,down
+5,q4nc5.transaction.1,normal,q4nc5.f.move.6,reply_n,1,2,no,lowamp,9.1456,9.5512,no,no,m7,4,21,down,down
+5,q4nc5.transaction.1,normal,q4nc5.f.move.8,reply_n,1,2,no,,10.2942,10.4787,no,no,m7,4,21,down,down
+5,q4nc5.transaction.1,normal,q4nc5.g.move.9,acknowledge,1,2,all right okay,,10.8261,11.3049,no,no,m7,4,21,down,down
+5,q4nc5.transaction.1,normal,q4nc5.f.move.11.5,,1,2,,,10.4787,17.2324,no,no,m7,4,21,down,down
+5,q4nc5.transaction.1,normal,q4nc5.g.move.9.5,,1,2,,,11.3049,12.4617,no,no,m7,4,21,down,down
+5,q4nc5.transaction.1,normal,q4nc5.g.move.12.5,,1,2,,,17.9771,18.0961,no,no,m7,4,21,down,down
+5,q4nc5.transaction.1,normal,q4nc5.f.move.12,acknowledge,1,2,right okay fine yeah,,17.2324,18.371,no,no,m7,4,21,down,down
+5,q4nc5.transaction.1,normal,q4nc5.f.move.13.5,,1,2,,,18.371,19.0409,no,no,m7,4,21,down,down
+5,q4nc5.transaction.1,normal,q4nc5.g.move.13,align,1,2,okay,,18.0962,18.4857,no,no,m7,4,21,down,down
+5,q4nc5.transaction.1,normal,q4nc5.g.move.14.5,,1,2,,nonvocal,18.4857,20.3142,no,no,m7,4,21,down,down
+5,q4nc5.transaction.1,normal,q4nc5.f.move.14,query_yn,1,2,top top left,lowamp,19.0409,20.0067,no,no,m7,4,21,down,down
+5,q4nc5.transaction.1,normal,q4nc5.f.move.15.5,,1,2,,,20.0067,20.8611,no,no,m7,4,21,down,down
+5,q4nc5.transaction.1,normal,q4nc5.g.move.15,reply_y,1,2,uh-huh,,20.3142,20.7662,no,no,m7,4,21,down,down
+5,q4nc5.transaction.1,normal,q4nc5.f.move.16,acknowledge,1,2,yeah,,20.8611,21.0871,no,no,m7,4,21,down,down
+5,q4nc5.transaction.1,normal,q4nc5.g.move.17,uncodable,1,2,oh i'm sure,,20.7663,21.737,no,no,m7,4,21,down,down
+5,q4nc5.transaction.1,normal,q4nc5.g.move.17.9,explain,1,2,oh no i just couldn't do this last time,,23.0469,25.5569,no,no,m7,4,21,down,down
+5,q4nc5.transaction.1,normal,q4nc5.f.move.17.5,,1,2,,,21.0871,25.4322,no,no,m7,4,21,down,down
+5,q4nc5.transaction.1,normal,q4nc5.g.move.18.5,,1,2,,,25.5569,25.7563,no,no,m7,4,21,down,down
+5,q4nc5.transaction.1,normal,q4nc5.f.move.18,align,1,2,top left right where,,25.4322,26.26,no,no,m7,4,21,down,down
+5,q4nc5.transaction.1,normal,q4nc5.f.move.19.5,,1,2,,,26.26,26.7154,no,no,m7,4,21,down,down
+5,q4nc5.transaction.1,normal,q4nc5.g.move.19,ready,1,2,right,,25.7563,25.9524,no,no,m7,4,21,down,down
+5,q4nc5.transaction.1,normal,q4nc5.g.move.20.5,,1,2,,,25.9524,27.2456,no,no,m7,4,21,down,down
+5,q4nc5.transaction.1,normal,q4nc5.f.move.20,uncodable,1,2,ah-- a--,,26.7154,27.0163,no,no,m7,4,21,down,down
+5,q4nc5.transaction.1,normal,q4nc5.f.move.23.5,,1,2,,,29.8583,30.8631,no,no,m7,4,21,down,down
+5,q4nc5.transaction.1,normal,q4nc5.g.move.21,acknowledge,1,2,uh-huh,lowamp,27.2457,27.741,no,no,m7,4,21,down,down
+5,q4nc5.transaction.1,normal,q4nc5.g.move.23,reply_y,1,2,uh-huh that's right,,29.8886,30.6067,no,no,m7,4,21,down,down
+5,q4nc5.transaction.1,normal,q4nc5.f.move.24,acknowledge,1,2,okay,lowamp,30.8631,31.2255,no,no,m7,4,21,down,down
+5,q4nc5.transaction.1,normal,q4nc5.g.move.24.5,,1,2,,,30.6067,31.4545,no,no,m7,4,21,down,down
+5,q4nc5.transaction.1,normal,q4nc5.f.move.29.5,,1,2,,,31.2255,45.2414,no,no,m7,4,21,down,down
+5,q4nc5.transaction.1,normal,q4nc5.g.move.25,ready,1,2,right well,,31.4545,32.0827,no,no,m7,4,21,down,down
+5,q4nc5.transaction.1,normal,q4nc5.g.move.32.5,,1,2,,,50.876,51.3996,no,no,m7,4,21,down,down
+5,q4nc5.transaction.1,normal,q4nc5.f.move.30,acknowledge,1,2,mmhmm,,45.2414,45.7068,no,no,m7,4,21,down,down
+5,q4nc5.transaction.1,normal,q4nc5.f.move.31.5,,1,2,,,45.7069,51.4316,no,no,m7,4,21,down,down
+5,q4nc5.transaction.1,normal,q4nc5.g.move.33,align,1,2,do you know what i mean,lowamp,51.3996,52.2324,no,no,m7,4,21,down,down
+5,q4nc5.transaction.1,normal,q4nc5.g.move.33.5,,1,2,,,52.2324,53.2928,no,no,m7,4,21,down,down
+5,q4nc5.transaction.1,normal,q4nc5.f.move.32,check,1,2,stops horizontally from ravine,,51.4316,53.147,no,no,m7,4,21,down,down
+5,q4nc5.transaction.1,normal,q4nc5.f.move.36.5,,1,2,,,53.147,65.9661,no,no,m7,4,21,down,up
+5,q4nc5.transaction.1,normal,q4nc5.g.move.34,reply_y,1,2,uh-huh,,53.2929,53.8381,no,no,m7,4,21,down,down
+5,q4nc5.transaction.1,normal,q4nc5.g.move.37.5,,1,2,,,65.6964,66.9265,no,no,m7,4,21,down,up
+5,q4nc5.transaction.1,normal,q4nc5.f.move.37,reply_n,1,2,no,,65.9661,66.2354,no,no,m7,4,21,down,up
+5,q4nc5.transaction.1,normal,q4nc5.f.move.38.5,,1,2,,inbreath,66.2354,67.4255,no,no,m7,4,21,down,up
+5,q4nc5.transaction.1,normal,q4nc5.g.move.38,instruct,1,2,in fact you just wa--,,66.9265,67.7177,no,no,m7,4,21,down,up
+5,q4nc5.transaction.1,normal,q4nc5.g.move.39.5,,1,2,,,67.7177,69.5661,no,no,m7,4,21,down,up
+5,q4nc5.transaction.1,normal,q4nc5.f.move.39,check,1,2,so we're stopping d-- below start,,67.4256,69.0247,no,no,m7,4,21,down,up
+5,q4nc5.transaction.1,normal,q4nc5.f.move.40.5,,1,2,,,69.0247,70.0818,no,no,m7,4,21,down,up
+5,q4nc5.transaction.1,normal,q4nc5.g.move.40,reply_y,1,2,uh-huh,,69.5661,70.0315,no,no,m7,4,21,down,up
+5,q4nc5.transaction.1,normal,q4nc5.g.move.41.5,,1,2,,,70.0315,72.0528,no,no,m7,4,21,down,up
+5,q4nc5.transaction.1,normal,q4nc5.f.move.41,check,1,2,and to the to the left of ravine,,70.0818,71.6028,no,no,m7,4,21,down,up
+5,q4nc5.transaction.1,normal,q4nc5.f.move.44.5,,1,2,,,71.6028,75.1929,no,no,m7,4,21,down,up
+5,q4nc5.transaction.1,normal,q4nc5.g.move.42,reply_y,1,2,uh-huh,,72.0528,72.5515,no,no,m7,4,21,down,up
+5,q4nc5.transaction.1,normal,q4nc5.g.move.45.5,,1,2,,,75.1246,75.7995,no,no,m7,4,21,down,up
+5,q4nc5.transaction.1,normal,q4nc5.f.move.45,query_w,1,2,to where,lowamp,75.1929,75.6619,no,no,m7,4,21,down,up
+5,q4nc5.transaction.1,normal,q4nc5.f.move.47.5,,1,2,,,75.6619,80.0499,no,no,m7,4,21,down,up
+5,q4nc5.transaction.1,normal,q4nc5.g.move.46,ready,1,2,right,,75.7995,76.245,no,no,m7,4,21,down,up
+5,q4nc5.transaction.1,normal,q4nc5.g.move.48.5,,1,2,,,79.5595,80.8959,no,no,m7,4,21,down,up
+5,q4nc5.transaction.1,normal,q4nc5.f.move.48,check,1,2,just straight down,,80.0499,80.858,no,no,m7,4,21,down,up
+5,q4nc5.transaction.1,normal,q4nc5.f.move.53.5,,1,2,,,80.8581,82.6064,no,no,m7,4,21,down,up
+5,q4nc5.transaction.1,normal,q4nc5.g.move.49,reply_y,1,2,straight down,,80.8959,81.6804,no,no,m7,4,21,down,up
+5,q4nc5.transaction.1,normal,q4nc5.g.move.54.5,,1,2,,,85.241,86.5608,no,no,m7,4,21,down,up
+5,q4nc5.transaction.1,normal,q4nc5.f.move.54,explain,1,2,to a-- th-- there's i've got a carpenter's cottage,lowamp,82.6064,86.5679,no,no,m7,4,21,down,up
+5,q4nc5.transaction.1,normal,q4nc5.f.move.55.5,,1,2,,,86.5679,86.6938,no,no,m7,4,21,down,up
+5,q4nc5.transaction.1,normal,q4nc5.g.move.55,query_w,1,2,where,lowamp,86.5608,87.1658,no,no,m7,4,21,down,up
+5,q4nc5.transaction.1,normal,q4nc5.g.move.57.5,,1,2,,,87.1658,90.6332,no,no,m7,4,21,down,up
+5,q4nc5.transaction.1,normal,q4nc5.f.move.56,reply_w,1,2,to the left of the ravine,,86.6938,87.8012,no,no,m7,4,21,down,up
+5,q4nc5.transaction.1,normal,q4nc5.f.move.58.5,,1,2,,,90.7451,91.7291,no,no,m7,4,21,down,up
+5,q4nc5.transaction.1,normal,q4nc5.g.move.58,acknowledge,1,2,uh-huh miss that,lowamp,90.6333,91.757,no,no,m7,4,21,down,up
+5,q4nc5.transaction.1,normal,q4nc5.g.move.59.5,,1,2,,,91.757,93.2996,no,no,m7,4,21,down,up
+5,q4nc5.transaction.1,normal,q4nc5.f.move.59,explain,1,2,and just come down to level with the ravine,lowamp,91.7291,93.4175,no,no,m7,4,21,down,up
+5,q4nc5.transaction.1,normal,q4nc5.f.move.61.5,,1,2,,,93.4175,95.8743,no,no,m7,4,21,down,up
+5,q4nc5.transaction.1,normal,q4nc5.g.move.60,acknowledge,1,2,uh-huh,lowamp,93.2996,94.0508,no,no,m7,4,21,down,up
+5,q4nc5.transaction.1,normal,q4nc5.g.move.62.5,,1,2,,,95.7596,96.8567,no,no,m7,4,21,down,up
+5,q4nc5.transaction.1,normal,q4nc5.f.move.62,reply_y,1,2,okay right,,95.8743,97.0312,no,no,m7,4,21,down,up
+5,q4nc5.transaction.1,normal,q4nc5.f.move.63.5,,1,2,,,97.0312,98.853,no,no,m7,4,21,down,up
+5,q4nc5.transaction.1,normal,q4nc5.g.move.63,check,1,2,and it's a vertical line yeah,,96.8567,98.3327,no,no,m7,4,21,down,up
+5,q4nc5.transaction.1,normal,q4nc5.g.move.64.5,,1,2,,,98.3328,99.3501,no,no,m7,4,21,down,up
+5,q4nc5.transaction.1,normal,q4nc5.f.move.64,reply_y,1,2,yeah,,98.853,99.099,no,no,m7,4,21,down,up
+5,q4nc5.transaction.1,normal,q4nc5.f.move.65.5,,1,2,,,99.0991,99.3152,no,no,m7,4,21,down,up
+5,q4nc5.transaction.1,normal,q4nc5.g.move.65,acknowledge,1,2,yeah right that's good,,99.3501,100.251,no,no,m7,4,21,down,up
+5,q4nc5.transaction.1,normal,q4nc5.f.move.66,acknowledge,1,2,mmhmm okay,,99.3152,100.3557,no,no,m7,4,21,down,up
+5,q4nc5.transaction.2,normal,q4nc5.g.move.68,instruct,2,3,"and then you you draw horizontally just and stop where the ""t"" is of forest",,100.8651,108.4757,no,no,m7,4,21,down,up
+5,q4nc5.transaction.2,normal,q4nc5.g.move.70.5,,2,3,,,110.1845,111.147,no,no,m7,4,21,down,up
+5,q4nc5.transaction.2,normal,q4nc5.f.move.70,check,2,3,forest,,109.5479,110.2926,no,no,m7,4,21,down,up
+5,q4nc5.transaction.2,normal,q4nc5.f.move.72.5,,2,3,,,111.742,112.1941,no,no,m7,4,21,down,up
+5,q4nc5.transaction.2,normal,q4nc5.g.move.71,clarify,2,3,burnt forest,,111.147,112.0263,no,no,m7,4,21,down,up
+5,q4nc5.transaction.2,normal,q4nc5.g.move.73.5,,2,3,,,112.0263,113.2995,no,no,m7,4,21,down,up
+5,q4nc5.transaction.2,normal,q4nc5.f.move.73,acknowledge,2,3,so okay fine,,112.1942,113.2713,no,no,m7,4,21,down,up
+5,q4nc5.transaction.2,normal,q4nc5.g.move.74,align,2,3,okay,lowamp,113.2995,113.9977,no,no,m7,4,21,down,up
+5,q4nc5.transaction.2,normal,q4nc5.g.move.75,ready,2,3,and then,lowamp,114.8753,115.7164,no,no,m7,4,21,down,up
+5,q4nc5.transaction.2,normal,q4nc5.f.move.75.5,,2,3,,,113.2713,115.1396,no,no,m7,4,21,down,up
+5,q4nc5.transaction.2,normal,q4nc5.g.move.76.5,,2,3,,,115.7164,118.2796,no,no,m7,4,21,down,up
+5,q4nc5.transaction.2,normal,q4nc5.f.move.76,check,2,3,"so i'm level with ravine and coming across to to the ""t"" of forest",,115.1396,118.735,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.g.move.77,reply_y,3,4,uh-huh that's right and then,lowamp,118.2796,120.3807,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.f.move.78,acknowledge,3,4,okay,,119.9701,120.2959,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.f.move.79.5,,3,4,,,120.2959,121.4927,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.g.move.78.5,,3,4,,,120.3807,120.7596,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.g.move.80.5,,3,4,,,121.624,123.3859,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.f.move.80,check,3,4,so i'm going round the top of the ravine,,121.4927,122.9023,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.f.move.81.5,,3,4,,,122.9023,123.9428,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.g.move.81,reply_y,3,4,uh-huh that's right that's good,,123.3859,125.0016,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.f.move.82,acknowledge,3,4,okay,,123.9428,124.2653,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.f.move.84,acknowledge,3,4,right,,125.0399,125.266,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.g.move.84.5,,3,4,,,125.0016,125.8128,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.f.move.86.5,,3,4,,,125.266,129.7274,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.g.move.85,instruct,3,4,and then horizontal,lowamp,125.8128,127.9737,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.g.move.87.5,,3,4,,,130.0482,130.5003,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.f.move.87,reply_n,3,4,no i don't,,129.7274,130.2294,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.f.move.88.5,,3,4,,,130.2294,131.1037,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.g.move.88,acknowledge,3,4,oh right,,130.5003,131.0655,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.g.move.89.5,,3,4,,,131.0655,131.6106,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.f.move.89,reply_n,3,4,no,,131.1037,131.4129,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.g.move.90,acknowledge,3,4,right that's right i forgot,,131.6106,133.6984,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.f.move.91.5,,3,4,,,131.4129,135.861,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.g.move.90.5,,3,4,,inbreath,133.6984,134.0707,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.g.move.91,align,3,4,right you know where the seagulls are,lowamp,134.0708,135.374,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.f.move.92,reply_y,3,4,yeah,lowamp,135.861,136.26,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.g.move.92.5,,3,4,,,135.374,136.471,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.f.move.94.5,,3,4,,,136.26,141.2134,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.g.move.93,instruct,3,4,well just go up and round the ravine in a,,136.471,139.0043,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.g.move.95.5,,3,4,,,140.5668,143.4291,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.f.move.95,check,3,4,so i'm go-- going a-- across the top of the ravine,,141.2134,143.3643,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.f.move.96.5,,3,4,,,143.3643,143.5338,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.g.move.96,reply_y,3,4,uh-huh,,143.4291,143.9278,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.g.move.97.5,,3,4,,,143.9278,144.7922,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.f.move.97,check,3,4,and down again,lowamp,143.5339,144.4623,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.f.move.99.5,,3,4,,,144.4623,148.543,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.g.move.98,reply_n,3,4,no,,144.7922,145.2708,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.g.move.100.5,,3,4,,,148.4025,152.0262,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.f.move.100,check,3,4,ah-- just straight across in a a horizontal across the top of the ravine,,148.543,151.8674,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.f.move.103.5,,3,4,,,151.8674,156.1493,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.g.move.101,reply_y,3,4,uh-huh that's right,,152.0262,153.1299,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.g.move.104.5,,3,4,,,155.5834,156.7736,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.f.move.104,acknowledge,3,4,okay,,156.1493,156.485,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.f.move.106.5,,3,4,,,156.4851,160.6939,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.g.move.105,align,3,4,okay,lowamp,156.7736,157.4118,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.g.move.107.5,,3,4,,,160.5634,163.3028,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.f.move.107,reply_n,3,4,no i've just gone over the top of the seagulls,,160.6939,162.4044,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.g.move.108,acknowledge,3,4,right that's good that's good,,163.3028,164.586,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.f.move.110.5,,3,4,,,162.4044,174.3242,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.g.move.108.5,,3,4,,,164.586,165.3041,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.g.move.111.5,,3,4,,,175.61,176.4776,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.f.move.111,query_yn,3,4,so what about the pine g-- pine grove have you got that,,174.3242,177.0287,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.f.move.114.5,,3,4,,,177.0287,177.4192,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.g.move.112,acknowledge,3,4,uh-huh,lowamp,176.4776,177.0029,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.g.move.117.5,,3,4,,,177.967,179.2269,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.f.move.115,query_w,3,4,how,,177.4193,177.677,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.f.move.118.5,,3,4,,,179.0084,179.896,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.g.move.118,reply_y,3,4,uh-huh,,179.2269,179.6491,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.g.move.119.5,,3,4,,,179.6492,182.3553,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.f.move.119,query_yn,3,4,and is it above the pine grove the remote village,,179.8961,181.9988,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.f.move.120.5,,3,4,,,181.9988,183.312,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.g.move.120,reply_y,3,4,uh-huh,,182.3553,182.834,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.g.move.121.5,,3,4,,breath,182.834,183.4291,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.f.move.121,query_w,3,4,,breath,,,no,no,m7,4,21,,
+5,q4nc5.transaction.3,normal,q4nc5.f.move.122.5,,3,4,,,183.7029,184.8495,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.g.move.122,clarify,3,4,it's just above the ravine,lowamp,183.4291,184.8154,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.g.move.123.5,,3,4,,,184.8154,185.7064,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.f.move.123,acknowledge,3,4,it's just above the ravine,,184.8495,185.787,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.g.move.124,reply_y,3,4,uh-huh,lowamp,185.7064,186.4909,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.g.move.125.5,,3,4,,,186.4909,187.4517,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.f.move.125,check,3,4,so a-- at the moment i'm going underneath it,lowamp,185.787,187.4942,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.f.move.126.5,,3,4,,,187.4942,187.647,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.g.move.126,reply_y,3,4,uh-huh that's right,,187.4517,188.3593,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.g.move.127.5,,3,4,,,188.3593,188.8979,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.f.move.127,check,3,4,if i've just come across the top of the ravine,,187.6471,189.1531,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.f.move.128.5,,3,4,,,189.1531,189.4605,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.g.move.128,reply_y,3,4,uh-huh,,188.8979,189.3366,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.g.move.129.5,,3,4,,,189.3366,190.9722,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.f.move.129,check,3,4,so i want to head towards the trees,,189.4606,190.9017,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.f.move.130.5,,3,4,,,190.9017,191.6314,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.g.move.130,reply_y,3,4,uh-huh,,190.9723,191.3214,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.g.move.131.5,,3,4,,,191.3214,192.312,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.f.move.131,check,3,4,the pine grove,,191.6314,192.2664,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.f.move.132.5,,3,4,,,192.2664,193.4532,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.g.move.132,reply_y,3,4,uh-huh,,192.312,192.6444,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.g.move.133.5,,3,4,,,192.6445,193.75,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.f.move.133,uncodable,3,4,a--,,193.4532,193.5895,no,no,m7,4,21,down,up
+5,q4nc5.transaction.3,normal,q4nc5.g.move.134,align,3,4,okay,,193.75,194.1471,no,no,m7,4,21,down,up
+5,q4nc5.transaction.4,normal,q4nc5.f.move.135,query_w,4,5,and then whereabouts after that,lowamp,194.2079,195.4911,no,no,m7,4,21,down,up
+5,q4nc5.transaction.4,normal,q4nc5.f.move.137.5,,4,5,,,195.4911,201.4203,no,no,m7,4,21,down,up
+5,q4nc5.transaction.4,normal,q4nc5.g.move.136,instruct,4,5,you go down until just underneath,,195.3507,198.7283,no,no,m7,4,21,down,up
+5,q4nc5.transaction.4,normal,q4nc5.g.move.138.5,,4,5,,breath,200.9523,201.7353,no,no,m7,4,21,down,up
+5,q4nc5.transaction.4,normal,q4nc5.f.move.138,reply_y,4,5,yeah,,201.4203,201.786,no,no,m7,4,21,down,up
+5,q4nc5.transaction.4,normal,q4nc5.f.move.139.5,,4,5,,,201.786,203.2321,no,no,m7,4,21,down,up
+5,q4nc5.transaction.4,normal,q4nc5.g.move.139,instruct,4,5,just go down,lowamp,201.7354,202.814,no,no,m7,4,21,down,up
+5,q4nc5.transaction.4,normal,q4nc5.g.move.140.5,,4,5,,,202.814,208.1365,no,no,m7,4,21,down,up
+5,q4nc5.transaction.4,normal,q4nc5.f.move.140,check,4,5,so i-- i don't i'm going d-- d-- down the left-hand side of pine grove,,203.2321,207.8548,no,no,m7,4,21,down,up
+5,q4nc5.transaction.4,normal,q4nc5.f.move.141.5,,4,5,,,207.8548,209.0483,no,no,m7,4,21,down,up
+5,q4nc5.transaction.4,normal,q4nc5.g.move.141,reply_y,4,5,uh-huh that's right,lowamp,208.1365,209.1671,no,no,m7,4,21,down,up
+5,q4nc5.transaction.4,normal,q4nc5.g.move.142.5,,4,5,,,209.1671,210.6299,no,no,m7,4,21,down,up
+5,q4nc5.transaction.4,normal,q4nc5.f.move.142,check,4,5,"and to to the ""p""",lowamp,209.0483,210.4945,no,no,m7,4,21,down,up
+5,q4nc5.transaction.4,normal,q4nc5.f.move.143.5,,4,5,,,210.4945,211.4436,no,no,m7,4,21,down,up
+5,q4nc5.transaction.4,normal,q4nc5.g.move.143,reply_y,4,5,uh-huh okay,,210.6299,211.9065,no,no,m7,4,21,down,up
+5,q4nc5.transaction.4,normal,q4nc5.g.move.144.5,,4,5,,,211.9065,213.4423,no,no,m7,4,21,down,up
+5,q4nc5.transaction.4,normal,q4nc5.f.move.144,check,4,5,"so i want to be right at the ""p""",lowamp,211.4436,212.662,no,no,m7,4,21,down,up
+5,q4nc5.transaction.4,normal,q4nc5.f.move.145.5,,4,5,,,212.662,215.8552,no,no,m7,4,21,down,up
+5,q4nc5.transaction.4,normal,q4nc5.g.move.145,reply_w,4,5,,,,,no,no,m7,4,21,,
+5,q4nc5.transaction.4,normal,q4nc5.g.move.146.5,,4,5,,,215.3373,216.2249,no,no,m7,4,21,down,up
+5,q4nc5.transaction.4,normal,q4nc5.f.move.146,acknowledge,4,5,right okay,,215.8552,216.3372,no,no,m7,4,21,down,up
+5,q4nc5.transaction.4,normal,q4nc5.f.move.147.5,,4,5,,,216.3373,217.7335,no,no,m7,4,21,down,up
+5,q4nc5.transaction.4,normal,q4nc5.g.move.147,clarify,4,5,about a centimetre away from it okay,,216.2249,218.0135,no,no,m7,4,21,down,up
+5,q4nc5.transaction.4,normal,q4nc5.f.move.148,acknowledge,4,5,right fine okay,lowamp,217.7335,218.5945,no,no,m7,4,21,down,up
+5,q4nc5.transaction.4,normal,q4nc5.g.move.148.5,,4,5,,,218.0135,218.6252,no,no,m7,4,21,down,up
+5,q4nc5.transaction.4,normal,q4nc5.f.move.150.5,,4,5,,,218.5945,223.9536,no,no,m7,4,21,down,up
+5,q4nc5.transaction.4,normal,q4nc5.g.move.149,ready,4,5,uh-huh right ehm,,218.6252,219.7455,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.g.move.150,check,5,6,where you've got something else haven't you underneath the pine grove,,220.7296,224.1107,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.g.move.151.5,,5,6,,,224.1107,225.0598,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.f.move.151,reply_w,5,6,i've got an avalanche,,223.9536,224.9044,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.f.move.152.5,,5,6,,,224.9044,226.3455,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.g.move.152,acknowledge,5,6,uh-huh right well--,lowamp,225.0598,226.9173,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.g.move.153.5,,5,6,,,226.9173,228.3601,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.f.move.153,reply_w,5,6,which is a bit over to the right-hand side,,226.3456,228.1175,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.f.move.154.5,,5,6,,,228.1175,229.5072,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.g.move.154,check,5,6,and down,lowamp,228.3601,229.7564,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.g.move.155.5,,5,6,,,229.7564,229.9459,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.f.move.155,reply_y,5,6,uh-huh,,229.5072,229.8296,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.f.move.156.5,,5,6,,,229.8296,229.9493,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.g.move.156,acknowledge,5,6,right,,229.9459,230.4179,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.f.move.157,reply_y,5,6,yeah,,229.9493,230.192,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.f.move.158.5,,5,6,,,230.192,234.2544,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.g.move.157.5,,5,6,,,230.4179,231.1975,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.g.move.158,query_yn,5,6,okay well and you've got the concealed hideout,lipsmack,231.1976,234.1073,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.f.move.159,reply_y,5,6,yeah i've got that,,234.2545,234.961,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.g.move.159.5,,5,6,,,234.1073,235.4238,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.f.move.160.5,,5,6,,,234.961,237.9546,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.g.move.160,instruct,5,6,well draw a line so you miss out the avalanche,,235.4238,237.824,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.g.move.161.5,,5,6,,,237.824,242.7143,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.f.move.161,query_yn,5,6,sti-- am i going round to the right o-- s-- hand side of the avalan-- the concealed hid-- hideout,,237.9546,242.293,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.f.move.162.5,,5,6,,,242.293,244.2727,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.g.move.162,reply_y,5,6,ehm right,,242.7143,243.715,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.g.move.163.5,,5,6,,,243.715,247.0694,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.f.move.163,query_w,5,6,where do i want to go in relation to the concealed hideout,,244.2728,246.6498,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.f.move.168.5,,5,6,,,246.6498,260.7722,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.g.move.164,reply_w,5,6,you miss out,,247.0694,247.7176,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.g.move.171.5,,5,6,,breath,267.9055,268.4241,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.f.move.169,check,5,6,so i've got to go down to the top of the concealed hideout and then across to the right,lowamp,260.7722,265.5328,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.f.move.175.5,,5,6,,,268.1575,271.329,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.g.move.172,reply_w,5,6,see it's a curvy line,lipsmack,268.4241,270.5351,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.g.move.176.5,,5,6,,,272.1858,274.129,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.f.move.176,check,5,6,but if i if i just go in straight lines to to miss the things,,271.3291,274.0302,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.f.move.177.5,,5,6,,,274.0302,275.4032,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.g.move.177,reply_y,5,6,okay then uh-huh yeah sure,lowamp,274.129,275.6914,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.g.move.178.5,,5,6,,,275.6914,280.1395,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.f.move.178,check,5,6,if i go down to the top of the the concealed hideout and then straight along the top of the concealed hideout,,275.4032,280.6675,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.f.move.179.5,,5,6,,,280.6675,280.8803,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.g.move.179,reply_y,5,6,uh-huh,,280.1395,280.8111,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.g.move.180.5,,5,6,,,280.8111,281.2898,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.f.move.180,query_yn,5,6,is that right,,280.8803,281.2592,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.f.move.181.5,,5,6,,,281.2593,282.0622,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.g.move.181,reply_y,5,6,uh-huh,,281.2898,281.722,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.g.move.182.5,,5,6,,,281.722,282.8324,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.f.move.182,acknowledge,5,6,okay,,282.0622,282.4561,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.f.move.183.5,,5,6,,,282.4561,283.5648,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.g.move.183,align,5,6,okay,lowamp,282.8324,283.2812,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.g.move.184.5,,5,6,,,283.2812,283.6968,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.f.move.184,uncodable,5,6,so i,,283.5648,283.8839,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.f.move.185.5,,5,6,,,283.884,284.8498,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.g.move.185,check,5,6,and you're missing out,,283.6968,284.6276,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.g.move.186.5,,5,6,,,284.6276,287.3768,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.f.move.186,check,5,6,so i miss the bottom of the avalanche i'm going underneath the avalanche,,284.8498,287.3281,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.f.move.187.5,,5,6,,,287.3281,288.4767,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.g.move.187,reply_y,5,6,right that's good,lowamp,287.3769,288.3676,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.g.move.188.5,,5,6,,,288.3676,288.7965,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.f.move.188,acknowledge,5,6,okay,,288.4767,288.8989,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.f.move.189.5,,5,6,,,288.8989,291.8477,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.g.move.189,clarify,5,6,so it's not involved in your line like it's to the right of,,288.7965,291.8965,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.g.move.191.5,,5,6,,,294.7755,294.8603,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.f.move.190,acknowledge,5,6,it's to the right of it's to the right of the line yeah,,291.8477,293.623,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.f.move.193.5,,5,6,,,293.623,302.8069,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.g.move.192,instruct,5,6,so draw round the concealed hideout 'cause it's actually in your line you know what i mean it's to the r-- to the left of your line,,294.8603,301.2067,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.g.move.194.5,,5,6,,,303.0651,306.4401,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.f.move.194,check,5,6,so i've got to go i've got to go down past the concealed hideout,,302.8069,306.1844,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.f.move.195.5,,5,6,,,306.1845,307.6191,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.g.move.195,reply_w,5,6,you just draw round it,,306.4401,307.5133,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.f.move.196,acknowledge,5,6,yeah right okay,lowamp,307.6191,308.4002,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.f.move.197.5,,5,6,,,308.4002,309.5605,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.g.move.197,reply_w,5,6,just draw a wee kind of circle round it,,307.5133,309.3473,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.g.move.198.5,,5,6,,,309.3473,310.1169,no,no,m7,4,21,down,up
+5,q4nc5.transaction.5,normal,q4nc5.f.move.198,acknowledge,5,6,right,,309.5605,309.8703,no,no,m7,4,21,down,up
+5,q4nc5.transaction.6,normal,q4nc5.f.move.200,check,6,7,and then heading,,309.9661,311.1097,no,no,m7,4,21,down,up
+5,q4nc5.transaction.6,normal,q4nc5.g.move.199,align,6,7,okay,,310.1169,310.4693,no,no,m7,4,21,down,up
+5,q4nc5.transaction.6,normal,q4nc5.g.move.200.5,,6,7,,,310.4693,310.8012,no,no,m7,4,21,down,up
+5,q4nc5.transaction.6,normal,q4nc5.f.move.201.5,,6,7,,,311.1097,312.5458,no,no,m7,4,21,down,up
+5,q4nc5.transaction.6,normal,q4nc5.g.move.201,query_yn,6,7,do you know where the boat house is,,310.8012,312.085,no,no,m7,4,21,down,up
+5,q4nc5.transaction.6,normal,q4nc5.g.move.202.5,,6,7,,,312.085,312.9261,no,no,m7,4,21,down,up
+5,q4nc5.transaction.6,normal,q4nc5.f.move.202,reply_y,6,7,yeah,lowamp,312.5458,312.978,no,no,m7,4,21,down,up
+5,q4nc5.transaction.6,normal,q4nc5.f.move.203.5,,6,7,,,312.978,314.3759,no,no,m7,4,21,down,up
+5,q4nc5.transaction.6,normal,q4nc5.g.move.203,query_yn,6,7,have you got one just,,312.9261,314.2093,no,no,m7,4,21,down,up
+5,q4nc5.transaction.6,normal,q4nc5.g.move.204.5,,6,7,,,314.2093,318.6558,no,no,m7,4,21,down,up
+5,q4nc5.transaction.6,normal,q4nc5.f.move.204,reply_w,6,7,it's directly below me now it's to the right of the concealed hideout,,314.376,317.9266,no,no,m7,4,21,down,up
+5,q4nc5.transaction.6,normal,q4nc5.g.move.205,acknowledge,6,7,eh,,318.6558,319.3041,no,no,m7,4,21,down,up
+5,q4nc5.transaction.6,normal,q4nc5.f.move.205.5,,6,7,,,317.9266,319.5605,no,no,m7,4,21,down,up
+5,q4nc5.transaction.6,normal,q4nc5.g.move.206.5,,6,7,,,319.3041,321.2124,no,no,m7,4,21,down,up
+5,q4nc5.transaction.6,normal,q4nc5.f.move.206,explain,6,7,"i'm j-- i'm just i'll tell you where i am i'm at the ""t"" of concealed hideout",,319.5605,322.8435,no,no,m7,4,21,down,up
+5,q4nc5.transaction.6,normal,q4nc5.g.move.207,acknowledge,6,7,uh-huh,,321.2124,321.6179,no,no,m7,4,21,down,up
+5,q4nc5.transaction.6,normal,q4nc5.g.move.209,acknowledge,6,7,good good right well i've got two boathouses right,,322.879,325.8799,no,no,m7,4,21,down,up
+5,q4nc5.transaction.6,normal,q4nc5.f.move.210.5,,6,7,,,322.8435,326.9292,no,no,m7,4,21,down,up
+5,q4nc5.transaction.6,normal,q4nc5.g.move.210,explain,6,7,i think you you've only got one 'cause lynn only had one,,325.88,327.9029,no,no,m7,4,21,down,up
+5,q4nc5.transaction.6,normal,q4nc5.f.move.211,explain,6,7,i've got one and it's on the right-hand side of the page,,326.9292,330.4449,no,no,m7,4,21,down,up
+5,q4nc5.transaction.6,normal,q4nc5.f.move.213,query_w,6,7,ehm which,,331.6749,332.8684,no,no,m7,4,21,down,up
+5,q4nc5.transaction.6,normal,q4nc5.g.move.213.5,,6,7,,,327.9029,332.9594,no,no,m7,4,21,down,up
+5,q4nc5.transaction.6,normal,q4nc5.f.move.214.5,,6,7,,,332.8684,334.6669,no,no,m7,4,21,down,up
+5,q4nc5.transaction.6,normal,q4nc5.g.move.214,query_yn,6,7,is it just below concealed hideout,,332.9594,334.9158,no,no,m7,4,21,down,up
+5,q4nc5.transaction.6,normal,q4nc5.g.move.215.5,,6,7,,nonvocal,334.9159,339.5811,no,no,m7,4,21,down,up
+5,q4nc5.transaction.6,normal,q4nc5.f.move.215,reply_y,6,7,"it's it's directly it's it's directly below the ""t"" of concealed hideout",,334.6669,339.3029,no,no,m7,4,21,down,up
+5,q4nc5.transaction.6,normal,q4nc5.f.move.216.5,,6,7,,,339.3029,341.2477,no,no,m7,4,21,down,up
+5,q4nc5.transaction.6,normal,q4nc5.g.move.216,query_yn,6,7,quite a bit down,lowamp,339.5811,340.6206,no,no,m7,4,21,down,up
+5,q4nc5.transaction.6,normal,q4nc5.g.move.217.5,,6,7,,nonvocal,340.6206,344.7364,no,no,m7,4,21,down,up
+5,q4nc5.transaction.6,normal,q4nc5.f.move.217,reply_n,6,7,ehm not that far it's about wh-- i don't know,,341.2477,344.4059,no,no,m7,4,21,down,up
+5,q4nc5.transaction.6,normal,q4nc5.f.move.218.5,,6,7,,,344.406,345.1257,no,no,m7,4,21,down,up
+5,q4nc5.transaction.6,normal,q4nc5.g.move.218,query_w,6,7,how many,,344.7364,345.122,no,no,m7,4,21,down,up
+5,q4nc5.transaction.6,normal,q4nc5.g.move.219.5,,6,7,,nonvocal,345.122,346.5033,no,no,m7,4,21,down,up
+5,q4nc5.transaction.6,normal,q4nc5.f.move.219,reply_w,6,7,four or five centimetres five centimetres maybe,,345.1257,346.9974,no,no,m7,4,21,down,up
+5,q4nc5.transaction.6,normal,q4nc5.g.move.220,acknowledge,6,7,right okay,,346.5033,347.2929,no,no,m7,4,21,down,up
+5,q4nc5.transaction.6,normal,q4nc5.f.move.227.5,,6,7,,,346.9974,360.0292,no,no,m7,4,21,down,up
+5,q4nc5.transaction.6,normal,q4nc5.g.move.221.5,,6,7,,,347.2929,347.6669,no,no,m7,4,21,down,up
+5,q4nc5.transaction.6,normal,q4nc5.g.move.228.5,,6,7,,,359.6999,360.1021,no,no,m7,4,21,down,up
+5,q4nc5.transaction.6,normal,q4nc5.f.move.228,ready,6,7,so,,360.0292,360.2753,no,no,m7,4,21,down,up
+5,q4nc5.transaction.6,normal,q4nc5.g.move.229,explain,6,7,and it's like ehm,,360.1021,361.0329,no,no,m7,4,21,down,up
+5,q4nc5.transaction.6,normal,q4nc5.f.move.229.5,,6,7,,,360.2753,360.9269,no,no,m7,4,21,down,up
+5,q4nc5.transaction.6,normal,q4nc5.g.move.230.5,,6,7,,,361.033,363.2537,no,no,m7,4,21,down,up
+5,q4nc5.transaction.6,normal,q4nc5.f.move.230,query_yn,6,7,is it in the curvy bay bit,,360.9269,362.1237,no,no,m7,4,21,down,up
+5,q4nc5.transaction.6,normal,q4nc5.f.move.231.5,,6,7,,,362.1237,364.2378,no,no,m7,4,21,down,up
+5,q4nc5.transaction.6,normal,q4nc5.g.move.231,query_w,6,7,in the what,,363.2537,363.8188,no,no,m7,4,21,down,up
+5,q4nc5.transaction.6,normal,q4nc5.g.move.232.5,,6,7,,,363.8189,367.416,no,no,m7,4,21,down,up
+5,q4nc5.transaction.6,normal,q4nc5.f.move.232,align,6,7,see the curvy bay see where it says crane bay and there's a big curve,,364.2378,367.288,no,no,m7,4,21,down,up
+5,q4nc5.transaction.6,normal,q4nc5.f.move.233.5,,6,7,,,367.288,367.7284,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.g.move.233,reply_y,6,7,uh-huh,lowamp,367.416,367.9712,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.g.move.234.5,,6,7,,,367.9712,368.513,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.f.move.234,query_yn,6,7,is it in that bit,,367.7284,368.38,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.f.move.237.5,,6,7,,,368.38,372.8697,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.g.move.235,reply_n,6,7,no it's up it's,,368.513,369.9193,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.g.move.238.5,,6,7,,,372.7999,373.6642,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.f.move.238,check,6,7,it's on the same level,,372.8697,373.7773,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.f.move.239.5,,6,7,,,373.7773,376.1907,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.g.move.239,clarify,6,7,same well kind it's just like a centimetre down,,373.6642,376.559,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.g.move.242.5,,6,7,,breath,376.559,377.1956,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.f.move.240,acknowledge,6,7,below,lowamp,376.1907,376.7294,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.f.move.243.5,,6,7,,,377.5755,378.1338,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.g.move.243,align,6,7,okay,,377.1957,377.8074,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.f.move.244,reply_y,6,7,okay,lowamp,378.1338,378.546,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.g.move.244.5,,6,7,,,377.8074,378.6817,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.f.move.246.5,,6,7,,,378.546,381.7574,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.g.move.245,ready,6,7,right,,378.6817,378.8878,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.g.move.246,align,6,7,so what you do is right you know how you've got crane bay,,378.8878,381.8183,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.f.move.247,reply_y,6,7,uh-huh,,381.7574,382.163,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.g.move.247.5,,6,7,,,381.8183,382.4017,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.f.move.252.5,,6,7,,,382.163,391.671,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.g.move.248,instruct,6,7,and you know how you've got the first right you start off from your right okay and you've,,382.4017,387.3685,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.g.move.254.5,,6,7,,,392.9436,393.2993,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.f.move.253,query_yn,6,7,the of the bay,lowamp,391.671,393.0473,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.f.move.255.5,,6,7,,,393.0473,393.418,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.g.move.255,reply_y,6,7,mmhmm,,393.2993,393.6384,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.g.move.256.5,,6,7,,,393.6384,394.8718,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.f.move.256,query_yn,6,7,the corner of the bay,lowamp,393.418,394.4336,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.g.move.257,reply_y,6,7,uh-huh,,394.8718,395.3971,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.f.move.257.5,,6,7,,,394.4336,395.5008,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.g.move.258.5,,6,7,,,395.3971,396.9063,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.f.move.258,query_yn,6,7,see if i go down to the bay,lowamp,395.5008,396.7192,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.f.move.259.5,,6,7,,,396.7192,397.3708,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.g.move.259,acknowledge,6,7,uh-huh,,396.9063,397.169,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.f.move.260,query_yn,6,7,and just go along the shore will i miss everything,lowamp,397.3708,399.0203,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.g.move.260.5,,6,7,,breath,397.169,400.8093,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.f.move.262.5,,6,7,,,399.0203,403.982,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.g.move.261,ready,6,7,right i'll tell you what right,,400.8093,401.7135,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.g.move.263.5,,6,7,,,403.7215,405.0114,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.f.move.263,reply_y,6,7,"yeah i'm just at ""t"" uh-huh",,403.9821,405.1622,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.f.move.264.5,,6,7,,,405.1622,405.3684,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.g.move.264,acknowledge,6,7,okay,,405.0114,405.5799,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.f.move.265,reply_y,6,7,yeah,,405.3684,405.5761,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.f.move.266.5,,6,7,,,405.5761,410.0077,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.g.move.265.5,,6,7,,,405.5799,406.0453,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.g.move.267.5,,6,7,,,408.9543,410.6365,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.f.move.267,check,6,7,"the ""b"" of bay",lowamp,410.0077,410.8205,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.f.move.268.5,,6,7,,,410.8205,411.0549,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.g.move.268,reply_y,6,7,uh-huh,,410.6365,411.0055,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.f.move.269,reply_y,6,7,okay,,411.0549,411.4405,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.g.move.269.5,,6,7,,,411.0055,411.6505,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.f.move.271.5,,6,7,,,411.4405,415.588,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.g.move.270,ready,6,7,right,,411.6505,411.81,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.g.move.272.5,,6,7,,,415.3938,416.7901,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.f.move.272,check,6,7,"head for ""b"" of bee-- bay",,415.588,417.0863,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.f.move.277.5,,6,7,,,417.0863,417.2691,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.g.move.273,reply_n,6,7,no no no no no no no no,,416.7901,418.0667,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.f.move.278,acknowledge,6,7,oh,,417.2692,417.5551,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.f.move.278.4,,6,7,,,417.5551,427.5018,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.g.move.274.5,,6,7,,breath,418.0667,418.5604,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.g.move.278.5,,6,7,,,428.0933,428.514,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.f.move.278.9,query_w,6,7,concealed,,427.5018,428.2997,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.f.move.280.5,,6,7,,,428.2997,429.3403,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.g.move.279,clarify,6,7,bay,,428.514,428.8313,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.g.move.283.5,,6,7,,,430.3539,430.8193,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.f.move.281,acknowledge,6,7,conc-- hideout uh-huh,,429.3403,430.7532,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.f.move.283,acknowledge,6,7,right,,430.7931,431.1089,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.g.move.284,align,6,7,okay,lowamp,430.8193,431.4776,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.f.move.285,reply_y,6,7,okay,,431.1089,431.581,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.g.move.285.5,,6,7,,breath,431.4776,432.2538,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.f.move.288.5,,6,7,,,431.581,433.9248,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.g.move.286,ready,6,7,right,,432.2539,432.5265,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.g.move.288,align,6,7,right,,433.5155,433.7698,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.f.move.289,acknowledge,6,7,okay,,433.9248,434.2738,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.g.move.289.5,,6,7,,,433.7699,434.5179,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.f.move.290.5,,6,7,,,434.2738,441.5544,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.g.move.290,instruct,6,7,and then draw ehm go over another two centimetres,,434.5179,441.0072,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.g.move.291.5,,6,7,,,441.0072,441.938,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.f.move.291,acknowledge,6,7,okay,,441.5544,441.96,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.f.move.293.5,,6,7,,,441.96,444.7792,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.g.move.292,align,6,7,okay,lowamp,441.938,442.4733,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.g.move.293,instruct,6,7,and stop,,442.8456,443.5438,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.f.move.294,acknowledge,6,7,one two right okay,lowamp,444.7792,445.9427,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.g.move.294.5,,6,7,,,443.5438,445.6881,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.f.move.296.5,,6,7,,,445.9427,450.5903,no,no,m7,4,21,down,down
+5,q4nc5.transaction.6,normal,q4nc5.g.move.295,ready,6,7,okay,,445.6881,445.9723,no,no,m7,4,21,down,down
+5,q4nc5.transaction.7,normal,q4nc5.g.move.296,instruct,7,8,"and then go right down and you should be like vertical with the ""b"" of bay",,445.9723,450.6581,no,no,m7,4,21,down,down
+5,q4nc5.transaction.7,normal,q4nc5.g.move.297.5,,7,8,,,450.6581,451.7452,no,no,m7,4,21,down,down
+5,q4nc5.transaction.7,normal,q4nc5.f.move.297,reply_y,7,8,right that's yeah that's where i,,450.5903,451.7156,no,no,m7,4,21,down,down
+5,q4nc5.transaction.7,normal,q4nc5.f.move.299,check,7,8,"am okay right so i'm coming straight straight down to the ""b"" of",,451.7156,454.4184,no,no,m7,4,21,down,down
+5,q4nc5.transaction.7,normal,q4nc5.g.move.298,acknowledge,7,8,oh that's great that's great,,451.7452,453.0783,no,no,m7,4,21,down,down
+5,q4nc5.transaction.7,normal,q4nc5.g.move.301.5,,7,8,,,454.97,455.2992,no,no,m7,4,21,down,down
+5,q4nc5.transaction.7,normal,q4nc5.f.move.301,acknowledge,7,8,bay right okay,,454.4184,455.2728,no,no,m7,4,21,down,down
+5,q4nc5.transaction.7,normal,q4nc5.f.move.302.5,,7,8,,,455.2728,456.7821,no,no,m7,4,21,down,down
+5,q4nc5.transaction.7,normal,q4nc5.g.move.302,clarify,7,8,but not go through not go uu-uu,,455.2992,457.1774,no,no,m7,4,21,down,down
+5,q4nc5.transaction.7,normal,q4nc5.g.move.304.5,,7,8,,,457.1775,458.7815,no,no,m7,4,21,down,down
+5,q4nc5.transaction.7,normal,q4nc5.f.move.303,ready,7,8,right,,456.7821,456.9782,no,no,m7,4,21,down,down
+5,q4nc5.transaction.7,normal,q4nc5.f.move.305.5,,7,8,,,458.8815,459.194,no,no,m7,4,21,down,down
+5,q4nc5.transaction.7,normal,q4nc5.g.move.305,reply_y,7,8,uh-huh,,458.7815,459.2204,no,no,m7,4,21,down,down
+5,q4nc5.transaction.7,normal,q4nc5.g.move.306.5,,7,8,,,459.2204,460.6232,no,no,m7,4,21,down,down
+5,q4nc5.transaction.7,normal,q4nc5.f.move.306,acknowledge,7,8,right okay,,459.194,459.7359,no,no,m7,4,21,down,down
+5,q4nc5.transaction.7,normal,q4nc5.f.move.307.5,,7,8,,,459.7359,461.0091,no,no,m7,4,21,down,down
+5,q4nc5.transaction.7,normal,q4nc5.g.move.307,query_w,7,8,lake,,460.6232,461.0487,no,no,m7,4,21,down,down
+5,q4nc5.transaction.7,normal,q4nc5.g.move.308.5,,7,8,,,461.0488,462.4384,no,no,m7,4,21,down,down
+5,q4nc5.transaction.7,normal,q4nc5.f.move.308,reply_w,7,8,or the the sea or whatever it is at the bottom,,461.0091,462.8243,no,no,m7,4,21,down,down
+5,q4nc5.transaction.7,normal,q4nc5.g.move.309,acknowledge,7,8,oh right okay,,462.4384,463.0335,no,no,m7,4,21,down,down
+5,q4nc5.transaction.8,normal,q4nc5.g.move.311,ready,8,9,right,,463.331,463.6285,no,no,m7,4,21,down,down
+5,q4nc5.transaction.8,normal,q4nc5.g.move.312,align,8,9,you know that wee curve,lowamp,464.0043,465.1645,no,no,m7,4,21,down,down
+5,q4nc5.transaction.8,normal,q4nc5.f.move.313,reply_y,8,9,uh-huh,lowamp,465.3492,465.685,no,no,m7,4,21,down,down
+5,q4nc5.transaction.8,normal,q4nc5.g.move.313.5,,8,9,,,465.1645,465.7995,no,no,m7,4,21,down,down
+5,q4nc5.transaction.8,normal,q4nc5.f.move.314.5,,8,9,,,465.685,466.9682,no,no,m7,4,21,down,down
+5,q4nc5.transaction.8,normal,q4nc5.g.move.314,instruct,8,9,just draw round it,lowamp,465.7995,466.8483,no,no,m7,4,21,down,down
+5,q4nc5.transaction.8,normal,q4nc5.g.move.315.5,,8,9,,,466.8483,468.2446,no,no,m7,4,21,down,down
+5,q4nc5.transaction.8,normal,q4nc5.f.move.315,acknowledge,8,9,right,,466.9683,467.2509,no,no,m7,4,21,down,down
+5,q4nc5.transaction.8,normal,q4nc5.f.move.317.5,,8,9,,,467.2509,471.9483,no,no,m7,4,21,down,down
+5,q4nc5.transaction.8,normal,q4nc5.g.move.316,align,8,9,okay,,468.2446,468.7931,no,no,m7,4,21,down,down
+5,q4nc5.transaction.8,normal,q4nc5.g.move.318.5,,8,9,,,471.348,473.9842,no,no,m7,4,21,down,down
+5,q4nc5.transaction.8,normal,q4nc5.f.move.318,check,8,9,i'm goi-- going over to the left now,lowamp,471.9483,473.4642,no,no,m7,4,21,down,down
+5,q4nc5.transaction.8,normal,q4nc5.f.move.319.5,,8,9,,,473.4642,474.5796,no,no,m7,4,21,down,down
+5,q4nc5.transaction.8,normal,q4nc5.g.move.319,reply_y,8,9,uh-huh,lowamp,473.9842,474.5394,no,no,m7,4,21,down,down
+5,q4nc5.transaction.8,normal,q4nc5.g.move.320.5,,8,9,,,474.5395,474.8453,no,no,m7,4,21,down,down
+5,q4nc5.transaction.8,normal,q4nc5.f.move.320,acknowledge,8,9,right,,474.5796,474.9303,no,no,m7,4,21,down,down
+5,q4nc5.transaction.8,normal,q4nc5.g.move.321,acknowledge,8,9,that's right,,474.8453,475.2908,no,no,m7,4,21,down,down
+5,q4nc5.transaction.9,normal,q4nc5.g.move.322,query_yn,9,10,have you got a coconut palm,lowamp,476.323,477.5747,no,no,m7,4,21,down,down
+5,q4nc5.transaction.9,normal,q4nc5.g.move.323.5,,9,10,,,477.5747,478.4257,no,no,m7,4,21,down,down
+5,q4nc5.transaction.9,normal,q4nc5.f.move.323,reply_n,9,10,no,,477.5384,477.9872,no,no,m7,4,21,down,down
+5,q4nc5.transaction.9,normal,q4nc5.f.move.325.5,,9,10,,,477.9872,481.3848,no,no,m7,4,21,down,down
+5,q4nc5.transaction.9,normal,q4nc5.g.move.324,acknowledge,9,10,ah sugar,,478.4257,479.3472,no,no,m7,4,21,down,down
+5,q4nc5.transaction.9,normal,q4nc5.g.move.326.5,,9,10,,,481.9415,482.0645,no,no,m7,4,21,down,down
+5,q4nc5.transaction.9,normal,q4nc5.f.move.326,acknowledge,9,10,pebbled shore,unintelligible,481.3848,483.2249,no,no,m7,4,21,down,down
+5,q4nc5.transaction.9,normal,q4nc5.g.move.327,acknowledge,9,10,pebbled shore pe--,,482.0645,483.1204,no,no,m7,4,21,down,down
+5,q4nc5.transaction.9,normal,q4nc5.g.move.329,explain,9,10,i've got bay on the brain,,483.6016,484.8384,no,no,m7,4,21,down,down
+5,q4nc5.transaction.9,normal,q4nc5.f.move.331.5,,9,10,,,483.2249,491.8086,no,no,m7,4,21,down,down
+5,q4nc5.transaction.9,normal,q4nc5.g.move.329.5,,9,10,,,484.8384,485.2756,no,no,m7,4,21,down,down
+5,q4nc5.transaction.9,normal,q4nc5.g.move.332.5,,9,10,,,490.5349,494.2616,no,no,m7,4,21,down,down
+5,q4nc5.transaction.9,normal,q4nc5.f.move.332,explain,9,10,i want to go to the tilled land that looks quite cool,,491.8087,493.8516,no,no,m7,4,21,down,down
+5,q4nc5.transaction.9,normal,q4nc5.f.move.333.5,,9,10,,,493.8516,494.922,no,no,m7,4,21,down,down
+5,q4nc5.transaction.9,normal,q4nc5.g.move.333,query_w,9,10,the what,,494.2616,494.8401,no,no,m7,4,21,down,down
+5,q4nc5.transaction.9,normal,q4nc5.g.move.334.5,,9,10,,,494.8401,497.1539,no,no,m7,4,21,down,down
+5,q4nc5.transaction.9,normal,q4nc5.f.move.334,reply_w,9,10,the tilled land,,494.9221,495.7747,no,no,m7,4,21,down,down
+5,q4nc5.transaction.9,normal,q4nc5.g.move.335,acknowledge,9,10,oh right,,497.1539,497.7506,no,no,m7,4,21,down,down
+5,q4nc5.transaction.9,normal,q4nc5.f.move.335.5,,9,10,,,495.7747,497.0664,no,no,m7,4,21,down,down
+5,q4nc5.transaction.9,normal,q4nc5.g.move.336.5,,9,10,,,497.7506,497.9102,no,no,m7,4,21,down,down
+5,q4nc5.transaction.9,normal,q4nc5.f.move.336,query_yn,9,10,have you got tilled land it's away up the top somewhere,,497.0664,498.9529,no,no,m7,4,21,down,down
+5,q4nc5.transaction.9,normal,q4nc5.f.move.337.5,,9,10,,,498.953,499.7608,no,no,m7,4,21,down,down
+5,q4nc5.transaction.9,normal,q4nc5.g.move.337,reply_w,9,10,it's just totally out of nowhere,,497.9102,499.717,no,no,m7,4,21,down,down
+5,q4nc5.transaction.9,normal,q4nc5.f.move.338,uncodable,9,10,woo,lowamp,499.7608,500.2162,no,no,m7,4,21,down,down
+5,q4nc5.transaction.9,normal,q4nc5.g.move.338.5,,9,10,,,499.717,500.5083,no,no,m7,4,21,down,down
+5,q4nc5.transaction.9,normal,q4nc5.f.move.342.5,,9,10,,,500.2163,506.6625,no,no,m7,4,21,down,down
+5,q4nc5.transaction.9,normal,q4nc5.g.move.339,ready,9,10,right,,500.5083,500.7643,no,no,m7,4,21,down,down
+5,q4nc5.transaction.9,normal,q4nc5.g.move.345.5,,9,10,,,507.6268,508.1421,no,no,m7,4,21,down,down
+5,q4nc5.transaction.9,normal,q4nc5.f.move.343,reply_y,9,10,y-- yeah uh-huh,,506.6625,507.5334,no,no,m7,4,21,down,down
+5,q4nc5.transaction.9,normal,q4nc5.f.move.348.5,,9,10,,,509.1849,509.7833,no,no,m7,4,21,down,down
+5,q4nc5.transaction.9,normal,q4nc5.g.move.346,acknowledge,9,10,uh-huh,,508.1421,508.4646,no,no,m7,4,21,down,down
+5,q4nc5.transaction.9,normal,q4nc5.g.move.348,acknowledge,9,10,uh-huh,,509.3057,509.7146,no,no,m7,4,21,down,down
+5,q4nc5.transaction.9,normal,q4nc5.f.move.349,acknowledge,9,10,right,,509.7833,510.0326,no,no,m7,4,21,down,down
+5,q4nc5.transaction.9,normal,q4nc5.f.move.352,acknowledge,9,10,okay,,510.4648,510.7822,no,no,m7,4,21,down,down
+5,q4nc5.transaction.9,normal,q4nc5.g.move.349.5,,9,10,,,509.7146,510.5839,no,no,m7,4,21,down,down
+5,q4nc5.transaction.9,normal,q4nc5.f.move.352.5,,9,10,,,510.7822,511.9574,no,no,m7,4,21,down,down
+5,q4nc5.transaction.9,normal,q4nc5.g.move.350,ready,9,10,right,,510.5839,510.7979,no,no,m7,4,21,down,down
+5,q4nc5.transaction.9,normal,q4nc5.g.move.353.5,,9,10,,nonvocal,511.7475,512.5553,no,no,m7,4,21,down,down
+5,q4nc5.transaction.9,normal,q4nc5.f.move.353,acknowledge,9,10,draw round that okay,,511.9574,512.8651,no,no,m7,4,21,down,down
+5,q4nc5.transaction.9,normal,q4nc5.f.move.356.5,,9,10,,,512.8651,518.5782,no,no,m7,4,21,down,down
+5,q4nc5.transaction.9,normal,q4nc5.g.move.354,acknowledge,9,10,uh-huh,,512.5553,513.054,no,no,m7,4,21,down,down
+5,q4nc5.transaction.9,normal,q4nc5.g.move.357.5,,9,10,,,518.3615,519.6614,no,no,m7,4,21,down,down
+5,q4nc5.transaction.9,normal,q4nc5.f.move.357,check,9,10,'til i come down to the pebbled shore,,518.5782,519.9878,no,no,m7,4,21,down,down
+5,q4nc5.transaction.9,normal,q4nc5.f.move.359.5,,9,10,,,519.9878,522.0223,no,no,m7,4,21,off,down
+5,q4nc5.transaction.9,normal,q4nc5.g.move.358,reply_y,9,10,uh-huh,lowamp,519.6614,520.087,no,no,m7,4,21,off,down
+5,q4nc5.transaction.9,normal,q4nc5.g.move.359,align,9,10,okay,,521.2039,521.563,no,no,m7,4,21,off,down
+5,q4nc5.transaction.9,normal,q4nc5.f.move.360,reply_y,9,10,okay,,522.0223,522.3846,no,no,m7,4,21,off,down
+5,q4nc5.transaction.10,normal,q4nc5.g.move.361,instruct,10,11,and then draw a horizontal line,,522.4739,525.2598,no,no,m7,4,21,off,down
+5,q4nc5.transaction.10,normal,q4nc5.g.move.362.5,,10,11,,,525.2598,526.7325,no,no,m7,4,21,off,down
+5,q4nc5.transaction.10,normal,q4nc5.f.move.362,query_yn,10,11,so i might go under pebbled shore,,525.2321,526.4671,no,no,m7,4,21,off,down
+5,q4nc5.transaction.10,normal,q4nc5.f.move.363.5,,10,11,,,526.4671,527.1104,no,no,m7,4,21,off,down
+5,q4nc5.transaction.10,normal,q4nc5.g.move.363,reply_n,10,11,no no,,526.7325,527.3874,no,no,m7,4,21,off,down
+5,q4nc5.transaction.10,normal,q4nc5.g.move.365.5,,10,11,,,527.3875,527.6701,no,no,m7,4,21,down,down
+5,q4nc5.transaction.10,normal,q4nc5.f.move.364,check,10,11,above it,lowamp,527.1104,527.5858,no,no,m7,4,21,down,down
+5,q4nc5.transaction.10,normal,q4nc5.f.move.366.5,,10,11,,,527.5858,528.1892,no,no,m7,4,21,down,down
+5,q4nc5.transaction.10,normal,q4nc5.g.move.366,reply_y,10,11,above it,,527.6701,528.1184,no,no,m7,4,21,down,down
+5,q4nc5.transaction.10,normal,q4nc5.g.move.369.5,,10,11,,,529.6548,530.5358,no,no,m7,4,21,down,down
+5,q4nc5.transaction.10,normal,q4nc5.f.move.367,acknowledge,10,11,right,,528.1892,528.4102,no,no,m7,4,21,down,down
+5,q4nc5.transaction.10,normal,q4nc5.f.move.369,acknowledge,10,11,okay,,530.1274,530.4697,no,no,m7,4,21,down,down
+5,q4nc5.transaction.10,normal,q4nc5.g.move.370,align,10,11,okay,,530.5358,530.8881,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.371,check,11,12,you've also got something underneath the pebbled shore haven't you,,531.0976,533.6641,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.374.5,,11,12,,inbreath,533.6641,536.2234,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.374,reply_y,11,12,yeah i've got i've got washed stones,,533.1027,534.7201,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.376.5,,11,12,,laugh,534.7201,536.7497,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.375,acknowledge,11,12,wow,,536.2234,536.9486,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.377.5,,11,12,,inbreath,536.9486,538.0086,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.377,explain,11,12,goodness knows what they are,lowamp,536.7497,537.7603,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.379.5,,11,12,,,537.7603,538.0712,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.378,acknowledge,11,12,lucky you,,538.0086,538.7572,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.380.5,,11,12,,,538.7572,545.8582,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.380,uncodable,11,12,uh,,538.0712,538.1941,no,no,m7,4,21,down,up
+5,q4nc5.transaction.11,normal,q4nc5.g.move.381,uncodable,11,12,oh no,,545.8582,546.696,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.380.1,,11,12,,inbreath,538.1942,542.1403,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.382.5,,11,12,,,546.696,549.2857,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.385.5,,11,12,,,555.8881,556.1666,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.380.2,uncodable,11,12,mm,,542.1403,542.4594,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.380.4,,11,12,,,542.4594,543.6629,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.386,align,11,12,know the flagship,,556.1666,557.2386,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.387.5,,11,12,,,557.2387,558.0848,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.380.9,ready,11,12,well,lowamp,543.6629,544.155,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.388.5,,11,12,,,557.7254,559.831,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.388,align,11,12,well you know the windows of the flagship,,558.0848,560.0928,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.389.5,,11,12,,,560.0928,561.2413,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.389,reply_y,11,12,yeah,,559.831,560.116,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.390.5,,11,12,,,560.116,563.4123,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.390,explain,11,12,ehm it's like,,561.2414,563.1795,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.391.5,,11,12,,,563.1795,564.0605,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.391,query_yn,11,12,level with them,,563.4123,564.0099,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.392.5,,11,12,,,564.0099,566.1914,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.392,acknowledge,11,12,level with them,,564.0605,564.9615,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.395.5,,11,12,,,566.2862,571.8265,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.393,query_yn,11,12,on the shore below b-- is it below any of the letters in pebbled shore,,566.1914,569.7083,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.396.5,,11,12,,,571.6538,578.0328,no,no,m7,4,21,off,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.396,reply_w,11,12,"ehm it's underneath the uh-huh the ""p"" or the it's underneath the the ""e"" and the ""b""",,571.8265,577.493,no,no,m7,4,21,off,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.397.5,,11,12,,,577.493,578.6183,no,no,m7,4,21,off,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.397,acknowledge,11,12,aye i'm going to just,,578.0328,578.8539,no,no,m7,4,21,off,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.398,explain,11,12,so that's where the finish is,,578.6183,580.0174,no,no,m7,4,21,off,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.400.5,,11,12,,,580.2507,582.3517,no,no,m7,4,21,off,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.400,explain,11,12,"going to d-- i'm just going to dodge this i'm going to do a wee ""s"" round here",,578.8539,582.2041,no,no,m7,4,21,off,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.401.5,,11,12,,,582.2041,583.7857,no,no,m7,4,21,off,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.401,acknowledge,11,12,okay,lowamp,582.3517,582.9369,no,no,m7,4,21,off,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.402,explain,11,12,and go down to the,,583.7858,584.4606,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.402.5,,11,12,,,582.9369,584.4029,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.404.5,,11,12,,,584.4606,588.6478,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.403,ready,11,12,you go but don't right,,584.4029,586.2679,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.405.5,,11,12,,,588.6931,590.1459,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.405,reply_y,11,12,uh-huh,,588.6478,589.05,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.406.5,,11,12,,laugh,589.0501,591.7595,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.406,uncodable,11,12,ha ha,,590.1459,590.7277,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.407,uncodable,11,12,,,,,no,no,m7,4,21,,
+5,q4nc5.transaction.11,normal,q4nc5.g.move.407.5,,11,12,,,590.7277,592.7294,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.408.5,,11,12,,,592.3247,597.7951,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.408,instruct,11,12,put them to the ehm oh to the thingy the right of the line,lowamp,592.7294,597.3816,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.409.5,,11,12,,,597.3816,598.4488,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.409,check,11,12,to the right of the line,,597.7951,598.5713,no,no,m7,4,21,off,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.410.5,,11,12,,,598.5713,598.804,no,no,m7,4,21,off,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.410,reply_y,11,12,uh-huh,,598.4488,598.7979,no,no,m7,4,21,off,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.412.5,,11,12,,,598.7979,600.51,no,no,m7,4,21,off,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.411,acknowledge,11,12,right i'll do it,,598.804,599.3609,no,no,m7,4,21,off,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.415.5,,11,12,,,601.7662,603.6012,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.413,acknowledge,11,12,okay and go,,600.51,601.5787,no,no,m7,4,21,off,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.416.5,,11,12,,,602.6676,604.3032,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.416,query_w,11,12,and go round what,,603.6013,604.2262,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.419.5,,11,12,,,604.2263,604.7732,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.417,reply_w,11,12,the pebbled shore as well,,604.3032,605.3969,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.420.5,,11,12,,,605.3969,606.258,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.420,acknowledge,11,12,i've go-- i've gone round that uh-huh,lowamp,604.7732,606.1362,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.421.5,,11,12,,,606.1362,606.3822,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.421,acknowledge,11,12,uh-huh,,606.258,606.6004,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.422.5,,11,12,,,606.6004,607.0911,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.422,acknowledge,11,12,yeah yeah,,606.3822,606.9881,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.423.5,,11,12,,,606.9881,608.5922,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.423,clarify,11,12,but you go round your washed stones,,607.0911,609.4528,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.426.5,,11,12,,,609.4528,609.6307,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.424,explain,11,12,washed stones,,608.5922,609.247,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.427.5,,11,12,,laugh,609.6128,611.2916,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.427,clarify,11,12,"""e"" they should be to the right",,609.6307,611.258,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.428.5,,11,12,,,611.258,611.8937,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.428,acknowledge,11,12,okay,,611.2916,611.7965,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.430.5,,11,12,,,611.7965,615.0877,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.429,clarify,11,12,so you should have like you take a wide line,,611.8937,614.0879,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.431.5,,11,12,,,615.293,616.1839,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.431,reply_y,11,12,yeah i-- yeah i've got it uh-huh,,615.0877,616.1183,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.432.5,,11,12,,,616.1183,616.2795,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.432,query_yn,11,12,have you got a wide line,,616.1839,617.0733,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.435.5,,11,12,,,617.0733,617.527,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.433,reply_y,11,12,yeah,,616.2795,616.5189,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.440.5,,11,12,,,622.1389,625.8872,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.436,query_yn,11,12,yeah are you at finish,,617.5271,618.915,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.441.5,,11,12,,,625.5623,626.3764,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.441,reply_y,11,12,yeah uh-huh that's that's okay yeah,,625.8872,627.3783,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.444.5,,11,12,,,627.3783,628.374,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.442,acknowledge,11,12,oh that's great,,626.3764,627.0467,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.445.5,,11,12,,,628.187,629.0297,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.445,reply_y,11,12,yeah got it,,628.374,628.9076,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.447.5,,11,12,,,628.9076,629.0605,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.446,acknowledge,11,12,right okay,phongesture,629.0297,629.9456,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.450,acknowledge,11,12,mmhmm,,629.0605,629.2916,no,no,m7,4,21,down,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.450.1,,11,12,,,629.2916,630.1708,no,no,m7,4,21,up,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.446.5,,11,12,,,629.9456,629.9639,no,no,m7,4,21,up,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.450.5,,11,12,,,630.3413,630.8997,no,no,m7,4,21,up,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.450.2,check,11,12,we're there,lowamp,630.1708,630.6978,no,no,m7,4,21,up,down
+5,q4nc5.transaction.11,normal,q4nc5.f.move.450.3,check,11,12,we've finished,,630.6978,631.2048,no,no,m7,4,21,up,down
+5,q4nc5.transaction.11,normal,q4nc5.g.move.451,reply_y,11,12,uh-huh that's it finished,,630.8998,632.0798,no,no,m7,4,21,up,down

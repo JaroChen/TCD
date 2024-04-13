@@ -1,0 +1,229 @@
+conversation_id,transaction_id,transaction_type,move_id,label,map_start_point,map_end_point,timed_units,timed_unit_type,timed_unit_start,timed_unit_end,eyecontact,familiar,map,quad,devscore,f_gaze_type,g_gaze_type
+4,q3ec4.transaction.1,normal,q3ec4.f.move.1,query_w,1,2,ah where do i start ross,,0.1552,1.4892,yes,yes,m1,3,154,up,down
+4,q3ec4.transaction.1,normal,q3ec4.f.move.2.5,,1,2,,,1.4892,8.7516,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.1,normal,q3ec4.g.move.2,reply_w,1,2,the start is ah here it's due north of the crest at the bottom right-hand side of your page,,1.7297,8.8892,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.1,normal,q3ec4.f.move.3,acknowledge,1,2,oh right i've got it see it anyway right,,8.7516,11.049,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.1,normal,q3ec4.g.move.3.5,,1,2,,,8.8892,10.5104,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.1,normal,q3ec4.f.move.4.5,,1,2,,,11.049,18.9652,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.1,normal,q3ec4.g.move.4,instruct,1,2,right ehm go just beyond the crest to to y-- well it's my left anyway mmhmm i think it,,10.5104,19.2982,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.1,normal,q3ec4.g.move.5.5,,1,2,,,19.2982,19.8782,yes,yes,m1,3,154,down,up
+4,q3ec4.transaction.1,normal,q3ec4.f.move.5,explain,1,2,be my left as well,,18.9652,19.8543,yes,yes,m1,3,154,down,up
+4,q3ec4.transaction.1,normal,q3ec4.f.move.8.5,,1,2,,,19.8543,23.2874,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.1,normal,q3ec4.g.move.6,acknowledge,1,2,t-- ah yeah,,19.8782,20.5031,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.1,normal,q3ec4.g.move.9.5,,1,2,,,22.854,24.6811,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.1,normal,q3ec4.f.move.9,acknowledge,1,2,west,,23.2874,23.6865,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.1,normal,q3ec4.f.move.10.5,,1,2,,,23.6865,30.2798,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.1,normal,q3ec4.g.move.10,instruct,1,2,,,,,yes,yes,m1,3,154,,
+4,q3ec4.transaction.1,normal,q3ec4.g.move.11.5,,1,2,,,29.5243,33.4986,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.1,normal,q3ec4.f.move.11,query_w,1,2,how far do west do you want me go,,30.2798,31.7661,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.1,normal,q3ec4.f.move.12.5,,1,2,,,31.7661,34.941,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.1,normal,q3ec4.g.move.12,clarify,1,2,,,,,yes,yes,m1,3,154,,
+4,q3ec4.transaction.1,normal,q3ec4.g.move.13.5,,1,2,,,34.967,36.918,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.1,normal,q3ec4.f.move.13,acknowledge,1,2,right okay yes,,34.941,37.2523,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.1,normal,q3ec4.f.move.15.5,,1,2,,,37.2524,46.5102,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.1,normal,q3ec4.g.move.14,clarify,1,2,,,,,yes,yes,m1,3,154,,
+4,q3ec4.transaction.1,normal,q3ec4.g.move.15,align,1,2,that sounded like a long line ken,,44.1404,45.6444,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.1,normal,q3ec4.f.move.16,reply_w,1,2,just the bottom,,46.5102,47.1489,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.1,normal,q3ec4.g.move.16.5,,1,2,,,45.6444,46.6039,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.1,normal,q3ec4.f.move.18.5,,1,2,,,47.1489,59.1412,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.1,normal,q3ec4.g.move.17,ready,1,2,it's right ehm,,46.6039,48.5671,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.2,normal,q3ec4.g.move.18,instruct,2,3,go right along to about an inch from the end of the paper,lowamp,49.0121,53.0231,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.2,normal,q3ec4.f.move.19,acknowledge,2,3,right,,59.1412,59.4403,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.3,normal,q3ec4.g.move.20,instruct,3,4,go north and go north due north and proceed east over the footbridge just over it stop at the end of the footbridge,,60.2031,73.1343,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.3,normal,q3ec4.g.move.21.5,,3,4,,,73.1343,75.8038,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.3,normal,q3ec4.f.move.21,check,3,4,east over the footbridge,,74.0078,74.9904,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.3,normal,q3ec4.f.move.23.5,,3,4,,,74.9904,77.1499,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.3,normal,q3ec4.g.move.22,reply_y,3,4,yeah,,75.8038,76.0054,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.3,normal,q3ec4.g.move.24.5,,3,4,,,77.0933,77.7629,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.3,normal,q3ec4.f.move.24,acknowledge,3,4,right,,77.1499,77.3193,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.4,normal,q3ec4.g.move.25,acknowledge,4,5,ah right,,77.763,78.0169,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.4,normal,q3ec4.f.move.26.5,,4,5,,,77.3193,82.0232,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.4,normal,q3ec4.g.move.25.5,,4,5,,,78.0169,79.5313,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.4,normal,q3ec4.g.move.28.5,,4,5,,,83.1519,83.2552,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.4,normal,q3ec4.f.move.27,reply_n,4,5,no,,82.0232,82.1921,yes,yes,m1,3,154,down,up
+4,q3ec4.transaction.4,normal,q3ec4.g.move.29,acknowledge,4,5,right,,83.2552,83.4901,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.4,normal,q3ec4.f.move.30.5,,4,5,,,82.1921,89.0969,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.4,normal,q3ec4.g.move.29.5,,4,5,,,83.4901,83.7677,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.4,normal,q3ec4.g.move.31.5,,4,5,,,89.0483,90.4124,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.4,normal,q3ec4.f.move.31,acknowledge,4,5,two inches right,,89.0969,90.3537,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.4,normal,q3ec4.f.move.32.5,,4,5,,,90.3537,93.9872,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.4,normal,q3ec4.g.move.32,instruct,4,5,just ehm just about an inch above the starting cross,,90.4124,93.8057,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.4,normal,q3ec4.f.move.33,acknowledge,4,5,right that's okay,,93.9872,95.0925,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.5,normal,q3ec4.g.move.34,query_yn,5,6,then do you have the old temple,lowamp,95.2402,96.9662,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.5,normal,q3ec4.g.move.35.5,,5,6,,,96.9662,97.5997,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.5,normal,q3ec4.f.move.35,reply_y,5,6,yes,,97.2307,97.6171,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.5,normal,q3ec4.g.move.36,acknowledge,5,6,right,,97.5997,97.8889,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.5,normal,q3ec4.f.move.37.5,,5,6,,,97.6171,106.2405,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.5,normal,q3ec4.g.move.36.5,,5,6,,,97.889,98.3567,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.5,normal,q3ec4.g.move.40.5,,5,6,,,107.4795,108.9587,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.5,normal,q3ec4.f.move.38,check,5,6,do you go m-- go right,,106.2405,107.4362,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.5,normal,q3ec4.f.move.42.5,,5,6,,,108.4622,119.2756,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.5,normal,q3ec4.g.move.41,reply_y,5,6,ah yeah,lowamp,108.9587,109.6835,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.5,normal,q3ec4.g.move.42,clarify,5,6,and go up to the left of the north temple of the old temple go north to the left of the old temple,,111.3271,119.0143,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.6,normal,q3ec4.f.move.43,acknowledge,6,7,right,,119.2756,119.4928,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.6,normal,q3ec4.f.move.45.5,,6,7,,,119.4928,126.7519,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.6,normal,q3ec4.g.move.44,instruct,6,7,"go keep going up 'til you're about an inch below the ""x"" marks finish",,119.3805,125.6036,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.6,normal,q3ec4.g.move.47.5,,6,7,,,126.7031,128.0786,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.6,normal,q3ec4.f.move.46,explain,6,7,"i don't have ""x"" marks finished",,126.752,127.9804,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.6,normal,q3ec4.g.move.48,acknowledge,6,7,right,lowamp,128.0786,128.3225,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.6,normal,q3ec4.g.move.48.5,,6,7,,,128.3225,128.4797,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.6,normal,q3ec4.f.move.47,query_w,6,7,how far above the old temple,,127.9804,129.2679,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.6,normal,q3ec4.f.move.50.5,,6,7,,,129.2679,130.6521,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.6,normal,q3ec4.g.move.49,align,6,7,can you see the remote village,lowamp,128.4797,129.8057,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.6,normal,q3ec4.g.move.51.5,,6,7,,,129.8057,131.3922,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.6,normal,q3ec4.f.move.51,reply_y,6,7,yeah,lowamp,130.6521,130.877,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.6,normal,q3ec4.f.move.52.5,,6,7,,,130.877,132.8838,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.6,normal,q3ec4.g.move.52,query_yn,6,7,do you have the remote village,,131.3922,132.62,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.6,normal,q3ec4.g.move.53.5,,6,7,,,132.62,135.867,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.6,normal,q3ec4.f.move.53,align,6,7,so this about ten inch line from the where i am just now,,132.8838,135.9948,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.6,normal,q3ec4.f.move.55.5,,6,7,,,135.9948,139.9104,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.6,normal,q3ec4.g.move.54,reply_n,6,7,ten inches get away i don't know if i'd say that,,135.867,137.7918,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.6,normal,q3ec4.g.move.56.5,,6,7,,,139.1353,140.8385,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.6,normal,q3ec4.f.move.56,reply_y,6,7,right aye,,139.9104,140.387,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.6,normal,q3ec4.f.move.58.5,,6,7,,,140.387,148.7658,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.6,normal,q3ec4.g.move.57,acknowledge,6,7,right,,140.8385,141.0686,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.6,normal,q3ec4.g.move.58,explain,6,7,well see ah about an inch above the abandoned truck that is where you should be,,141.1388,144.9886,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.6,normal,q3ec4.f.move.59,acknowledge,6,7,right okay,,148.7658,149.2712,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.7,normal,q3ec4.g.move.60,ready,7,8,now are y--,,150.0883,150.5608,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.7,normal,q3ec4.g.move.62.5,,7,8,,,157.3884,162.622,yes,yes,m1,3,154,down,up
+4,q3ec4.transaction.7,normal,q3ec4.f.move.62,check,7,8,how far right to my my left,,160.3926,162.2091,yes,yes,m1,3,154,down,up
+4,q3ec4.transaction.7,normal,q3ec4.f.move.63.5,,7,8,,,162.2091,170.1824,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.7,normal,q3ec4.g.move.63,clarify,7,8,go to your left 'til you're uh ah until you're level and then south so that you're just underneath it you should be above it,lowamp,162.6221,169.347,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.7,normal,q3ec4.g.move.64.5,,7,8,,,169.347,172.5522,yes,yes,m1,3,154,down,up
+4,q3ec4.transaction.7,normal,q3ec4.f.move.64,check,7,8,so i do i go to the left of the abandoned truck,,170.1824,171.8504,yes,yes,m1,3,154,down,up
+4,q3ec4.transaction.7,normal,q3ec4.f.move.65.5,,7,8,,,171.8504,184.2863,yes,yes,m1,3,154,down,up
+4,q3ec4.transaction.7,normal,q3ec4.g.move.65,clarify,7,8,you go to your left obviously yes 'cause that's where the abandoned truck is now south so that you're just underneath it and just go to the end of the abandoned truck,lowamp,172.5522,182.0293,yes,yes,m1,3,154,down,up
+4,q3ec4.transaction.7,normal,q3ec4.g.move.66.5,,7,8,,,182.0293,185.8403,yes,yes,m1,3,154,down,up
+4,q3ec4.transaction.7,normal,q3ec4.f.move.66,acknowledge,7,8,right,,184.2863,184.4295,yes,yes,m1,3,154,down,up
+4,q3ec4.transaction.8,review,q3ec4.g.move.67,query_yn,7,8,now do you have baboons,lowamp,185.8403,187.2616,yes,yes,m1,3,154,down,up
+4,q3ec4.transaction.8,review,q3ec4.g.move.68.5,,7,8,,,187.2616,191.9822,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.8,review,q3ec4.f.move.68,query_yn,7,8,no right do i i i stop before i reach the abandoned truck or after reach the abandoned truck,,186.8099,191.4864,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.8,review,q3ec4.f.move.70.5,,7,8,,,191.4864,197.9746,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.8,review,q3ec4.g.move.69,clarify,7,8,stop after you reach the aba-- just just right after you've gone under it,,191.9822,196.1099,yes,yes,m1,3,154,up,down
+4,q3ec4.transaction.8,review,q3ec4.g.move.72.5,,7,8,,,196.4974,202.2756,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.8,review,q3ec4.f.move.71,reply_y,7,8,right okay right,,197.9746,199.2708,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.8,review,q3ec4.f.move.76.5,,7,8,,,203.5761,205.1164,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.8,review,q3ec4.g.move.73,reply_y,7,8,oh yeah,,202.2756,202.5872,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.8,review,q3ec4.g.move.76,clarify,7,8,you go down and then you go left,,203.6334,205.0501,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.9,normal,q3ec4.g.move.78,query_yn,8,9,right an-- you you y-- right uh ye-- i don't suppose you've got the balloons the baboons,,205.0501,210.8825,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.9,normal,q3ec4.g.move.79.5,,8,9,,,210.8825,213.3938,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.9,normal,q3ec4.f.move.77,acknowledge,8,9,right okay let me cross this bit,,205.1164,206.3127,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.9,normal,q3ec4.f.move.79,reply_n,8,9,i haven't got any baboons no,,211.0542,212.1488,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.9,normal,q3ec4.g.move.80,acknowledge,8,9,ehm,,213.3938,213.7489,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.9,normal,q3ec4.f.move.82.5,,8,9,,,212.1489,218.8337,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.9,normal,q3ec4.g.move.80.5,,8,9,,,213.7489,214.0344,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.9,normal,q3ec4.g.move.83.5,,8,9,,,218.7053,219.2059,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.9,normal,q3ec4.f.move.83,reply_y,8,9,right,,218.8337,219.077,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.9,normal,q3ec4.f.move.85.5,,8,9,,,219.077,223.6127,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.9,normal,q3ec4.g.move.84,instruct,8,9,'til you're about an inch above the path that you took to the footbridge,,219.2059,221.8031,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.9,normal,q3ec4.g.move.86.5,,8,9,,,222.3014,224.5091,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.9,normal,q3ec4.f.move.86,reply_y,8,9,aye,,223.6127,223.8363,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.10,normal,q3ec4.g.move.87,acknowledge,9,10,right,,224.5092,224.7246,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.10,normal,q3ec4.g.move.89.5,,9,10,,,228.2266,229.1518,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.10,normal,q3ec4.f.move.89,acknowledge,9,10,right,,228.686,228.9304,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.10,normal,q3ec4.f.move.90.5,,9,10,,,228.9304,231.9637,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.10,normal,q3ec4.g.move.90,instruct,9,10,to the edge of the page,lowamp,229.1518,230.2238,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.10,normal,q3ec4.f.move.91,acknowledge,9,10,right,,231.9637,232.1691,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.11,normal,q3ec4.g.move.92,query_yn,10,11,do you have the white mountain,,233.1037,234.0496,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.11,normal,q3ec4.g.move.93.5,,10,11,,,234.0496,235.5558,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.11,normal,q3ec4.f.move.93,reply_y,10,11,uh-huh,,234.578,234.8332,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.11,normal,q3ec4.g.move.94,acknowledge,10,11,right,,235.5558,235.7743,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.11,normal,q3ec4.f.move.95.5,,10,11,,,234.8333,238.9294,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.11,normal,q3ec4.g.move.94.5,,10,11,,,235.7743,235.8668,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.11,normal,q3ec4.g.move.96.5,,10,11,,,237.6513,239.7205,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.11,normal,q3ec4.f.move.96,check,10,11,right to the top,,238.9294,239.6661,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.11,normal,q3ec4.g.move.97,reply_y,10,11,yeah,,239.7205,239.9805,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.12,normal,q3ec4.g.move.98,query_yn,11,12,ehm do you have pyramid,lowamp,242.4321,245.1257,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.12,normal,q3ec4.f.move.99,reply_y,11,12,yes,,245.8199,246.1908,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.12,normal,q3ec4.g.move.99.5,,11,12,,,245.1257,246.8091,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.12,normal,q3ec4.f.move.100.5,,11,12,,,246.1908,258.8944,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.12,normal,q3ec4.g.move.100,instruct,11,12,come right to the page come right along and just go round the pyramid go round it and then under it so and then stop just at the just after you've been under the pyramid,,246.8091,257.9951,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.12,normal,q3ec4.f.move.101,acknowledge,11,12,right got you,,258.8944,259.4804,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.13,review,q3ec4.g.move.102,query_yn,11,12,right do you have the cobbled street,,261.3872,262.7199,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.13,review,q3ec4.f.move.103,reply_n,11,12,no,,264.6866,264.8537,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.13,review,q3ec4.g.move.103.5,,11,12,,,262.72,265.64,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.13,review,q3ec4.f.move.104.5,,11,12,,,264.8538,266.8518,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.13,review,q3ec4.g.move.104,query_yn,11,12,do you have the remote village,,265.6401,266.6758,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.13,review,q3ec4.g.move.105.5,,11,12,,,266.6758,267.1736,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.13,review,q3ec4.f.move.105,reply_y,11,12,yes,,266.8518,267.1917,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.13,review,q3ec4.f.move.106.5,,11,12,,,267.1917,267.8639,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.13,review,q3ec4.g.move.106,explain,11,12,the remote village is about,,267.1736,268.2115,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.13,review,q3ec4.f.move.107,explain,11,12,should b-- directly below me almost,lowamp,267.8639,269.6498,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.13,review,q3ec4.g.move.107.5,,11,12,,,268.2115,272.2698,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.13,review,q3ec4.f.move.108.5,,11,12,,,269.6498,276.2774,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.13,review,q3ec4.g.move.108,align,11,12,are you just you should have gone just right under the pyramid should,,272.2698,276.3762,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.13,review,q3ec4.g.move.109.5,,11,12,,,276.3762,277.6554,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.13,review,q3ec4.f.move.109,reply_y,11,12,right i'm right under it,,276.2774,277.0605,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.13,review,q3ec4.g.move.110,acknowledge,11,12,right exactly,,277.6554,279.6164,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.14,normal,q3ec4.g.move.111,ready,12,13,right,,279.9339,280.1079,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.14,normal,q3ec4.g.move.113.5,,12,13,,,295.2948,298.0014,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.14,normal,q3ec4.f.move.113,acknowledge,12,13,mmhmm,,296.7475,297.0265,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.14,normal,q3ec4.f.move.114.5,,12,13,,,297.0265,302.3378,yes,yes,m1,3,154,down,up
+4,q3ec4.transaction.14,normal,q3ec4.g.move.114,instruct,12,13,just take it a wee bit further across so that you'll clear the remote village,,298.0014,301.2108,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.14,normal,q3ec4.g.move.115.5,,12,13,,,301.2109,304.2995,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.14,normal,q3ec4.f.move.115,acknowledge,12,13,right all right no problem,,302.3378,303.7031,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.14,normal,q3ec4.f.move.116.5,,12,13,,,303.7031,305.014,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.14,normal,q3ec4.g.move.116,acknowledge,12,13,right,,304.2995,304.3873,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.14,normal,q3ec4.g.move.118.5,,12,13,,,304.3873,308.8221,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.14,normal,q3ec4.f.move.117,ready,12,13,right,,305.0141,305.1691,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.15,review,q3ec4.f.move.118,explain,12,13,i'm so i'm just above the white mountain,,305.1691,306.494,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.15,review,q3ec4.f.move.119.5,,12,13,,,306.494,310.7862,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.15,review,q3ec4.g.move.119,check,12,13,you're actually above it,lowamp,308.8221,309.9627,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.15,review,q3ec4.g.move.120.5,,12,13,,outbreath,309.9627,312.0064,yes,yes,m1,3,154,down,up
+4,q3ec4.transaction.15,review,q3ec4.f.move.120,reply_y,12,13,mmhmm,,310.7862,311.0046,yes,yes,m1,3,154,down,up
+4,q3ec4.transaction.15,review,q3ec4.f.move.122.5,,12,13,,,311.0046,319.0864,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.15,review,q3ec4.g.move.121,explain,12,13,if you t-- if you take a line due south you're going to hit it,,312.0064,314.0178,yes,yes,m1,3,154,down,up
+4,q3ec4.transaction.15,review,q3ec4.g.move.124.5,,12,13,,,318.0079,323.1818,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.15,review,q3ec4.f.move.123,explain,12,13,i have cleared it,,319.0864,319.7022,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.15,review,q3ec4.f.move.128.5,,12,13,,,324.4757,325.9164,yes,yes,m1,3,154,up,down
+4,q3ec4.transaction.15,review,q3ec4.g.move.125,uncodable,12,13,what,,323.1818,323.307,yes,yes,m1,3,154,up,down
+4,q3ec4.transaction.15,review,q3ec4.g.move.131.5,,12,13,,,328.0809,328.5713,yes,yes,m1,3,154,up,up
+4,q3ec4.transaction.15,review,q3ec4.f.move.129,acknowledge,12,13,right,,325.9164,326.0239,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.15,review,q3ec4.f.move.130.5,,12,13,,,326.4458,328.6327,yes,yes,m1,3,154,up,down
+4,q3ec4.transaction.15,review,q3ec4.g.move.132,explain,12,13,you've come out about a centimetre from,lowamp,328.5713,330.4392,yes,yes,m1,3,154,up,up
+4,q3ec4.transaction.15,review,q3ec4.g.move.133.5,,12,13,,,330.4393,334.1,yes,yes,m1,3,154,up,down
+4,q3ec4.transaction.15,review,q3ec4.f.move.131,acknowledge,12,13,right,,328.6327,328.8558,yes,yes,m1,3,154,up,up
+4,q3ec4.transaction.15,review,q3ec4.f.move.134.5,,12,13,,,332.0589,334.5946,yes,yes,m1,3,154,up,down
+4,q3ec4.transaction.15,review,q3ec4.g.move.134,check,12,13,are you,lowamp,334.1,334.5147,yes,yes,m1,3,154,up,down
+4,q3ec4.transaction.15,review,q3ec4.g.move.135.5,,12,13,,,334.5147,335.4721,yes,yes,m1,3,154,up,down
+4,q3ec4.transaction.15,review,q3ec4.f.move.135,reply_y,12,13,uh-huh,lowamp,334.5946,334.8576,yes,yes,m1,3,154,up,down
+4,q3ec4.transaction.15,review,q3ec4.f.move.136.5,,12,13,,,334.8576,336.649,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.15,review,q3ec4.g.move.136,query_w,12,13,why,,335.4721,335.8435,yes,yes,m1,3,154,down,up
+4,q3ec4.transaction.15,review,q3ec4.g.move.137.5,,12,13,,,335.8435,338.7579,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.15,review,q3ec4.f.move.137,reply_w,12,13,because you told me to come under the per-- pyramid,,336.6491,338.5925,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.15,review,q3ec4.f.move.139.5,,12,13,,,338.5925,339.9438,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.15,review,q3ec4.g.move.138,acknowledge,12,13,yeah,,338.7579,338.8955,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.15,review,q3ec4.g.move.141.5,,12,13,,,340.476,340.8181,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.15,review,q3ec4.f.move.140,reply_y,12,13,right,,339.9438,340.1338,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.15,review,q3ec4.f.move.142.5,,12,13,,,340.1338,345.3658,yes,yes,m1,3,154,down,up
+4,q3ec4.transaction.15,review,q3ec4.g.move.142,align,12,13,but you haven't gone far enough across so that you're so that if you came south you'd hit the white mountain,,340.8181,344.8553,yes,yes,m1,3,154,down,up
+4,q3ec4.transaction.15,review,q3ec4.g.move.143.5,,12,13,,,344.8554,346.8687,yes,yes,m1,3,154,down,up
+4,q3ec4.transaction.15,review,q3ec4.f.move.143,reply_y,12,13,i have come across far enough now,,345.3658,346.737,yes,yes,m1,3,154,down,up
+4,q3ec4.transaction.15,review,q3ec4.f.move.144.5,,12,13,,,346.737,347.9157,yes,yes,m1,3,154,up,up
+4,q3ec4.transaction.15,review,q3ec4.g.move.144,explain,12,13,well that's wrong then,lipsmack,346.8687,347.677,yes,yes,m1,3,154,up,up
+4,q3ec4.transaction.15,review,q3ec4.g.move.145.5,,12,13,,,347.677,347.9517,yes,yes,m1,3,154,down,up
+4,q3ec4.transaction.15,review,q3ec4.f.move.145,acknowledge,12,13,right,,347.9157,348.1474,yes,yes,m1,3,154,down,up
+4,q3ec4.transaction.15,review,q3ec4.f.move.146.5,,12,13,,,348.1474,353.5116,yes,yes,m1,3,154,down,up
+4,q3ec4.transaction.15,review,q3ec4.g.move.146,instruct,12,13,go go back so that you'll just miss the remote village if you come south,,347.9517,352.1225,yes,yes,m1,3,154,down,up
+4,q3ec4.transaction.15,review,q3ec4.g.move.147.5,,12,13,,,352.1225,354.806,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.15,review,q3ec4.f.move.147,acknowledge,12,13,right i've got you,,353.5116,354.0954,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.15,review,q3ec4.g.move.148,acknowledge,12,13,right,,354.806,355.0276,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.16,normal,q3ec4.g.move.149,instruct,13,14,ah so come down,lowamp,355.8304,357.5733,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.16,normal,q3ec4.g.move.158.5,,13,14,,,357.5733,359.075,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.16,normal,q3ec4.f.move.150,acknowledge,13,14,uh-huh,,358.5336,358.7919,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.16,normal,q3ec4.f.move.151.5,,13,14,,,358.7919,361.5635,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.16,normal,q3ec4.g.move.159,instruct,13,14,come down just past the remote village,lowamp,359.075,361.1335,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.16,normal,q3ec4.g.move.160.5,,13,14,,,361.1335,363.9805,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.16,normal,q3ec4.f.move.152,acknowledge,13,14,right,,361.5635,361.7424,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.16,normal,q3ec4.f.move.153.5,,13,14,,,361.7424,365.5698,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.16,normal,q3ec4.g.move.161,instruct,13,14,and go to your right,,363.9805,365.2034,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.16,normal,q3ec4.g.move.161.5,,13,14,,,365.2034,366.6387,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.16,normal,q3ec4.f.move.154,query_w,13,14,how far,,365.5698,365.998,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.16,normal,q3ec4.f.move.155.5,,13,14,,,365.998,369.3547,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.16,normal,q3ec4.g.move.162,reply_w,13,14,just past the remote village,lowamp,366.6387,368.244,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.16,normal,q3ec4.g.move.162.5,,13,14,,,368.244,369.3535,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.16,normal,q3ec4.f.move.156,acknowledge,13,14,right,,369.3548,369.5319,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.16,normal,q3ec4.f.move.157.5,,13,14,,,369.5319,371.7271,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.16,normal,q3ec4.g.move.163,instruct,13,14,"and mark ""x"" 'cause that's us finished a complete trial",,369.3535,372.6019,yes,yes,m1,3,154,down,down
+4,q3ec4.transaction.16,normal,q3ec4.f.move.158,acknowledge,13,14,right,,371.7271,371.8836,yes,yes,m1,3,154,down,up
+4,q3ec4.transaction.16,normal,q3ec4.f.move.160,acknowledge,13,14,right that's it,,373.095,373.7839,yes,yes,m1,3,154,down,up

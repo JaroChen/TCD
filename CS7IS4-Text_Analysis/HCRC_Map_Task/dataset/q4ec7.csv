@@ -1,0 +1,340 @@
+conversation_id,transaction_id,transaction_type,move_id,label,map_start_point,map_end_point,timed_units,timed_unit_type,timed_unit_start,timed_unit_end,eyecontact,familiar,map,quad,devscore,f_gaze_type,g_gaze_type
+7,q4ec7.transaction.1,normal,q4ec7.g.move.1,instruct,1,2,start top of the extinct volcano,,0.0,1.938,yes,yes,m13,4,43,down,up
+7,q4ec7.transaction.1,normal,q4ec7.g.move.4.5,,1,2,,,7.1184,7.6705,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.1,normal,q4ec7.f.move.2,acknowledge,1,2,oh,,7.466,7.6564,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.1,normal,q4ec7.f.move.3.5,,1,2,,,7.6564,7.7297,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.1,normal,q4ec7.g.move.5,explain,1,2,but it's marked well,,7.6705,8.4291,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.1,normal,q4ec7.g.move.6.5,,1,2,,,8.4291,9.4912,yes,yes,m13,4,43,up,down
+7,q4ec7.transaction.1,normal,q4ec7.f.move.4,acknowledge,1,2,okay,,7.7298,7.9821,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.1,normal,q4ec7.f.move.7.5,,1,2,,,8.966,9.8604,yes,yes,m13,4,43,up,up
+7,q4ec7.transaction.1,normal,q4ec7.g.move.7,align,1,2,have you found it,,9.4912,10.0787,yes,yes,m13,4,43,down,up
+7,q4ec7.transaction.1,normal,q4ec7.g.move.8.5,,1,2,,breath,10.0787,10.8071,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.1,normal,q4ec7.f.move.8,reply_y,1,2,yeah it's okay,,9.8605,10.3948,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.1,normal,q4ec7.f.move.9.5,,1,2,,,10.3948,19.8788,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.1,normal,q4ec7.g.move.9,instruct,1,2,right and if you move maybe one and a half centimetres from the top of there to the left,lowamp,10.8072,18.9177,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.1,normal,q4ec7.g.move.10.5,,1,2,,,18.9177,21.0732,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.1,normal,q4ec7.f.move.10,acknowledge,1,2,mmhmm,,19.8788,20.2229,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.1,normal,q4ec7.f.move.11.5,,1,2,,,20.2229,22.0119,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.1,normal,q4ec7.g.move.11,instruct,1,2,and stop,,21.0732,21.8455,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.1,normal,q4ec7.g.move.12.5,,1,2,,,21.8455,23.0805,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.1,normal,q4ec7.f.move.12,check,1,2,is that horizontally,,22.0119,22.9981,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.1,normal,q4ec7.f.move.14.5,,1,2,,,22.9981,24.0439,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.1,normal,q4ec7.g.move.13,reply_y,1,2,horizontally yeah sorry,,23.0805,24.2808,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.1,normal,q4ec7.f.move.15,acknowledge,1,2,okay,,24.0439,24.2847,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.2,normal,q4ec7.g.move.14,instruct,2,3,and then go down vertically about maybe five centimetres so you're actually below the extinct volcano you go down the left-hand side of it,,24.8913,33.1892,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.2,normal,q4ec7.g.move.15.5,,2,3,,,33.1892,38.2354,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.2,normal,q4ec7.f.move.15.9,explain,2,3,pen's not working there that's done it okay,,33.9889,37.5531,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.2,normal,q4ec7.g.move.16,instruct,2,3,and stop about you're there,,38.2355,40.162,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.3,normal,q4ec7.g.move.17,instruct,3,4,then you go horizontally left,,40.7378,43.3372,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.3,normal,q4ec7.g.move.19.5,,3,4,,,44.6647,46.2465,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.3,normal,q4ec7.f.move.19,reply_n,3,4,no,,45.4362,45.81,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.3,normal,q4ec7.f.move.22.5,,3,4,,,45.81,49.3627,yes,yes,m13,4,43,down,up
+7,q4ec7.transaction.3,normal,q4ec7.g.move.20,explain,3,4,that's in the bottom left-hand corner of the map,,46.2465,49.1953,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.3,normal,q4ec7.g.move.23.5,,3,4,,,49.1953,49.5722,yes,yes,m13,4,43,down,up
+7,q4ec7.transaction.3,normal,q4ec7.f.move.23,acknowledge,3,4,mm,,49.3627,49.5898,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.3,normal,q4ec7.f.move.25.5,,3,4,,,49.5898,57.0646,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.3,normal,q4ec7.g.move.24,explain,3,4,it's just a bit below the extinct volcano but sort just about the same level but the opposite side,,49.5722,56.2027,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.3,normal,q4ec7.g.move.28.5,,3,4,,,60.1573,60.7887,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.3,normal,q4ec7.f.move.26,acknowledge,3,4,okay,,57.0646,57.4912,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.3,normal,q4ec7.f.move.29.5,,3,4,,,60.4935,66.9201,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.3,normal,q4ec7.g.move.29,instruct,3,4,along to the left-hand corner of the map to about one and a half centimetres from the edge,,60.7887,65.8812,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.3,normal,q4ec7.g.move.30.5,,3,4,,,65.8812,68.0574,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.3,normal,q4ec7.f.move.30,check,3,4,just in a horizontal line,,66.9201,68.4545,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.3,normal,q4ec7.f.move.31.5,,3,4,,,68.4545,70.0049,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.3,normal,q4ec7.g.move.31,reply_y,3,4,horizontal line straight across,,68.0574,70.5227,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.3,normal,q4ec7.g.move.32.5,,3,4,,,70.5227,73.2124,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.3,normal,q4ec7.f.move.32,check,3,4,okay do i have to do anything to avoid the the settlement,,70.0049,72.8467,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.3,normal,q4ec7.f.move.33.5,,3,4,,,72.8467,78.4293,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.3,normal,q4ec7.g.move.33,reply_w,3,4,well if you if you go if you're just below the extinct volcano just now a bit below it,,73.2124,78.5176,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.3,normal,q4ec7.g.move.34.5,,3,4,,,78.5176,79.1906,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.3,normal,q4ec7.f.move.34,acknowledge,3,4,uh-huh,,78.4293,78.7802,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.3,normal,q4ec7.f.move.35.5,,3,4,,,78.7802,82.177,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.3,normal,q4ec7.g.move.35,reply_w,3,4,you can go straight along and you'll be underneath the tribal settlement,,79.1906,82.2364,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.3,normal,q4ec7.g.move.37.5,,3,4,,,82.2364,84.9029,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.3,normal,q4ec7.f.move.36,acknowledge,3,4,okay,,82.177,82.5669,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.3,normal,q4ec7.f.move.38.5,,3,4,,,84.7848,87.2275,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.3,normal,q4ec7.g.move.38,clarify,3,4,one and a half centimetres,,84.9029,86.161,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.3,normal,q4ec7.g.move.39.5,,3,4,,,86.161,87.5186,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.3,normal,q4ec7.f.move.39,acknowledge,3,4,okay,,87.2275,87.794,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.3,normal,q4ec7.f.move.40.5,,3,4,,,87.794,88.1242,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.3,normal,q4ec7.g.move.40,instruct,3,4,stop,,87.5186,88.0112,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.3,normal,q4ec7.f.move.41,explain,3,4,just get my ruler out,,88.1242,88.915,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.4,normal,q4ec7.g.move.42,query_yn,4,5,have you got a rope bridge,lowamp,88.4321,89.5514,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.4,normal,q4ec7.f.move.43,reply_y,4,5,yeah,,90.5027,90.8674,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.4,normal,q4ec7.g.move.43.5,,4,5,,,89.5514,91.3737,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.4,normal,q4ec7.f.move.45.5,,4,5,,,90.8674,109.8674,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.4,normal,q4ec7.g.move.44,instruct,4,5,if you go straight up the left-hand side of where the tribal settlement would be 'til you're ehm just maybe below the rope bridge but like in a straight line so you're not absolutely underneath it but you're to the left-hand side of it because it curves round over onto the rope bridge,,91.3738,106.6746,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.4,normal,q4ec7.g.move.46.5,,4,5,,,108.5888,111.1403,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.4,normal,q4ec7.f.move.46,reply_y,4,5,mmhmm,,109.8674,110.1541,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.4,normal,q4ec7.f.move.47.5,,4,5,,inbreath,110.1541,111.2595,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.4,normal,q4ec7.g.move.47,ready,4,5,so,,111.1403,111.4958,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.4,normal,q4ec7.g.move.49.5,,4,5,,,111.4958,113.4084,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.4,normal,q4ec7.f.move.48,ready,4,5,okay,,111.2595,111.5095,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.4,normal,q4ec7.f.move.52.5,,4,5,,,115.193,115.7251,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.4,normal,q4ec7.g.move.50,clarify,4,5,upwards for about,,113.4084,114.3456,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.4,normal,q4ec7.g.move.53.5,,4,5,,,116.0772,117.3611,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.4,normal,q4ec7.f.move.53,check,4,5,the edge of the paper until i'm just across from the rope bridge,,115.7251,118.5968,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.4,normal,q4ec7.f.move.57.5,,4,5,,,118.5969,122.3355,yes,yes,m13,4,43,up,down
+7,q4ec7.transaction.4,normal,q4ec7.g.move.54,uncodable,4,5,un--,,117.3611,117.497,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.4,normal,q4ec7.g.move.59.5,,4,5,,,123.2069,123.9238,yes,yes,m13,4,43,up,down
+7,q4ec7.transaction.4,normal,q4ec7.f.move.58,check,4,5,below the writing of rope bridge,,122.3355,123.989,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.4,normal,q4ec7.f.move.61.5,,4,5,,,123.9891,124.3813,yes,yes,m13,4,43,up,down
+7,q4ec7.transaction.4,normal,q4ec7.g.move.60,reply_n,4,5,no,,123.9239,124.2754,yes,yes,m13,4,43,up,down
+7,q4ec7.transaction.4,normal,q4ec7.g.move.62.5,,4,5,,,124.8002,125.2032,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.4,normal,q4ec7.f.move.62,acknowledge,4,5,below,,124.3813,124.762,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.4,normal,q4ec7.f.move.63.5,,4,5,,,124.762,127.3308,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.4,normal,q4ec7.g.move.63,clarify,4,5,start top of the extinct volcano it's the bottom right-hand corner of the map but it's marked well have you found it right and if you move maybe one and a half centimetres from the top of there to the left and stop horizontally yeah sorry and then go down vertically about maybe five centimetres so you're actually below the extinct volcano you go down the left-hand side of it and stop about you're there then you go horizontally left have you got a tribal settlement that's in the bottom left-hand corner of the map it's just a bit below the extinct volcano but sort just about the same level but the opposite side so you go from that point where you stopped along to the left-hand corner of the map to about one and a half centimetres from the edge horizontal line straight across well if you if you go if you're just below the extinct volcano just now a bit below it you can go straight along and you'll be underneath the tribal settlement one and a half centimetres stop have you got a rope bridge if you go straight up the left-hand side of where the tribal settlement would be 'til you're ehm just maybe below the rope bridge but like in a straight line so you're not absolutely underneath it but you're to the left-hand side of it because it curves round over onto the rope bridge you know what i mean so upwards for about yeah un-- no 'til you've f-- maybe one centimetre below it and then you sort curve round no below you ha-- the left-hand side of the rope bridge,,0.0,127.2158,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.4,normal,q4ec7.g.move.64.5,,4,5,,,127.2158,127.5345,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.4,normal,q4ec7.f.move.64,acknowledge,4,5,uh-huh,,127.3308,127.6267,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.4,normal,q4ec7.f.move.65.5,,4,5,,,127.6267,131.8468,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.4,normal,q4ec7.g.move.65,clarify,4,5,but you don't go a straight line and then turn you curve round onto the rope bridge,,127.5345,131.4637,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.4,normal,q4ec7.g.move.67.5,,4,5,,,131.4637,134.9166,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.4,normal,q4ec7.f.move.66,acknowledge,4,5,okay,,131.8468,132.2046,yes,yes,m13,4,43,down,up
+7,q4ec7.transaction.4,normal,q4ec7.f.move.69.5,,4,5,,,135.0923,136.3446,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.4,normal,q4ec7.g.move.68,reply_y,4,5,yes you cro--,,134.9166,135.9436,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.4,normal,q4ec7.g.move.68.5,,4,5,,,135.9436,136.3606,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.4,normal,q4ec7.f.move.70,acknowledge,4,5,okay,,136.3446,136.7482,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.4,normal,q4ec7.f.move.71.5,,4,5,,,136.7483,137.824,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.4,normal,q4ec7.g.move.69,align,4,5,are you crossing the rope bridge,,136.3606,137.3752,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.4,normal,q4ec7.g.move.72.5,,4,5,,,137.3752,138.5654,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.4,normal,q4ec7.f.move.72,check,4,5,you want me to cross it uh-huh,,137.824,138.6175,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.4,normal,q4ec7.f.move.73.5,,4,5,,,138.6175,141.8927,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.4,normal,q4ec7.g.move.73,clarify,4,5,well if you curve round slightly and cross the rope bridge,,138.5654,141.4895,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.4,normal,q4ec7.g.move.74.5,,4,5,,,141.4895,142.2112,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.4,normal,q4ec7.f.move.74,acknowledge,4,5,okay,,141.8928,142.2185,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.4,normal,q4ec7.f.move.75.5,,4,5,,,142.2185,144.1129,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.4,normal,q4ec7.g.move.75,instruct,4,5,and then stop when you get to the other side,,142.2112,143.7247,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.4,normal,q4ec7.f.move.76,acknowledge,4,5,uh-huh,,144.113,144.3675,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.5,normal,q4ec7.g.move.77,instruct,5,6,because you've got to curve down ehm it's not a wide cur-- curve it's quite a narrow curve down two centimetres,lowamp,144.833,153.1108,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.5,normal,q4ec7.g.move.78.5,,5,6,,,153.1108,155.4538,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.5,normal,q4ec7.f.move.78,acknowledge,5,6,mmhmm,,154.8561,155.2437,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.5,normal,q4ec7.f.move.79.5,,5,6,,,155.2437,155.9249,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.5,normal,q4ec7.g.move.79,ready,5,6,so,,155.4538,155.8943,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.5,normal,q4ec7.g.move.81.5,,5,6,,,156.5317,157.4055,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.5,normal,q4ec7.f.move.80,query_yn,5,6,do you have a machete,,155.9249,157.0257,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.5,normal,q4ec7.f.move.83.5,,5,6,,,157.0257,160.5028,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.5,normal,q4ec7.g.move.82,reply_n,5,6,no i don't,,157.4056,158.2187,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.5,normal,q4ec7.g.move.84.5,,5,6,,,160.4117,162.9047,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.5,normal,q4ec7.f.move.84,reply_w,5,6,it's to the right and just down,,160.5028,161.9891,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.5,normal,q4ec7.f.move.85.5,,5,6,,inbreath,161.9891,163.2987,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.5,normal,q4ec7.g.move.85,query_yn,5,6,from the rope bridge,,162.9047,163.6802,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.5,normal,q4ec7.g.move.87.5,,5,6,,,163.6802,171.8714,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.5,normal,q4ec7.f.move.86,reply_w,5,6,it's to it's about three centimetres to the right and just down from the rope bridge,,163.2987,166.5785,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.5,normal,q4ec7.f.move.89.5,,5,6,,,171.8354,175.8927,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.5,normal,q4ec7.g.move.88,query_yn,5,6,is that curving down a lot,,171.8714,173.0733,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.5,normal,q4ec7.g.move.90.5,,5,6,,,177.3634,182.7195,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.5,normal,q4ec7.f.move.90,acknowledge,5,6,mmhmm,,175.8927,176.1129,yes,yes,m13,4,43,down,up
+7,q4ec7.transaction.5,normal,q4ec7.f.move.91.5,,5,6,,,182.6726,191.0947,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.5,normal,q4ec7.g.move.91,reply_w,5,6,you turn right and go straight across so you're you're about three centimetres above the start position,,182.7195,189.0106,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.5,normal,q4ec7.g.move.93.5,,5,6,,nonvocal,189.0106,194.7557,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.5,normal,q4ec7.f.move.92,acknowledge,5,6,okay that's fine,,191.0947,191.7918,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.5,normal,q4ec7.f.move.95.5,,5,6,,,192.8561,197.3652,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.5,normal,q4ec7.g.move.94,instruct,5,6,and stop when you're you're,,194.7557,196.1638,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.5,normal,q4ec7.g.move.97.5,,5,6,,,197.2814,199.0528,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.5,normal,q4ec7.f.move.96,reply_y,5,6,uh-huh,,197.3652,197.7322,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.5,normal,q4ec7.f.move.98.5,,5,6,,,198.5739,199.6748,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.5,normal,q4ec7.g.move.98,reply_y,5,6,yeah,,199.0528,199.3878,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.5,normal,q4ec7.g.move.99.5,,5,6,,,199.3878,201.5293,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.5,normal,q4ec7.f.move.99,check,5,6,so i should be like just underneath the collapsed shelter uh-huh,,199.6748,201.7964,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.5,normal,q4ec7.f.move.100.5,,5,6,,,201.7964,204.1313,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.5,normal,q4ec7.g.move.100,reply_w,5,6,about two centimetr-- me-- --metres underneath it,,201.5293,204.027,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.5,normal,q4ec7.f.move.101,acknowledge,5,6,that's fine,,204.1313,204.707,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.6,normal,q4ec7.g.move.102,query_yn,6,7,have you got a saxon barn,,205.1938,206.3114,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.6,normal,q4ec7.f.move.103,reply_y,6,7,uh-huh,,207.191,207.6496,yes,yes,m13,4,43,down,up
+7,q4ec7.transaction.6,normal,q4ec7.g.move.103.5,,6,7,,,206.3114,208.3967,yes,yes,m13,4,43,down,up
+7,q4ec7.transaction.6,normal,q4ec7.f.move.104.5,,6,7,,,207.6496,211.4632,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.6,normal,q4ec7.g.move.104,instruct,6,7,well you go straight up from that point where you were,,208.3967,211.2974,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.6,normal,q4ec7.g.move.105.5,,6,7,,,211.2974,211.6159,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.6,normal,q4ec7.f.move.105,acknowledge,6,7,mm,,211.4633,211.7936,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.6,normal,q4ec7.f.move.106.5,,6,7,,,211.7936,214.8629,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.6,normal,q4ec7.g.move.106,instruct,6,7,past the left-hand side of the collapsed shelter,,211.616,214.1113,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.6,normal,q4ec7.g.move.107.5,,6,7,,,214.1113,214.8541,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.6,normal,q4ec7.f.move.107,acknowledge,6,7,mmhmm,,214.863,215.2299,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.6,normal,q4ec7.f.move.108.5,,6,7,,,215.2299,220.4149,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.6,normal,q4ec7.g.move.108,instruct,6,7,just go straight up until you're on level with the top of the saxon barn,,214.8541,219.758,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.6,normal,q4ec7.g.move.109.5,,6,7,,,219.758,220.4562,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.6,normal,q4ec7.f.move.109,check,6,7,so just so just in a diagonal upwards from right to left,,220.4149,223.8149,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.6,normal,q4ec7.f.move.114.5,,6,7,,,223.8149,233.732,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.6,normal,q4ec7.g.move.110,instruct,6,7,and stop there,,220.4562,221.2364,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.6,normal,q4ec7.g.move.115.5,,6,7,,,232.1971,236.1708,yes,yes,m13,4,43,down,up
+7,q4ec7.transaction.6,normal,q4ec7.f.move.115,check,6,7,so it's a it is a diagonal upwards towards the,,233.732,236.9005,yes,yes,m13,4,43,down,up
+7,q4ec7.transaction.6,normal,q4ec7.f.move.118.5,,6,7,,,236.9005,238.0333,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.6,normal,q4ec7.g.move.116,reply_n,6,7,no,,236.1708,236.4988,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.6,normal,q4ec7.g.move.119.5,,6,7,,,237.7055,239.0714,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.6,normal,q4ec7.f.move.119,explain,6,7,well i can't do that,,238.0333,238.7714,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.6,normal,q4ec7.f.move.120.5,,6,7,,,238.7714,239.9483,yes,yes,m13,4,43,down,up
+7,q4ec7.transaction.6,normal,q4ec7.g.move.120,query_w,6,7,why not,,239.0714,239.5892,yes,yes,m13,4,43,down,up
+7,q4ec7.transaction.6,normal,q4ec7.g.move.121.5,,6,7,,,239.5893,242.4197,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.6,normal,q4ec7.f.move.121,reply_w,6,7,'cause my saxon barn's on the,,239.9483,241.4919,yes,yes,m13,4,43,down,up
+7,q4ec7.transaction.6,normal,q4ec7.f.move.122.5,,6,7,,,241.4919,246.3433,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.6,normal,q4ec7.g.move.122,clarify,6,7,no you go straight up the left-hand side of the collapsed shelter,,242.4197,245.6811,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.6,normal,q4ec7.g.move.123.5,,6,7,,,245.6811,246.3466,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.6,normal,q4ec7.f.move.123,acknowledge,6,7,uh-huh,,246.3433,246.7333,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.6,normal,q4ec7.f.move.124.5,,6,7,,,246.7334,250.2036,yes,yes,m13,4,43,down,up
+7,q4ec7.transaction.6,normal,q4ec7.g.move.124,clarify,6,7,you're not going over towards the saxon barn yet you're going to be on the same level with it,,246.3466,249.5869,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.6,normal,q4ec7.g.move.126.5,,6,7,,,249.5869,252.5813,yes,yes,m13,4,43,down,up
+7,q4ec7.transaction.6,normal,q4ec7.f.move.125,acknowledge,6,7,oh okay,,250.2036,250.9905,yes,yes,m13,4,43,down,up
+7,q4ec7.transaction.6,normal,q4ec7.f.move.127.5,,6,7,,,251.9678,253.913,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.6,normal,q4ec7.g.move.127,reply_n,6,7,no,,252.5813,252.9187,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.6,normal,q4ec7.g.move.128.5,,6,7,,,252.9187,258.5326,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.6,normal,q4ec7.f.move.128,query_w,6,7,well have you got anything to the right of the saxon barn,,253.913,258.0286,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.6,normal,q4ec7.f.move.130.5,,6,7,,,258.0286,264.4121,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.6,normal,q4ec7.g.move.129,reply_n,6,7,no,,258.5326,258.8349,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.6,normal,q4ec7.g.move.132.5,,6,7,,,264.4463,268.6005,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.6,normal,q4ec7.f.move.131,reply_w,6,7,if i went a bit to the right i could just go straight up,,264.4121,266.4339,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.6,normal,q4ec7.f.move.133.5,,6,7,,,268.2236,270.0551,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.6,normal,q4ec7.g.move.133,reply_w,6,7,if you go well i was going,,268.6005,270.2031,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.6,normal,q4ec7.g.move.134.5,,6,7,,,270.2031,273.3709,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.6,normal,q4ec7.f.move.134,check,6,7,so i'd be on like a horizontal line with the saxon barn yeah,,270.0551,273.1284,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.6,normal,q4ec7.f.move.135.5,,6,7,,,273.1284,274.7138,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.6,normal,q4ec7.g.move.135,clarify,6,7,but the the top of it,,273.3709,274.3855,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.6,normal,q4ec7.g.move.136.5,,6,7,,,274.3855,274.8774,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.6,normal,q4ec7.f.move.136,acknowledge,6,7,okay,,274.7138,275.0133,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.6,normal,q4ec7.f.move.138.5,,6,7,,,275.0133,281.81,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.6,normal,q4ec7.g.move.137,clarify,6,7,just a bit above,,274.8775,275.8474,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.7,normal,q4ec7.g.move.138,instruct,7,8,and you go straight up and curve round and then down and underneath the saxon barn,,275.8475,280.011,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.7,normal,q4ec7.g.move.140.5,,7,8,,,280.011,289.3362,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.7,normal,q4ec7.f.move.139,query_w,7,8,say that again,,281.81,282.3671,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.7,normal,q4ec7.f.move.141.5,,7,8,,,289.3541,292.0211,yes,yes,m13,4,43,down,up
+7,q4ec7.transaction.7,normal,q4ec7.g.move.141,check,7,8,but not right over it,,289.3362,290.5452,yes,yes,m13,4,43,down,up
+7,q4ec7.transaction.7,normal,q4ec7.g.move.143.5,,7,8,,,290.5452,292.9726,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.7,normal,q4ec7.f.move.142,reply_n,7,8,no,,292.0211,292.1047,yes,yes,m13,4,43,down,up
+7,q4ec7.transaction.7,normal,q4ec7.f.move.146.5,,7,8,,,292.901,300.1804,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.7,normal,q4ec7.g.move.144,acknowledge,7,8,no right,,292.9726,293.9754,yes,yes,m13,4,43,up,down
+7,q4ec7.transaction.7,normal,q4ec7.g.move.147.5,,7,8,,,299.1628,307.5602,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.7,normal,q4ec7.f.move.147,reply_w,7,8,it's just beside me just now it's just to my right like if i if i went sorry if i went to my left i would pass the crevasse and i would pass the saxon barn,,300.1804,307.3555,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.7,normal,q4ec7.f.move.150.5,,7,8,,,307.3555,311.6846,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.7,normal,q4ec7.g.move.148,acknowledge,7,8,right,,307.5602,307.7207,yes,yes,m13,4,43,up,down
+7,q4ec7.transaction.7,normal,q4ec7.g.move.152.5,,7,8,,,312.1572,313.1436,yes,yes,m13,4,43,down,up
+7,q4ec7.transaction.7,normal,q4ec7.f.move.151,check,7,8,you want me to draw underneath the saxon barn,,311.6846,313.4093,yes,yes,m13,4,43,down,up
+7,q4ec7.transaction.7,normal,q4ec7.f.move.153.5,,7,8,,,313.4093,313.5996,yes,yes,m13,4,43,up,up
+7,q4ec7.transaction.7,normal,q4ec7.g.move.153,reply_y,7,8,yes,,313.1436,313.8395,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.7,normal,q4ec7.g.move.155.5,,7,8,,,313.8395,314.9805,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.7,normal,q4ec7.f.move.154,reply_y,7,8,uh-huh okay,,313.5996,314.2426,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.7,normal,q4ec7.f.move.156.5,,7,8,,,315.7468,317.9821,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.7,normal,q4ec7.g.move.156,reply_w,7,8,"and stop ehm beside the ""s""",,314.9805,317.0307,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.7,normal,q4ec7.g.move.157.5,,7,8,,,317.0307,318.645,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.7,normal,q4ec7.f.move.157,check,7,8,of saxon,,317.9821,319.0337,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.7,normal,q4ec7.f.move.158.5,,7,8,,nonvocal,319.0337,320.8675,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.7,normal,q4ec7.g.move.158,reply_y,7,8,saxon,,318.645,319.2753,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.7,normal,q4ec7.f.move.159,acknowledge,7,8,okay,,320.8675,321.3179,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.8,normal,q4ec7.g.move.160,query_yn,8,9,and have you got pelicans,,321.6816,323.1741,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.8,normal,q4ec7.g.move.161.5,,8,9,,,323.1741,324.5822,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.8,normal,q4ec7.f.move.161,reply_n,8,9,no,,324.4794,324.9622,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.8,normal,q4ec7.g.move.162,acknowledge,8,9,no,,324.5822,324.9009,yes,yes,m13,4,43,down,up
+7,q4ec7.transaction.8,normal,q4ec7.g.move.162.5,,8,9,,,324.9009,326.1568,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.8,normal,q4ec7.f.move.163.5,,8,9,,,324.9622,334.6233,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.8,normal,q4ec7.g.move.163,instruct,8,9,ehm go down about three to four centimetres from the saxon barn vertically downwards,,326.1568,335.0462,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.8,normal,q4ec7.g.move.164.5,,8,9,,,335.0462,336.4942,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.8,normal,q4ec7.f.move.164,check,8,9,so i'm above the rope bridge,,334.6233,335.9511,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.8,normal,q4ec7.f.move.165.5,,8,9,,,335.9511,337.8801,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.8,normal,q4ec7.g.move.165,reply_y,8,9,just a bit above the rope bridge yeah,,336.4942,337.7898,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.8,normal,q4ec7.g.move.166.5,,8,9,,,337.7898,338.8746,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.8,normal,q4ec7.f.move.166,acknowledge,8,9,okay,,337.8801,338.075,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.8,normal,q4ec7.f.move.167.5,,8,9,,,338.075,339.4516,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.8,normal,q4ec7.g.move.167,clarify,8,9,the end of it,,338.8746,339.4112,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.8,normal,q4ec7.f.move.168,acknowledge,8,9,uh-huh,,339.4516,339.7996,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.9,normal,q4ec7.g.move.169,instruct,9,10,and then go underneath where i've got pelicans towards the left-hand side,,340.407,346.8057,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.9,normal,q4ec7.g.move.171.5,,9,10,,,346.8057,349.5213,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.9,normal,q4ec7.f.move.170,acknowledge,9,10,mmhmm,,347.8917,348.1494,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.9,normal,q4ec7.f.move.173.5,,9,10,,nonvocal,349.6883,351.5616,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.9,normal,q4ec7.g.move.172,reply_y,9,10,uh-huh,,349.5213,349.9196,yes,yes,m13,4,43,up,down
+7,q4ec7.transaction.9,normal,q4ec7.g.move.174.5,,9,10,,,351.213,352.4618,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.9,normal,q4ec7.f.move.174,acknowledge,9,10,okay,,351.5616,352.0467,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.9,normal,q4ec7.g.move.175,instruct,9,10,stop,,352.4618,352.8906,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.10,normal,q4ec7.g.move.176,query_yn,10,11,have you got a white mountain,,352.8906,353.884,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.10,normal,q4ec7.f.move.177,reply_y,10,11,uh-huh,,354.0337,354.4585,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.10,normal,q4ec7.g.move.177.5,,10,11,,,353.884,355.0485,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.10,normal,q4ec7.f.move.178.5,,10,11,,,354.4585,361.1042,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.10,normal,q4ec7.g.move.178,instruct,10,11,go straight up from there ehm slightly curving a bit round the white mountain,,355.0485,360.5475,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.10,normal,q4ec7.g.move.179.5,,10,11,,,360.5476,361.9674,yes,yes,m13,4,43,up,down
+7,q4ec7.transaction.10,normal,q4ec7.f.move.179,check,10,11,over the top of it uh-huh,,361.1042,362.0646,yes,yes,m13,4,43,up,down
+7,q4ec7.transaction.10,normal,q4ec7.f.move.181.5,,10,11,,,362.0646,366.9144,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.10,normal,q4ec7.g.move.180,reply_n,10,11,no,,361.9674,362.3072,yes,yes,m13,4,43,up,down
+7,q4ec7.transaction.10,normal,q4ec7.g.move.181,clarify,10,11,don't go over it g-- stop when you're parallel to the top of the white mountain,,362.3072,365.9763,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.10,normal,q4ec7.f.move.182,acknowledge,10,11,okay mmhmm,,366.9144,371.0091,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.11,normal,q4ec7.g.move.183,query_yn,11,12,and have you got a golden beach at the top left-hand corner,,371.5972,374.1179,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.11,normal,q4ec7.f.move.184,reply_y,11,12,yeah,,374.4214,374.8021,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.11,normal,q4ec7.g.move.184.5,,11,12,,,374.1179,375.7624,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.11,normal,q4ec7.f.move.185.5,,11,12,,,374.8021,383.1979,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.11,normal,q4ec7.g.move.185,instruct,11,12,go up to go straight up from the top of the white mountain to the edge of the golden beach,,375.7624,381.7395,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.11,normal,q4ec7.g.move.187.5,,11,12,,,381.7395,385.1523,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.11,normal,q4ec7.f.move.186,ready,11,12,okay,,383.1979,383.4024,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.11,normal,q4ec7.f.move.190.5,,11,12,,,385.8312,387.6579,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.11,normal,q4ec7.g.move.188,reply_y,11,12,yes,,385.1523,385.7326,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.11,normal,q4ec7.g.move.192.5,,11,12,,,387.2991,389.1592,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.11,normal,q4ec7.f.move.191,acknowledge,11,12,okay,,387.6579,387.8532,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.11,normal,q4ec7.f.move.195.5,,11,12,,,390.3083,393.1898,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.11,normal,q4ec7.g.move.193,reply_w,11,12,nowhere ne--,,389.1592,389.7395,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.11,normal,q4ec7.g.move.196.5,,11,12,,,391.7235,393.3083,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.11,normal,q4ec7.f.move.196,query_w,11,12,what,,393.1898,393.4862,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.11,normal,q4ec7.f.move.197.5,,11,12,,,393.4862,397.1144,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.11,normal,q4ec7.g.move.197,align,11,12,have you have you your golden beach is it at the top left-hand corner or the right-hand corner,,393.3083,397.0744,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.11,normal,q4ec7.g.move.198.5,,11,12,,,397.0744,398.2303,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.11,normal,q4ec7.f.move.198,reply_w,11,12,top right-hand corner,,397.1144,398.0864,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.11,normal,q4ec7.f.move.200.5,,11,12,,,398.0864,400.7724,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.11,normal,q4ec7.g.move.199,acknowledge,11,12,oh well,,398.2303,398.5147,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.11,normal,q4ec7.g.move.201.5,,11,12,,,400.6913,401.4138,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.11,normal,q4ec7.f.move.201,acknowledge,11,12,oh okay,,400.7724,401.448,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.11,normal,q4ec7.f.move.202.5,,11,12,,,401.448,403.948,yes,yes,m13,4,43,up,down
+7,q4ec7.transaction.11,normal,q4ec7.g.move.202,align,11,12,so you're at the top of the white mountain just now,,401.4138,403.8978,yes,yes,m13,4,43,up,down
+7,q4ec7.transaction.11,normal,q4ec7.g.move.203.5,,11,12,,,403.8978,404.7326,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.11,normal,q4ec7.f.move.203,reply_y,11,12,mmhmm,,403.948,404.2605,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.11,normal,q4ec7.f.move.204.5,,11,12,,,404.2605,409.3111,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.11,normal,q4ec7.g.move.204,instruct,11,12,go straight up five or six centimetres and stop,,404.7326,407.9115,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.11,normal,q4ec7.g.move.205.5,,11,12,,,407.9115,411.9551,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.11,normal,q4ec7.f.move.205,check,11,12,right i'm meant to be right on top of white mountain just well just beside the top yeah,,409.3111,412.6911,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.11,normal,q4ec7.f.move.208.5,,11,12,,,412.6911,413.1553,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.11,normal,q4ec7.g.move.206,reply_y,11,12,well yes parallel to it uh-huh,,411.9551,413.3839,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.11,normal,q4ec7.g.move.209.5,,11,12,,,414.3472,415.6706,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.11,normal,q4ec7.f.move.209,acknowledge,11,12,so okay,,413.1553,415.584,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.11,normal,q4ec7.g.move.210,instruct,11,12,stop,,415.6707,416.3588,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.12,normal,q4ec7.g.move.211,query_yn,12,13,have you got slate mountain,,416.6242,417.7412,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.12,normal,q4ec7.f.move.212,reply_y,12,13,yeah,,417.852,418.1139,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.12,normal,q4ec7.g.move.212.5,,12,13,,inbreath,417.7412,418.978,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.12,normal,q4ec7.f.move.213.5,,12,13,,,418.1139,422.0661,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.12,normal,q4ec7.g.move.213,instruct,12,13,go directly along from that point to the end of slate mountain,,418.978,421.8198,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.12,normal,q4ec7.g.move.214.5,,12,13,,,421.8198,423.6775,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.12,normal,q4ec7.f.move.214,check,12,13,to the right-hand end of the slate mountain,,422.0661,423.6263,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.12,normal,q4ec7.f.move.215.5,,12,13,,,423.6263,427.4889,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.12,normal,q4ec7.g.move.215,clarify,12,13,uh-huh left-hand end of slate slate mountain 'cause you go over the top of it,,423.6775,426.8059,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.12,normal,q4ec7.g.move.216.5,,12,13,,,426.806,427.7487,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.12,normal,q4ec7.f.move.216,acknowledge,12,13,okay,,427.4889,427.8474,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.12,normal,q4ec7.f.move.217.5,,12,13,,,427.8474,429.0997,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.12,normal,q4ec7.g.move.217,instruct,12,13,so just do that then go rou--,,427.7487,429.4161,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.12,normal,q4ec7.g.move.218.5,,12,13,,,429.4161,431.9161,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.12,normal,q4ec7.f.move.218,query_w,12,13,whe-- where's the golden beach i've got to avoid is that like above,,429.0997,432.5693,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.12,normal,q4ec7.f.move.221.5,,12,13,,,432.5693,433.3345,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.12,normal,q4ec7.g.move.221,reply_w,12,13,that's in the top left-hand corner yeah,,431.9161,433.6569,yes,yes,m13,4,43,up,down
+7,q4ec7.transaction.12,normal,q4ec7.g.move.223.5,,12,13,,,433.6569,436.5491,yes,yes,m13,4,43,up,down
+7,q4ec7.transaction.12,normal,q4ec7.f.move.222,acknowledge,12,13,okay okay,,433.3345,433.9848,yes,yes,m13,4,43,up,down
+7,q4ec7.transaction.12,normal,q4ec7.f.move.224.5,,12,13,,nonvocal,436.2206,438.4333,yes,yes,m13,4,43,up,down
+7,q4ec7.transaction.12,normal,q4ec7.g.move.224,align,12,13,kind of are you over the mountain,,436.5491,437.9735,yes,yes,m13,4,43,up,down
+7,q4ec7.transaction.12,normal,q4ec7.g.move.225.5,,12,13,,,437.9735,439.3611,yes,yes,m13,4,43,up,down
+7,q4ec7.transaction.12,normal,q4ec7.f.move.225,check,12,13,you want me to go over it,,438.4333,439.2123,yes,yes,m13,4,43,up,down
+7,q4ec7.transaction.12,normal,q4ec7.f.move.226.5,,12,13,,,439.2123,450.6782,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.12,normal,q4ec7.g.move.226,clarify,12,13,"just go over it and stop at the other side and curve right round underneath it so that you're about a centimetre underneath the ""s""",,439.3611,449.3496,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.12,normal,q4ec7.f.move.227,acknowledge,12,13,mmhmm,,450.6782,451.0206,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.13,normal,q4ec7.g.move.228,query_yn,13,14,and you got a secret valley,,452.2028,453.4184,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.13,normal,q4ec7.f.move.229,reply_y,13,14,yeah,,454.3318,454.7155,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.13,normal,q4ec7.g.move.229.5,,13,14,,,453.4184,454.8381,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.13,normal,q4ec7.f.move.230.5,,13,14,,nonvocal,454.7155,459.6374,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.13,normal,q4ec7.g.move.230,instruct,13,14,can you go d-- v-- down from there down the left-hand side of the secret valley,,454.8381,458.384,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.13,normal,q4ec7.g.move.231.5,,13,14,,,458.384,460.8221,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.13,normal,q4ec7.f.move.231,acknowledge,13,14,mmhmm,,459.6374,459.9522,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.14,normal,q4ec7.g.move.232,align,14,15,and are you underneath the secret valley,,460.8221,462.3726,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.14,normal,q4ec7.g.move.233.5,,14,15,,,462.3726,465.9986,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.14,normal,q4ec7.f.move.233,check,14,15,hold on you want me to be underneath the secret valley,,462.5165,466.2573,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.14,normal,q4ec7.f.move.234.5,,14,15,,,466.2573,472.1397,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.14,normal,q4ec7.g.move.234,clarify,14,15,"go draw a straight line to the end of just about a centimetre away from the ""y"" and that's the finish",,465.9987,470.4505,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.14,normal,q4ec7.g.move.235.5,,14,15,,,470.4506,473.04,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.14,normal,q4ec7.f.move.235,check,14,15,underneath it,,472.1397,472.6773,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.14,normal,q4ec7.f.move.236.5,,14,15,,,472.6773,475.7518,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.14,normal,q4ec7.g.move.236,clarify,14,15,"underneath the ""y"" of secret valley",,473.04,474.6432,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.14,normal,q4ec7.g.move.237.5,,14,15,,,474.6432,476.8336,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.14,normal,q4ec7.f.move.237,check,14,15,"a centimetre down from the ""y"" yeah",,475.7518,477.1535,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.14,normal,q4ec7.f.move.239.5,,14,15,,,477.1535,478.7466,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.14,normal,q4ec7.g.move.238,reply_y,14,15,mmhmm,,476.8336,477.1708,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.14,normal,q4ec7.g.move.240.5,,14,15,,,477.1708,479.4548,yes,yes,m13,4,43,down,down
+7,q4ec7.transaction.14,normal,q4ec7.f.move.240,acknowledge,14,15,okay,,478.7466,479.2613,yes,yes,m13,4,43,down,up
+7,q4ec7.transaction.14,normal,q4ec7.g.move.241,explain,14,15,that's it,,479.4548,479.7645,yes,yes,m13,4,43,down,down

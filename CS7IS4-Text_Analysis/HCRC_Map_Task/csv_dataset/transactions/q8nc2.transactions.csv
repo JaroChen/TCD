@@ -1,0 +1,14 @@
+transaction_id,type,map_start_point,map_end_point,children
+q8nc2.transaction.1,normal,1,2,"id(q8nc2.g.move.1)..id(q8nc2.g.move.4.5), id(q8nc2.f.move.4)..id(q8nc2.f.move.5.5), id(q8nc2.g.move.5), id(q8nc2.f.move.6)..id(q8nc2.f.move.6.9)"
+q8nc2.transaction.2,normal,2,3,"id(q8nc2.g.move.7)..id(q8nc2.g.move.8.5), id(q8nc2.f.move.8)..id(q8nc2.f.move.9.5), id(q8nc2.g.move.9), id(q8nc2.f.move.10)"
+q8nc2.transaction.3,normal,3,4,"id(q8nc2.g.move.11)..id(q8nc2.g.move.11.9), id(q8nc2.f.move.12)"
+q8nc2.transaction.4,normal,4,5,id(q8nc2.g.move.13)
+q8nc2.transaction.5,normal,5,6,id(q8nc2.g.move.14)
+q8nc2.transaction.6,normal,6,7,"id(q8nc2.g.move.15)..id(q8nc2.g.move.16), id(q8nc2.f.move.17), id(q8nc2.g.move.17.5), id(q8nc2.f.move.18.5), id(q8nc2.g.move.18)..id(q8nc2.g.move.19.5), id(q8nc2.f.move.19)..id(q8nc2.f.move.20.5), id(q8nc2.g.move.20), id(q8nc2.f.move.21)"
+q8nc2.transaction.7,normal,7,8,"id(q8nc2.g.move.22)..id(q8nc2.g.move.23.5), id(q8nc2.f.move.23)"
+q8nc2.transaction.8,normal,8,9,id(q8nc2.g.move.24)
+q8nc2.transaction.9,normal,9,10,"id(q8nc2.g.move.25)..id(q8nc2.g.move.26.5), id(q8nc2.f.move.26)..id(q8nc2.f.move.28.5), id(q8nc2.g.move.27)..id(q8nc2.g.move.28), id(q8nc2.f.move.29)"
+q8nc2.transaction.10,normal,10,11,"id(q8nc2.g.move.30), id(q8nc2.f.move.31)"
+q8nc2.transaction.11,normal,11,12,"id(q8nc2.g.move.32), id(q8nc2.f.move.33)"
+q8nc2.transaction.12,normal,12,13,"id(q8nc2.g.move.34), id(q8nc2.f.move.35)"
+q8nc2.transaction.13,normal,13,14,"id(q8nc2.g.move.36)..id(q8nc2.g.move.37.5), id(q8nc2.f.move.37)..id(q8nc2.f.move.38.5), id(q8nc2.g.move.38)..id(q8nc2.g.move.40), id(q8nc2.f.move.39)"

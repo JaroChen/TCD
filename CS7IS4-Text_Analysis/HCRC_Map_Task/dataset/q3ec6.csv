@@ -1,0 +1,116 @@
+conversation_id,transaction_id,transaction_type,move_id,label,map_start_point,map_end_point,timed_units,timed_unit_type,timed_unit_start,timed_unit_end,eyecontact,familiar,map,quad,devscore,f_gaze_type,g_gaze_type
+6,q3ec6.transaction.1,normal,q3ec6.g.move.1,instruct,1,2,,lowamp,,,yes,no,m1,3,89,,
+6,q3ec6.transaction.1,normal,q3ec6.f.move.2,acknowledge,1,2,mmhmm,,7.0146,8.0385,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.2,normal,q3ec6.g.move.3,instruct,2,3,come south due south to the bottom of the page,,8.8338,11.7458,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.2,normal,q3ec6.g.move.4.5,,2,3,,,11.7458,13.6024,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.2,normal,q3ec6.f.move.4,acknowledge,2,3,mmhmm,,12.776,13.4973,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.3,normal,q3ec6.g.move.5,instruct,3,4,go to the left of the page to about an inch from the end,,13.6025,16.7063,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.3,normal,q3ec6.g.move.6.5,,3,4,,,16.7063,19.2227,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.3,normal,q3ec6.f.move.6,check,3,4,over the banana tree,,17.4934,18.2247,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.3,normal,q3ec6.f.move.7.5,,3,4,,,18.2247,21.506,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.3,normal,q3ec6.g.move.7,reply_y,3,4,i suppose so yeah eh,,19.2227,21.1726,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.3,normal,q3ec6.f.move.8,acknowledge,3,4,mmhmm,,21.506,21.9382,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.4,normal,q3ec6.g.move.9,instruct,4,5,go north to the level of the footbridge,,22.1907,24.6146,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.4,normal,q3ec6.g.move.10.5,,4,5,,,24.6146,27.1581,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.4,normal,q3ec6.f.move.10,acknowledge,4,5,mmhmm,,27.131,27.4568,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.4,normal,q3ec6.f.move.11.5,,4,5,,,27.4568,33.0053,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.4,normal,q3ec6.g.move.11,instruct,4,5,go up and go across the footbridge and stop exactl-- right at the end edge of the footbridge,,27.1581,32.7379,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.4,normal,q3ec6.g.move.12.5,,4,5,,,32.7379,34.2102,yes,no,m1,3,89,down,up
+6,q3ec6.transaction.4,normal,q3ec6.f.move.12,check,4,5,above the footbridge,,33.0053,33.9256,yes,no,m1,3,89,down,up
+6,q3ec6.transaction.4,normal,q3ec6.f.move.13.5,,4,5,,,33.9256,35.5461,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.4,normal,q3ec6.g.move.13,clarify,4,5,o-- over the footbridge,,34.2102,35.3597,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.4,normal,q3ec6.g.move.14.5,,4,5,,,35.3597,36.4862,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.4,normal,q3ec6.f.move.14,acknowledge,4,5,mm,,35.5461,35.836,yes,no,m1,3,89,down,up
+6,q3ec6.transaction.4,normal,q3ec6.g.move.15,instruct,4,5,and stop right at the end of it,,36.4862,37.9037,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.5,normal,q3ec6.g.move.16,explain,5,6,there is a poisoned stream on mine but which you don't have,,38.7721,41.2787,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.5,normal,q3ec6.g.move.17.5,,5,6,,,41.2787,43.1364,yes,no,m1,3,89,down,up
+6,q3ec6.transaction.5,normal,q3ec6.f.move.17,acknowledge,5,6,right,,42.9375,43.6259,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.5,normal,q3ec6.g.move.18,align,5,6,okay,,43.1364,43.5745,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.5,normal,q3ec6.g.move.18.5,,5,6,,,43.5745,43.7622,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.5,normal,q3ec6.f.move.19.5,,5,6,,,43.6259,59.2517,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.5,normal,q3ec6.g.move.19,instruct,5,6,and so what you do is you come south immediately south at the edge of the footbridge oh for about for about an inch so that you're about an inch above the starting cross not actually above it you know but eh along and above it,,43.7622,60.168,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.5,normal,q3ec6.f.move.20,acknowledge,5,6,mmhmm mmhmm,,59.2517,60.2563,yes,no,m1,3,89,up,down
+6,q3ec6.transaction.6,normal,q3ec6.g.move.22,instruct,6,7,ehm then come then come to the right of your page to the level of the 'til you're eh and g-- then go north just eh to the left of the old temple,,60.7905,74.7464,yes,no,m1,3,89,up,down
+6,q3ec6.transaction.6,normal,q3ec6.g.move.23.5,,6,7,,,74.7464,80.9388,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.6,normal,q3ec6.f.move.23,check,6,7,right so i come to just approximately the level of the old temple below it then up due north,,75.5132,80.4711,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.6,normal,q3ec6.g.move.24,clarify,6,7,north to the left of the of the old temple,,80.9388,83.5836,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.6,normal,q3ec6.f.move.25.5,,6,7,,,80.4711,86.1661,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.6,normal,q3ec6.g.move.24.5,,6,7,,,83.5837,84.002,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.6,normal,q3ec6.g.move.25.4,,6,7,,,85.0099,86.2088,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.6,normal,q3ec6.f.move.26,acknowledge,6,7,mmhmm,,86.1661,87.0258,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.6,normal,q3ec6.g.move.25.9,instruct,6,7,until you are about two inches above about an inch above the abandoned truck to th-- which should be to the left of your t-- straight north line,,86.2088,98.5442,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.7,normal,q3ec6.f.move.28,explain,7,8,i have a slate mountain as well in the way,,99.1289,100.7165,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.7,normal,q3ec6.f.move.30.5,,7,8,,,100.7165,104.2508,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.7,normal,q3ec6.g.move.29,acknowledge,7,8,you have a slate mountain,,101.5712,102.5637,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.7,normal,q3ec6.g.move.31.5,,7,8,,,104.1897,104.4598,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.7,normal,q3ec6.f.move.31,check,7,8,up,,104.2508,104.4945,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.7,normal,q3ec6.f.move.32.5,,7,8,,,104.4945,104.7844,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.7,normal,q3ec6.g.move.32,instruct,7,8,go go--,,104.4598,105.079,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.7,normal,q3ec6.g.move.33.5,,7,8,,,105.079,106.4658,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.7,normal,q3ec6.f.move.33,check,7,8,just go straight up past it,,104.7844,105.8911,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.7,normal,q3ec6.f.move.36.5,,7,8,,,105.8911,113.2823,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.7,normal,q3ec6.g.move.34,reply_y,7,8,yeah,,106.4658,106.6963,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.7,normal,q3ec6.g.move.37.5,,7,8,,,112.6153,116.4855,yes,no,m1,3,89,down,up
+6,q3ec6.transaction.7,normal,q3ec6.f.move.37,acknowledge,7,8,okey-dokey,,113.2824,113.9445,yes,no,m1,3,89,down,up
+6,q3ec6.transaction.7,normal,q3ec6.f.move.38.5,,7,8,,,113.9445,118.2263,yes,no,m1,3,89,down,up
+6,q3ec6.transaction.7,normal,q3ec6.g.move.38,instruct,7,8,and stop at the edge of the abandoned truck,,116.4855,118.3959,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.7,normal,q3ec6.g.move.39.5,,7,8,,,118.3959,120.3168,yes,no,m1,3,89,up,down
+6,q3ec6.transaction.7,normal,q3ec6.f.move.39,check,7,8,to the left,,118.2263,118.8456,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.7,normal,q3ec6.f.move.41.5,,7,8,,,118.8456,121.0946,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.7,normal,q3ec6.g.move.40,reply_y,7,8,yeah,,120.3168,120.6296,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.7,normal,q3ec6.g.move.41,clarify,7,8,just immediately after the abandoned truck,,120.768,122.6817,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.7,normal,q3ec6.f.move.42,uncodable,7,8,o--,,121.0946,121.53,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.8,normal,q3ec6.g.move.44,instruct,8,9,now you don't have baboons so come dow-- come due eh south for about two inches just so that you are about an inch above your footbridge like,,123.2088,134.993,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.8,normal,q3ec6.g.move.46,align,8,9,if you know right,,135.8725,137.4041,yes,no,m1,3,89,down,up
+6,q3ec6.transaction.8,normal,q3ec6.f.move.45,acknowledge,8,9,mmhmm,,135.9426,136.9615,yes,no,m1,3,89,down,up
+6,q3ec6.transaction.8,normal,q3ec6.f.move.47,reply_w,8,9,interesting route,,137.8606,138.592,yes,no,m1,3,89,down,up
+6,q3ec6.transaction.9,normal,q3ec6.g.move.48,instruct,9,10,ehm go to the edge of your page,,138.8105,141.3434,yes,no,m1,3,89,down,up
+6,q3ec6.transaction.9,normal,q3ec6.g.move.49.5,,9,10,,,141.3434,144.3276,yes,no,m1,3,89,off,up
+6,q3ec6.transaction.9,normal,q3ec6.f.move.49,acknowledge,9,10,mmhmm,,141.7046,142.729,yes,no,m1,3,89,off,up
+6,q3ec6.transaction.9,normal,q3ec6.f.move.50.5,,9,10,,,142.729,147.2777,yes,no,m1,3,89,off,up
+6,q3ec6.transaction.9,normal,q3ec6.g.move.50,align,9,10,and y-- you can see your white mountain is above okay,,144.3277,146.8309,yes,no,m1,3,89,off,up
+6,q3ec6.transaction.9,normal,q3ec6.g.move.51.5,,9,10,,,146.8309,148.2176,yes,no,m1,3,89,off,up
+6,q3ec6.transaction.9,normal,q3ec6.f.move.51,reply_y,9,10,mmhmm,,147.2777,147.7125,yes,no,m1,3,89,off,up
+6,q3ec6.transaction.10,normal,q3ec6.g.move.52,instruct,10,11,go just due left of the white mountain and keep going right the way up a-- d-- until about the level of the bottom of the pyramid,,148.2176,162.6149,yes,no,m1,3,89,off,up
+6,q3ec6.transaction.10,normal,q3ec6.g.move.54.5,,10,11,,,162.6149,167.8257,yes,no,m1,3,89,off,up
+6,q3ec6.transaction.10,normal,q3ec6.f.move.53,acknowledge,10,11,okay,,165.42,165.8201,yes,no,m1,3,89,off,down
+6,q3ec6.transaction.10,normal,q3ec6.f.move.56.5,,10,11,,,166.867,172.4432,yes,no,m1,3,89,off,down
+6,q3ec6.transaction.10,normal,q3ec6.g.move.55,reply_y,10,11,past ye-- yes,,167.8257,170.5858,yes,no,m1,3,89,off,down
+6,q3ec6.transaction.10,normal,q3ec6.g.move.56,explain,10,11,which i don't have,,171.4488,172.2459,yes,no,m1,3,89,off,down
+6,q3ec6.transaction.10,normal,q3ec6.f.move.57,acknowledge,10,11,okay,,172.4432,172.8088,yes,no,m1,3,89,off,down
+6,q3ec6.transaction.11,normal,q3ec6.g.move.58,instruct,11,12,ehm go to the right,,173.7512,177.0351,yes,no,m1,3,89,off,down
+6,q3ec6.transaction.11,normal,q3ec6.g.move.59.5,,11,12,,,177.0351,181.5608,yes,no,m1,3,89,off,down
+6,q3ec6.transaction.11,normal,q3ec6.f.move.59,acknowledge,11,12,above the lemon grove which you don't have right,,178.0558,180.9172,yes,no,m1,3,89,off,down
+6,q3ec6.transaction.11,normal,q3ec6.f.move.62.5,,11,12,,,182.1211,188.3595,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.11,normal,q3ec6.g.move.60,instruct,11,12,at go t--,,181.5608,182.2163,yes,no,m1,3,89,off,down
+6,q3ec6.transaction.11,normal,q3ec6.g.move.63.5,,11,12,,,186.7157,189.4726,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.11,normal,q3ec6.f.move.63,acknowledge,11,12,mmhmm,,188.3596,188.8603,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.11,normal,q3ec6.f.move.64.5,,11,12,,,188.8603,193.3168,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.11,normal,q3ec6.g.move.64,instruct,11,12,and come down and under the pyramid just u--,,189.4726,194.0708,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.11,normal,q3ec6.g.move.66.5,,11,12,,,194.0708,194.4725,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.11,normal,q3ec6.f.move.65,check,11,12,coming round a circle,,193.3168,194.1962,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.11,normal,q3ec6.f.move.68.5,,11,12,,,194.1962,197.8391,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.11,normal,q3ec6.g.move.67,reply_y,11,12,mmhmm,,194.4726,194.9246,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.11,normal,q3ec6.g.move.68,instruct,11,12,until the edge of the pyramid,,194.9246,197.3448,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.11,normal,q3ec6.f.move.69,acknowledge,11,12,alright,,197.8391,198.2047,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.12,normal,q3ec6.g.move.70,explain,12,13,now you have a remote village but you don't have a cobbled street the cobbled street is directly above the remote village,,199.298,204.8788,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.12,normal,q3ec6.g.move.71.5,,12,13,,,204.8788,206.305,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.12,normal,q3ec6.f.move.71,acknowledge,12,13,okay,,205.0756,205.652,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.12,normal,q3ec6.g.move.72,uncodable,12,13,ehm,,206.305,207.0,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.12,normal,q3ec6.f.move.72.5,,12,13,,,205.652,207.4109,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.12,normal,q3ec6.g.move.73.5,,12,13,,,207.0,211.2886,yes,no,m1,3,89,up,down
+6,q3ec6.transaction.12,normal,q3ec6.f.move.73,query_w,12,13,so do you want me to come to the left-hand side of it or the right-hand side,,207.411,209.8655,yes,no,m1,3,89,up,down
+6,q3ec6.transaction.12,normal,q3ec6.g.move.74,reply_w,12,13,to the left-hand side,,211.2886,212.5837,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.12,normal,q3ec6.f.move.75.5,,12,13,,,209.8655,217.9847,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.12,normal,q3ec6.g.move.74.5,,12,13,,inbreath,212.5837,212.7345,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.12,normal,q3ec6.g.move.76.5,,12,13,,inbreath,,,yes,no,m1,3,89,,
+6,q3ec6.transaction.12,normal,q3ec6.f.move.76,acknowledge,12,13,mm okay mmhmm,,217.9847,222.3902,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.13,normal,q3ec6.g.move.77,align,13,14,so you a-- you've you've come due south and then you've come east to the right of the page,,222.4875,226.888,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.13,normal,q3ec6.f.move.78,reply_y,13,14,yeah,,225.8026,226.4037,yes,no,m1,3,89,down,up
+6,q3ec6.transaction.13,normal,q3ec6.f.move.81,explain,13,14,in the middle i'm actually directly under the remote village at the moment,,227.5154,230.124,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.13,normal,q3ec6.g.move.81.5,,13,14,,,226.8881,230.1936,yes,no,m1,3,89,down,down
+6,q3ec6.transaction.13,normal,q3ec6.f.move.82.5,,13,14,,,230.1241,232.1647,yes,no,m1,3,89,down,up
+6,q3ec6.transaction.13,normal,q3ec6.g.move.82,instruct,13,14,go about an inch past it,,230.1936,231.6212,yes,no,m1,3,89,down,up
+6,q3ec6.transaction.13,normal,q3ec6.g.move.83.5,,13,14,,,231.6213,233.3439,yes,no,m1,3,89,down,up
+6,q3ec6.transaction.13,normal,q3ec6.f.move.83,acknowledge,13,14,mmhmm,,232.1647,233.1719,yes,no,m1,3,89,down,up
+6,q3ec6.transaction.13,normal,q3ec6.g.move.84,instruct,13,14,"and ""x"" marks the spot",,233.3439,234.5922,yes,no,m1,3,89,down,down

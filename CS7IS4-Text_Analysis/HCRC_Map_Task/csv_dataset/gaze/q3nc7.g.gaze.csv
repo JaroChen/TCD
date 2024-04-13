@@ -1,0 +1,8 @@
+start,end,id,type
+0.0000,141.5017,q3nc7.g.gaze.2,id(gtype_down)
+141.5017,141.9165,q3nc7.g.gaze.3,id(gtype_up)
+141.9165,199.5913,q3nc7.g.gaze.4,id(gtype_down)
+199.5913,199.8736,q3nc7.g.gaze.5,id(gtype_up)
+199.8736,209.4529,q3nc7.g.gaze.6,id(gtype_down)
+209.4529,208.7095,q3nc7.g.gaze.7,id(gtype_up)
+208.7095,213.5188,q3nc7.g.gaze.8,id(gtype_down)

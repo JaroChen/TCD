@@ -1,0 +1,12 @@
+start,end,id,type
+0.0000,64.5162,q4nc5.g.gaze.2,id(gtype_down)
+64.5162,364.4007,q4nc5.g.gaze.3,id(gtype_up)
+364.4007,483.8364,q4nc5.g.gaze.4,id(gtype_down)
+483.8364,484.2898,q4nc5.g.gaze.5,id(gtype_up)
+484.2898,537.9548,q4nc5.g.gaze.6,id(gtype_down)
+537.9548,538.7572,q4nc5.g.gaze.7,id(gtype_up)
+538.7572,584.4606,q4nc5.g.gaze.8,id(gtype_down)
+584.4606,584.9567,q4nc5.g.gaze.9,id(gtype_up)
+584.9567,601.8982,q4nc5.g.gaze.10,id(gtype_down)
+601.8982,602.6675,q4nc5.g.gaze.11,id(gtype_up)
+602.6675,632.0798,q4nc5.g.gaze.12,id(gtype_down)

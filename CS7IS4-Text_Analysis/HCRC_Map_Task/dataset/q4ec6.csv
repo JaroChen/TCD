@@ -1,0 +1,164 @@
+conversation_id,transaction_id,transaction_type,move_id,label,map_start_point,map_end_point,timed_units,timed_unit_type,timed_unit_start,timed_unit_end,eyecontact,familiar,map,quad,devscore,f_gaze_type,g_gaze_type
+6,q4ec6.transaction.1,normal,q4ec6.g.move.1,ready,1,2,right,,0.0,0.3352,yes,no,m0,4,49,up,down
+6,q4ec6.transaction.1,normal,q4ec6.g.move.4.5,,1,2,,,5.7778,7.6237,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.1,normal,q4ec6.f.move.4,check,1,2,to the left of the camera shop,,6.4328,7.8129,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.1,normal,q4ec6.f.move.5.5,,1,2,,,7.8129,8.9097,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.1,normal,q4ec6.g.move.5,reply_y,1,2,yes,,7.6237,8.0138,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.1,normal,q4ec6.g.move.6.5,,1,2,,,8.0138,9.0437,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.1,normal,q4ec6.f.move.6,check,1,2,to the bottom corner,lowamp,8.9098,10.5237,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.1,normal,q4ec6.g.move.7,reply_y,1,2,ehm,,9.0438,9.3982,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.2,normal,q4ec6.g.move.8,query_yn,2,3,y-- yeah eh er you have a parked van marked on your map underneath the camera shop,,10.6875,15.3521,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.2,normal,q4ec6.g.move.9.5,,2,3,,,15.3521,16.2037,yes,no,m0,4,49,down,up
+6,q4ec6.transaction.2,normal,q4ec6.f.move.9,reply_n,2,3,no,lowamp,15.5204,16.255,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.2,normal,q4ec6.g.move.10,acknowledge,2,3,no,,16.2037,16.4724,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.2,normal,q4ec6.f.move.11.5,,2,3,,,16.255,28.4453,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.2,normal,q4ec6.g.move.10.5,,2,3,,,16.4724,17.6094,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.2,normal,q4ec6.g.move.12.5,,2,3,,,28.2255,31.3249,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.2,normal,q4ec6.f.move.12,check,2,3,so go right underneath the camera shop at the bottom,,28.4453,31.5316,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.2,normal,q4ec6.f.move.14.5,,2,3,,,31.5316,32.0751,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.2,normal,q4ec6.g.move.13,reply_y,2,3,yes,,31.3249,31.7745,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.2,normal,q4ec6.g.move.14,clarify,2,3,and then up,,31.8554,32.5476,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.2,normal,q4ec6.f.move.15,check,2,3,and then up,,32.0751,32.9216,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.2,normal,q4ec6.f.move.15.1,,2,3,,,32.9216,33.1917,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.2,normal,q4ec6.g.move.16,clarify,2,3,straight up,,32.5476,33.1756,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.2,normal,q4ec6.g.move.16.5,,2,3,,,33.1756,34.0034,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.2,normal,q4ec6.f.move.15.2,check,2,3,the left-hand side of the allotments,,33.1917,34.7858,yes,no,m0,4,49,down,up
+6,q4ec6.transaction.2,normal,q4ec6.f.move.17.5,,2,3,,,34.7859,35.448,yes,no,m0,4,49,down,up
+6,q4ec6.transaction.2,normal,q4ec6.g.move.17,reply_y,2,3,yes,,34.0034,34.3315,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.2,normal,q4ec6.g.move.18.5,,2,3,,,34.3316,37.0456,yes,no,m0,4,49,down,up
+6,q4ec6.transaction.2,normal,q4ec6.f.move.18,check,2,3,i stop at the top of the allotments,,35.448,36.9928,yes,no,m0,4,49,down,up
+6,q4ec6.transaction.2,normal,q4ec6.f.move.20.5,,2,3,,,36.9928,39.0119,yes,no,m0,4,49,down,up
+6,q4ec6.transaction.2,normal,q4ec6.g.move.19,reply_y,2,3,yes,,37.0457,37.5143,yes,no,m0,4,49,down,up
+6,q4ec6.transaction.2,normal,q4ec6.g.move.19.5,,2,3,,,37.5143,38.6726,yes,no,m0,4,49,down,up
+6,q4ec6.transaction.2,normal,q4ec6.f.move.21,acknowledge,2,3,right,,39.0119,39.4401,yes,no,m0,4,49,down,up
+6,q4ec6.transaction.3,normal,q4ec6.g.move.20,ready,3,4,and,,38.6727,39.6266,yes,no,m0,4,49,down,up
+6,q4ec6.transaction.3,normal,q4ec6.g.move.22,query_yn,3,4,you have a l-- a yacht club in the bottom right corner,lowamp,40.4163,42.619,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.3,normal,q4ec6.f.move.23,reply_y,3,4,yes,,42.7767,43.2741,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.3,normal,q4ec6.g.move.24.5,,3,4,,,42.619,44.5385,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.3,normal,q4ec6.f.move.26.5,,3,4,,,43.2741,57.1343,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.3,normal,q4ec6.g.move.25,instruct,3,4,slightly to the left of that you have to draw a point on a level with the c-- the top of the camera shop and then draw a straight line from the corner of the allotments to that point,,44.5386,54.8335,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.3,normal,q4ec6.g.move.27.5,,3,4,,,54.8335,59.7789,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.3,normal,q4ec6.f.move.27,query_yn,3,4,so have you got a flight museum on your,,57.1344,59.5455,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.3,normal,q4ec6.f.move.28.5,,3,4,,,59.5455,60.3008,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.3,normal,q4ec6.g.move.28,reply_n,3,4,no,lowamp,59.7789,60.2257,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.3,normal,q4ec6.g.move.30.5,,3,4,,,60.2257,66.989,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.3,normal,q4ec6.f.move.29,acknowledge,3,4,no,,60.3009,60.5731,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.3,normal,q4ec6.f.move.32.5,,3,4,,,66.5121,67.9394,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.3,normal,q4ec6.g.move.31,reply_y,3,4,yes,,66.989,67.4379,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.3,normal,q4ec6.g.move.33.5,,3,4,,,67.4379,70.8357,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.3,normal,q4ec6.f.move.33,query_w,3,4,and how far away from the yacht club,,67.9394,69.5825,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.3,normal,q4ec6.f.move.34.5,,3,4,,,69.5826,74.2023,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.3,normal,q4ec6.g.move.34,clarify,3,4,it's on a l-- it's on a level with the cam-- the roof of the camera shop horizontally and vertically slightly to the left of the c-- yacht club,,70.8357,77.9651,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.3,normal,q4ec6.g.move.38.5,,3,4,,,77.9651,86.9728,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.3,normal,q4ec6.f.move.35,acknowledge,3,4,uh-huh,,74.2023,74.5896,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.3,normal,q4ec6.f.move.39.5,,3,4,,,79.9605,87.5027,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.3,normal,q4ec6.g.move.39,align,3,4,you got that,,86.9729,87.233,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.3,normal,q4ec6.f.move.40,reply_y,3,4,mmhmm,,87.5028,87.8432,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.4,normal,q4ec6.g.move.42,instruct,4,5,then you go straight up and curve over the top of the disused monastery,lowamp,88.7547,93.8514,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.4,normal,q4ec6.g.move.44.5,,4,5,,,93.8514,101.059,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.4,normal,q4ec6.f.move.43,acknowledge,4,5,straight up right,,94.8102,95.7047,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.4,normal,q4ec6.f.move.45.5,,4,5,,,95.7047,102.7539,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.4,normal,q4ec6.g.move.45,align,4,5,have you over th-- o-- are you eh curved over the monastery,,101.059,103.4347,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.4,normal,q4ec6.g.move.46.5,,4,5,,,103.4347,105.304,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.4,normal,q4ec6.f.move.46,reply_y,4,5,mmhmm above the monastery,,102.7539,104.4253,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.4,normal,q4ec6.f.move.48.5,,4,5,,,104.4253,109.4417,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.4,normal,q4ec6.g.move.47,instruct,4,5,you go down to the left-hand side in this following the same curve,,105.304,108.0733,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.4,normal,q4ec6.g.move.49.5,,4,5,,,108.0733,110.6171,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.4,normal,q4ec6.f.move.49,check,4,5,so it's right round the monastery,,109.4417,110.6835,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.4,normal,q4ec6.f.move.50.5,,4,5,,,110.6835,112.6154,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.4,normal,q4ec6.g.move.50,reply_y,4,5,yeah,,110.6171,110.8495,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.4,normal,q4ec6.f.move.51,acknowledge,4,5,mmhmm,lowamp,112.6154,113.2328,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.5,normal,q4ec6.g.move.53,instruct,5,6,then at that point the curve reverses itself and dips round to a level which is vertically at the left-hand side of the alpine garden,,113.4278,123.506,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.5,normal,q4ec6.g.move.55,instruct,5,6,roughly but it ends at the same line as the disused monastery in a curve that dips down from the left-hand side of it,lowamp,126.5402,136.2869,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.5,normal,q4ec6.f.move.54,uncodable,5,6,s--,lowamp,126.5685,127.2586,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.6,normal,q4ec6.g.move.56,instruct,6,7,then you go straight up to the left-hand side of the alpine garden,lowamp,138.5314,141.448,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.6,normal,q4ec6.g.move.57.5,,6,7,,,141.448,143.7132,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.6,normal,q4ec6.f.move.57,acknowledge,6,7,mmhmm,,143.3854,143.714,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.7,normal,q4ec6.g.move.58,instruct,7,8,then to the right 'til the other side of the lef-- the alpine garden and straight up,,143.7132,150.327,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.8,normal,q4ec6.g.move.59,query_yn,8,9,now have you got a youth hostel marked there,lowamp,150.6677,152.1495,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.8,normal,q4ec6.g.move.60.5,,8,9,,,152.1496,152.8293,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.8,normal,q4ec6.f.move.60,reply_n,8,9,no,,152.4511,152.7422,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.8,normal,q4ec6.g.move.61,acknowledge,8,9,no,,152.8293,153.0572,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.8,normal,q4ec6.f.move.63.5,,8,9,,,152.7422,162.045,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.8,normal,q4ec6.g.move.61.5,,8,9,,,153.0572,154.7353,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.8,normal,q4ec6.g.move.64.5,,8,9,,,161.784,164.0629,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.8,normal,q4ec6.f.move.64,query_yn,8,9,have you got parked van,lowamp,162.045,163.3244,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.8,normal,q4ec6.f.move.66.5,,8,9,,,163.3244,166.4487,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.8,normal,q4ec6.g.move.65,reply_y,8,9,yes,,164.0629,164.4473,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.8,normal,q4ec6.g.move.67.5,,8,9,,,166.4801,166.9267,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.8,normal,q4ec6.f.move.67,acknowledge,8,9,uh-huh,,166.4487,166.7985,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.8,normal,q4ec6.f.move.69.5,,8,9,,,166.7985,170.599,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.8,normal,q4ec6.g.move.68,instruct,8,9,it's about it's below the level of the picket fence,,166.9267,170.1518,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.8,normal,q4ec6.g.move.70.5,,8,9,,,170.5938,171.6297,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.8,normal,q4ec6.f.move.70,reply_y,8,9,yeah,,170.599,170.991,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.8,normal,q4ec6.f.move.71.5,,8,9,,,170.991,172.0074,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.8,normal,q4ec6.g.move.71,instruct,8,9,it's about an inch below the level of the picket fence,lowamp,171.6297,173.6457,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.8,normal,q4ec6.g.move.74.5,,8,9,,,173.6457,174.5808,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.8,normal,q4ec6.f.move.72,acknowledge,8,9,right,,172.0074,172.2961,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.8,normal,q4ec6.f.move.76.5,,8,9,,,173.8032,175.9699,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.8,normal,q4ec6.g.move.75,instruct,8,9,and then you go to your right,lowamp,174.5809,175.7802,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.8,normal,q4ec6.g.move.77.5,,8,9,,,175.7802,177.1499,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.8,normal,q4ec6.f.move.77,check,8,9,underneath the parked van,,175.9699,176.9605,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.8,normal,q4ec6.f.move.79.5,,8,9,,,176.9605,180.9065,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.8,normal,q4ec6.g.move.78,reply_y,8,9,yes,,177.1499,177.5988,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.8,normal,q4ec6.g.move.79,clarify,8,9,to appro-- to roughly about the middle of the parked van a line and that,,177.5988,180.6721,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.8,normal,q4ec6.f.move.80,acknowledge,8,9,uh-huh,,180.9065,181.2844,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.9,normal,q4ec6.g.move.82,query_yn,9,10,and do you have a telephone box,lowamp,182.3088,184.0054,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.9,normal,q4ec6.f.move.83,reply_y,9,10,yeah,lowamp,184.214,184.829,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.9,normal,q4ec6.g.move.84.5,,9,10,,,184.0054,185.8562,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.9,normal,q4ec6.f.move.87.5,,9,10,,,184.829,192.9018,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.9,normal,q4ec6.g.move.85,ready,9,10,well do,,185.8562,187.0112,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.9,normal,q4ec6.g.move.88.5,,9,10,,,192.9648,193.9727,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.9,normal,q4ec6.f.move.88,explain,9,10,i don't have youth hostel,,192.9018,193.8854,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.9,normal,q4ec6.f.move.90.5,,9,10,,,193.8854,196.6224,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.9,normal,q4ec6.g.move.89,acknowledge,9,10,oh right,,193.9727,194.3581,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.9,normal,q4ec6.g.move.91.5,,9,10,,,197.0657,198.225,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.9,normal,q4ec6.f.move.91,acknowledge,9,10,mmhmm,lowamp,196.6224,197.2257,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.9,normal,q4ec6.f.move.92.5,,9,10,,nonvocal,197.2257,202.3901,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.9,normal,q4ec6.g.move.92,instruct,9,10,down to the it's slightly to the left of the telephone box 'cause there's,,198.225,202.8297,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.9,normal,q4ec6.g.move.94.5,,9,10,,,202.8298,204.4932,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.9,normal,q4ec6.f.move.93,check,9,10,so vertical,,202.3901,203.0568,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.9,normal,q4ec6.f.move.95.5,,9,10,,,204.1318,204.8994,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.9,normal,q4ec6.g.move.95,reply_n,9,10,no,,204.4932,204.7467,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.9,normal,q4ec6.g.move.96.5,,9,10,,,204.7467,205.7118,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.9,normal,q4ec6.f.move.96,acknowledge,9,10,no,,204.8994,205.1693,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.9,normal,q4ec6.f.move.97.5,,9,10,,,205.1694,210.2211,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.9,normal,q4ec6.g.move.97,instruct,9,10,there's a v-- there's a hori-- horizontal line that goes under the telephone box,,205.7119,209.0584,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.9,normal,q4ec6.g.move.98.5,,9,10,,,209.0584,210.8733,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.9,normal,q4ec6.f.move.98,acknowledge,9,10,uh-huh,lowamp,210.2211,210.6811,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.9,normal,q4ec6.f.move.99.5,,9,10,,,210.6811,219.2257,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.9,normal,q4ec6.g.move.99,instruct,9,10,eh that's on a line with the yacht club and you've to draw a diagonal line between that and the point you've just ended at,lowamp,210.8733,219.4701,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.9,normal,q4ec6.f.move.100,acknowledge,9,10,right,lowamp,219.2258,220.0004,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.9,normal,q4ec6.f.move.100.9,acknowledge,9,10,right i've done that,lowamp,225.3619,226.4863,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.10,normal,q4ec6.g.move.102,instruct,10,11,then you go up to about slightly above the top of the telephone box,,226.5353,231.2026,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.10,normal,q4ec6.f.move.103,acknowledge,10,11,mmhmm,,237.16,237.4816,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.11,normal,q4ec6.g.move.105,instruct,11,12,then the path curves it in a follows a curve rising to the left until it reaches a line approximately level with the middle of east lake that's a ve-- a vertical line approximately the middle of east lake,,237.2006,253.6776,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.11,normal,q4ec6.g.move.108.5,,11,12,,,253.6776,259.229,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.11,normal,q4ec6.f.move.106,acknowledge,11,12,mmhmm,,253.6459,254.0121,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.11,normal,q4ec6.f.move.109.5,,11,12,,,258.7962,261.6905,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.11,normal,q4ec6.g.move.109,reply_y,11,12,yes,lowamp,259.2291,259.8176,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.11,normal,q4ec6.g.move.111.5,,11,12,,,259.8176,264.7272,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.11,normal,q4ec6.f.move.110,acknowledge,11,12,right,,261.6905,261.9863,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.11,normal,q4ec6.f.move.112.5,,11,12,,,264.1741,266.7211,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.11,normal,q4ec6.g.move.112,clarify,11,12,to a line approximately just it's below the m--,,264.7272,266.7059,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.11,normal,q4ec6.g.move.113.5,,11,12,,,266.7059,266.9492,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.11,normal,q4ec6.f.move.113,acknowledge,11,12,yeah uh-huh,,266.7211,267.8408,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.11,normal,q4ec6.f.move.114.5,,11,12,,,267.8408,272.369,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.11,normal,q4ec6.g.move.114,clarify,11,12,east lake it's approximately level with the the bottom of the picket fence,,266.9492,270.9019,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.11,normal,q4ec6.f.move.115,acknowledge,11,12,mm right,,272.369,273.0637,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.11,normal,q4ec6.f.move.115.9,acknowledge,11,12,done that,,275.1624,275.6225,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.12,normal,q4ec6.g.move.117,instruct,12,13,right and from there it's a straight line to another line which is ehm level with the top of the picket fence and the furthest most part of east lake that bulge that goes out the left-hand side,,275.7861,290.9993,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.12,normal,q4ec6.g.move.119.5,,12,13,,,290.9993,296.4626,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.12,normal,q4ec6.f.move.118,acknowledge,12,13,mmhmm,,290.8712,291.2257,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.12,normal,q4ec6.f.move.120.5,,12,13,,,295.0591,301.6952,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.12,normal,q4ec6.g.move.120,clarify,12,13,on a l-- eh the finish point is on a line level with the picket fence,,296.4626,301.5831,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.12,normal,q4ec6.g.move.121.5,,12,13,,,301.5831,302.2967,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.12,normal,q4ec6.f.move.121,acknowledge,12,13,mmhmm,lowamp,301.6952,302.2445,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.12,normal,q4ec6.f.move.122.5,,12,13,,,302.2445,303.9534,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.12,normal,q4ec6.g.move.122,clarify,12,13,about the middle of the picket fence and a vertical line that touches the outer m-- the left most part of east lake,,302.2967,309.6002,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.12,normal,q4ec6.g.move.125.5,,12,13,,,309.6002,311.3616,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.12,normal,q4ec6.f.move.123,acknowledge,12,13,right,,303.9534,304.2468,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.12,normal,q4ec6.f.move.126.5,,12,13,,,310.6037,312.052,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.12,normal,q4ec6.g.move.126,clarify,12,13,it doesn't eh doesn't actually touch the east lake,,311.3616,313.8687,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.12,normal,q4ec6.f.move.127,acknowledge,12,13,no,,312.052,312.2961,yes,no,m0,4,49,down,down
+6,q4ec6.transaction.12,normal,q4ec6.f.move.130,explain,12,13,think that's where it is,,316.8012,317.8646,yes,no,m0,4,49,down,down

@@ -1,0 +1,452 @@
+conversation_id,transaction_id,transaction_type,move_id,label,map_start_point,map_end_point,timed_units,timed_unit_type,timed_unit_start,timed_unit_end,eyecontact,familiar,map,quad,devscore,f_gaze_type,g_gaze_type
+2,q4nc2.transaction.1,normal,q4nc2.g.move.1,ready,1,2,okay,,1.4834,1.8724,no,no,m10,4,83,down,down
+2,q4nc2.transaction.1,normal,q4nc2.g.move.4.5,,1,2,,,4.5287,5.2194,no,no,m10,4,83,off,down
+2,q4nc2.transaction.1,normal,q4nc2.f.move.2,acknowledge,1,2,uh-huh,,2.1472,2.5701,no,no,m10,4,83,down,down
+2,q4nc2.transaction.1,normal,q4nc2.f.move.6.5,,1,2,,,5.8555,7.0199,no,no,m10,4,83,off,down
+2,q4nc2.transaction.1,normal,q4nc2.g.move.5,instruct,1,2,,,,,no,no,m10,4,83,,
+2,q4nc2.transaction.1,normal,q4nc2.f.move.7,acknowledge,1,2,uh-huh that's right,,7.02,7.7219,no,no,m10,4,83,off,down
+2,q4nc2.transaction.1,normal,q4nc2.g.move.7.5,,1,2,,,6.9947,8.2913,no,no,m10,4,83,off,down
+2,q4nc2.transaction.1,normal,q4nc2.f.move.8.5,,1,2,,,7.7219,10.6658,no,no,m10,4,83,off,down
+2,q4nc2.transaction.1,normal,q4nc2.g.move.8,instruct,1,2,ehm come straight down,lowamp,8.2913,10.1969,no,no,m10,4,83,off,down
+2,q4nc2.transaction.1,normal,q4nc2.g.move.9.5,,1,2,,,10.1969,11.1602,no,no,m10,4,83,off,down
+2,q4nc2.transaction.1,normal,q4nc2.f.move.9,check,1,2,straight down,,10.6659,11.3498,no,no,m10,4,83,off,down
+2,q4nc2.transaction.1,normal,q4nc2.f.move.10.5,,1,2,,,11.3498,12.764,no,no,m10,4,83,off,down
+2,q4nc2.transaction.1,normal,q4nc2.g.move.10,reply_y,1,2,straight down,,11.1602,11.8916,no,no,m10,4,83,off,down
+2,q4nc2.transaction.1,normal,q4nc2.g.move.11.5,,1,2,,,11.8916,13.617,no,no,m10,4,83,off,down
+2,q4nc2.transaction.1,normal,q4nc2.f.move.11,check,1,2,straight down yeah,,12.764,13.528,no,no,m10,4,83,off,down
+2,q4nc2.transaction.1,normal,q4nc2.f.move.12.5,,1,2,,,13.5281,14.3341,no,no,m10,4,83,off,down
+2,q4nc2.transaction.1,normal,q4nc2.g.move.12,reply_y,1,2,straight down,,13.617,14.3318,no,no,m10,4,83,down,down
+2,q4nc2.transaction.1,normal,q4nc2.g.move.15.5,,1,2,,,14.3318,28.289,no,no,m10,4,83,down,down
+2,q4nc2.transaction.1,normal,q4nc2.f.move.13,acknowledge,1,2,uh-huh,,14.3341,14.6519,no,no,m10,4,83,down,down
+2,q4nc2.transaction.1,normal,q4nc2.f.move.18.5,,1,2,,,27.014,28.5134,no,no,m10,4,83,down,down
+2,q4nc2.transaction.1,normal,q4nc2.g.move.15.6,query_yn,1,2,is i--,,28.289,28.5306,no,no,m10,4,83,down,down
+2,q4nc2.transaction.1,normal,q4nc2.g.move.15.7,,1,2,,,28.5306,30.4528,no,no,m10,4,83,down,down
+2,q4nc2.transaction.1,normal,q4nc2.f.move.18.6,acknowledge,1,2,okay,,28.5134,28.8124,no,no,m10,4,83,down,down
+2,q4nc2.transaction.1,normal,q4nc2.f.move.19.2,,1,2,,,30.2944,35.4532,no,no,m10,4,83,down,down
+2,q4nc2.transaction.1,normal,q4nc2.g.move.16.2,query_yn,1,2,do you have a,,30.4528,30.9076,no,no,m10,4,83,down,down
+2,q4nc2.transaction.1,normal,q4nc2.g.move.19.5,,1,2,,,36.5019,37.1815,no,no,m10,4,83,down,down
+2,q4nc2.transaction.1,normal,q4nc2.f.move.19.3,acknowledge,1,2,uh-huh,,35.4532,35.8575,no,no,m10,4,83,down,down
+2,q4nc2.transaction.1,normal,q4nc2.f.move.21.5,,1,2,,,37.535,41.9439,no,no,m10,4,83,down,down
+2,q4nc2.transaction.1,normal,q4nc2.g.move.20,reply_n,1,2,go no,,37.1815,37.7135,no,no,m10,4,83,down,down
+2,q4nc2.transaction.1,normal,q4nc2.g.move.21.4,,1,2,,,40.8384,42.2712,no,no,m10,4,83,down,down
+2,q4nc2.transaction.1,normal,q4nc2.f.move.22,explain,1,2,the diamond and the field station,,41.9439,44.0747,no,no,m10,4,83,down,down
+2,q4nc2.transaction.1,normal,q4nc2.f.move.23.5,,1,2,,,44.0748,44.1753,no,no,m10,4,83,down,down
+2,q4nc2.transaction.1,normal,q4nc2.g.move.21.9,reply_w,1,2,the diamond and the field station,,42.2713,44.0599,no,no,m10,4,83,down,down
+2,q4nc2.transaction.1,normal,q4nc2.f.move.24,acknowledge,1,2,okay,,44.1753,44.5747,no,no,m10,4,83,down,down
+2,q4nc2.transaction.2,normal,q4nc2.g.move.25,instruct,2,3,and then turn to the right,,44.871,48.4575,no,no,m10,4,83,down,down
+2,q4nc2.transaction.2,normal,q4nc2.g.move.27.5,,2,3,,,48.4575,50.8976,no,no,m10,4,83,down,down
+2,q4nc2.transaction.2,normal,q4nc2.f.move.26,acknowledge,2,3,the right okay,,48.6075,49.535,no,no,m10,4,83,down,down
+2,q4nc2.transaction.2,normal,q4nc2.f.move.28.5,,2,3,,,50.6145,54.6589,no,no,m10,4,83,down,down
+2,q4nc2.transaction.2,normal,q4nc2.g.move.28,query_yn,2,3,i'm g-- ca-- is there a mountain in the top,,50.8976,53.4016,no,no,m10,4,83,down,down
+2,q4nc2.transaction.2,normal,q4nc2.g.move.29.5,,2,3,,,53.4016,55.1762,no,no,m10,4,83,down,down
+2,q4nc2.transaction.2,normal,q4nc2.f.move.29,check,2,3,the highest viewpoint,,54.6589,55.7237,no,no,m10,4,83,down,down
+2,q4nc2.transaction.2,normal,q4nc2.g.move.30,reply_y,2,3,the highest viewpoint,,55.1762,56.2307,no,no,m10,4,83,down,down
+2,q4nc2.transaction.2,normal,q4nc2.f.move.31,reply_y,2,3,uh-huh,,55.7237,56.2383,no,no,m10,4,83,down,down
+2,q4nc2.transaction.2,normal,q4nc2.f.move.32.5,,2,3,,,56.2383,58.3808,no,no,m10,4,83,down,down
+2,q4nc2.transaction.2,normal,q4nc2.g.move.32,query_yn,2,3,are springboks marked on the map,,56.2307,57.866,no,no,m10,4,83,down,down
+2,q4nc2.transaction.2,normal,q4nc2.g.move.33.5,,2,3,,,57.866,59.5479,no,no,m10,4,83,down,down
+2,q4nc2.transaction.2,normal,q4nc2.f.move.33,reply_n,2,3,ehm no,,58.3808,59.5842,no,no,m10,4,83,down,down
+2,q4nc2.transaction.2,normal,q4nc2.f.move.36.5,,2,3,,,59.5842,70.4766,no,no,m10,4,83,down,down
+2,q4nc2.transaction.2,normal,q4nc2.g.move.34,acknowledge,2,3,no,,59.5479,59.877,no,no,m10,4,83,down,down
+2,q4nc2.transaction.2,normal,q4nc2.g.move.37.5,,2,3,,,69.744,71.2356,no,no,m10,4,83,down,down
+2,q4nc2.transaction.2,normal,q4nc2.f.move.37,acknowledge,2,3,i have,lowamp,70.4766,71.1379,no,no,m10,4,83,down,down
+2,q4nc2.transaction.2,normal,q4nc2.f.move.38.5,,2,3,,,71.1379,79.6168,no,no,m10,4,83,down,down
+2,q4nc2.transaction.2,normal,q4nc2.g.move.38,reply_w,2,3,and come over to the right to until you're just below the left-hand side of the mountain,lowamp,71.2356,78.8105,no,no,m10,4,83,down,down
+2,q4nc2.transaction.2,normal,q4nc2.g.move.40.5,,2,3,,,78.8105,81.234,no,no,m10,4,83,down,down
+2,q4nc2.transaction.2,normal,q4nc2.f.move.39,acknowledge,2,3,okay,,79.6168,80.0094,no,no,m10,4,83,down,down
+2,q4nc2.transaction.2,normal,q4nc2.f.move.41.5,,2,3,,,81.4042,82.0748,no,no,m10,4,83,down,down
+2,q4nc2.transaction.2,normal,q4nc2.g.move.41,reply_y,2,3,in a straight line,,81.2341,82.0392,no,no,m10,4,83,down,down
+2,q4nc2.transaction.2,normal,q4nc2.f.move.42,acknowledge,2,3,right okay,lowamp,82.0748,82.7851,no,no,m10,4,83,down,down
+2,q4nc2.transaction.3,normal,q4nc2.g.move.43,instruct,3,4,then go straight up to above the mountain,lowamp,86.0179,89.087,no,no,m10,4,83,down,down
+2,q4nc2.transaction.3,normal,q4nc2.g.move.44.5,,3,4,,,89.087,90.97,no,no,m10,4,83,down,down
+2,q4nc2.transaction.3,normal,q4nc2.f.move.42.9,acknowledge,3,4,right okay,lowamp,83.986,84.8318,no,no,m10,4,83,down,down
+2,q4nc2.transaction.3,normal,q4nc2.f.move.44,check,3,4,not going through the mountain,,90.0795,91.1231,no,no,m10,4,83,down,down
+2,q4nc2.transaction.3,normal,q4nc2.g.move.45,reply_n,3,4,not going through the mountain,,90.97,91.8983,no,no,m10,4,83,down,down
+2,q4nc2.transaction.3,normal,q4nc2.f.move.46,acknowledge,3,4,at all okay,,91.1231,92.0975,no,no,m10,4,83,down,down
+2,q4nc2.transaction.3,normal,q4nc2.f.move.47.5,,3,4,,,92.0975,92.5584,no,no,m10,4,83,down,down
+2,q4nc2.transaction.3,normal,q4nc2.g.move.47,instruct,3,4,straight up to above the mountain,lowamp,91.8984,93.2489,no,no,m10,4,83,down,down
+2,q4nc2.transaction.3,normal,q4nc2.g.move.49.5,,3,4,,,93.2489,95.0427,no,no,m10,4,83,down,down
+2,q4nc2.transaction.3,normal,q4nc2.f.move.48,acknowledge,3,4,straight up uh-huh,,92.5584,93.7617,no,no,m10,4,83,down,down
+2,q4nc2.transaction.3,normal,q4nc2.f.move.50.5,,3,4,,,94.6566,97.2033,no,no,m10,4,83,down,down
+2,q4nc2.transaction.3,normal,q4nc2.g.move.50,reply_w,3,4,to the to-- near the top of the page,,95.0428,96.6158,no,no,m10,4,83,down,down
+2,q4nc2.transaction.3,normal,q4nc2.g.move.52.5,,3,4,,,96.6158,99.1141,no,no,m10,4,83,down,down
+2,q4nc2.transaction.3,normal,q4nc2.f.move.51,acknowledge,3,4,near it,,97.2033,97.507,no,no,m10,4,83,down,down
+2,q4nc2.transaction.3,normal,q4nc2.f.move.54.5,,3,4,,,98.6449,102.1823,no,no,m10,4,83,down,down
+2,q4nc2.transaction.3,normal,q4nc2.g.move.53,explain,3,4,i i haven't got birds mar--,,99.1142,100.2865,no,no,m10,4,83,down,down
+2,q4nc2.transaction.3,normal,q4nc2.g.move.55.5,,3,4,,,102.0716,102.6295,no,no,m10,4,83,down,down
+2,q4nc2.transaction.3,normal,q4nc2.f.move.55,acknowledge,3,4,okay,lowamp,102.1823,102.6262,no,no,m10,4,83,down,down
+2,q4nc2.transaction.3,normal,q4nc2.f.move.56.5,,3,4,,,102.6262,103.0374,no,no,m10,4,83,down,down
+2,q4nc2.transaction.3,normal,q4nc2.g.move.56,uncodable,3,4,ehm,,102.6295,103.0533,no,no,m10,4,83,down,down
+2,q4nc2.transaction.3,normal,q4nc2.f.move.57,acknowledge,3,4,right,,103.0374,103.2991,no,no,m10,4,83,down,down
+2,q4nc2.transaction.4,normal,q4nc2.g.move.58,instruct,4,5,turn right along to the e-- the ed-- to-- towards the edge of the page,,104.8336,109.4168,no,no,m10,4,83,down,down
+2,q4nc2.transaction.4,normal,q4nc2.g.move.59.5,,4,5,,,109.4168,111.016,no,no,m10,4,83,down,down
+2,q4nc2.transaction.4,normal,q4nc2.f.move.59,acknowledge,4,5,uh-huh,,109.4112,109.8341,no,no,m10,4,83,down,down
+2,q4nc2.transaction.4,normal,q4nc2.f.move.60.5,,4,5,,,109.8341,111.5234,no,no,m10,4,83,down,down
+2,q4nc2.transaction.4,normal,q4nc2.g.move.60,align,4,5,okay,,111.0161,111.4343,no,no,m10,4,83,down,down
+2,q4nc2.transaction.4,normal,q4nc2.f.move.61,reply_y,4,5,uh-huh,,111.5234,111.8622,no,no,m10,4,83,down,down
+2,q4nc2.transaction.4,normal,q4nc2.g.move.61.5,,4,5,,outbreath,111.4343,113.9061,no,no,m10,4,83,down,down
+2,q4nc2.transaction.4,normal,q4nc2.f.move.63.5,,4,5,,,111.8622,118.8481,no,no,m10,4,83,down,down
+2,q4nc2.transaction.4,normal,q4nc2.g.move.62,ready,4,5,right,,113.9061,114.0302,no,no,m10,4,83,down,down
+2,q4nc2.transaction.4,normal,q4nc2.g.move.64.5,,4,5,,,118.589,120.5358,no,no,m10,4,83,down,down
+2,q4nc2.transaction.4,normal,q4nc2.f.move.64,acknowledge,4,5,uh-huh,,118.8481,119.229,no,no,m10,4,83,down,down
+2,q4nc2.transaction.4,normal,q4nc2.f.move.68.5,,4,5,,,121.8201,123.3785,no,no,m10,4,83,down,down
+2,q4nc2.transaction.4,normal,q4nc2.g.move.65,uncodable,4,5,and,,120.5358,120.7127,no,no,m10,4,83,down,down
+2,q4nc2.transaction.4,normal,q4nc2.g.move.68,clarify,4,5,come back to the the right-hand side of the mountains,,121.6566,123.7459,no,no,m10,4,83,down,down
+2,q4nc2.transaction.4,normal,q4nc2.f.move.69,acknowledge,4,5,oh right okay right uh-huh,,123.3785,124.6612,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.g.move.70,instruct,5,6,and i want you to drop straight down until you're level with the field station,lowamp,126.2344,131.6221,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.g.move.71.1,,5,6,,,131.6221,134.1114,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.f.move.71,query_w,5,6,what field station,,132.9837,133.9392,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.f.move.72.5,,5,6,,,133.9392,135.1635,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.g.move.71.2,reply_w,5,6,it-- there's a field station marked,,134.1114,135.2795,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.g.move.71.5,,5,6,,,135.2795,135.9229,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.f.move.73,acknowledge,5,6,oh right okay,,135.1636,135.6581,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.f.move.75.5,,5,6,,,136.5187,136.7593,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.g.move.72,ready,5,6,oh dear right,,135.9229,136.5946,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.g.move.76.5,,5,6,,,136.5946,136.7654,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.f.move.76,check,5,6,on your,,136.7593,137.1169,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.f.move.77.5,,5,6,,,137.1169,137.3551,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.g.move.77,instruct,5,6,wait a minute,,136.7654,137.1355,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.g.move.78.5,,5,6,,,137.1355,137.6617,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.f.move.78,check,5,6,on my left,,137.3551,138.0655,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.f.move.80.5,,5,6,,,138.0655,142.3645,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.g.move.79,acknowledge,5,6,right,,137.6618,137.8874,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.g.move.82.5,,5,6,,,144.3001,144.3791,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.f.move.81,explain,5,6,i've got one on my left,,142.3645,143.7073,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.f.move.83.5,,5,6,,,143.7073,146.3949,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.g.move.83,query_yn,5,6,have you got a field station marked on the left-hand side,,144.3791,146.432,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.g.move.84.5,,5,6,,,146.432,148.9223,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.f.move.84,reply_y,5,6,uh-huh where i'm looking at it it's on my left,,146.3949,149.2594,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.f.move.85.5,,5,6,,,149.2594,151.264,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.g.move.85,query_yn,5,6,have you also got a field station marked in the centre,,148.9223,150.7573,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.g.move.86.5,,5,6,,,150.7573,151.8526,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.f.move.86,reply_n,5,6,no,,151.264,151.5701,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.f.move.87.5,,5,6,,,151.5701,152.6332,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.g.move.87,acknowledge,5,6,no you don't,,151.8526,152.5307,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.g.move.88.5,,5,6,,,152.5308,153.3603,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.f.move.88,reply_n,5,6,no,,152.6332,152.9089,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.f.move.90.5,,5,6,,,152.9089,156.257,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.g.move.89,check,5,6,it's on it-- it's on the far far left-hand side of the page,,153.3603,155.9971,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.g.move.91.5,,5,6,,,156.219,156.5601,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.f.move.91,reply_y,5,6,uh-huh,,156.257,156.5701,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.f.move.92.5,,5,6,,,156.5701,158.7142,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.g.move.92,instruct,5,6,drop down 'til you're level with that field station,,156.5601,158.4486,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.g.move.94.5,,5,6,,,158.4486,161.4466,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.f.move.93,acknowledge,5,6,okay,,158.7142,159.0553,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.f.move.95.5,,5,6,,,160.7196,162.2967,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.g.move.95,reply_n,5,6,no,,161.4466,161.8534,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.g.move.96.5,,5,6,,,161.8534,163.0884,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.f.move.96,acknowledge,5,6,oh right oh,,162.2968,163.3271,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.f.move.98.5,,5,6,,,163.3271,166.8341,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.g.move.97,reply_n,5,6,i don't,,163.0884,163.4212,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.g.move.100.5,,5,6,,,167.7138,168.0014,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.f.move.98.6,acknowledge,5,6,oh,,166.8341,167.2243,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.f.move.98.7,,5,6,,,167.2243,168.1776,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.g.move.101,instruct,5,6,come back to a point,,168.0014,168.9776,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.g.move.104.5,,5,6,,,168.9776,178.3435,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.f.move.99.2,uncodable,5,6,well i,,168.1776,168.3901,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.f.move.105.5,,5,6,,,178.8154,179.6168,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.g.move.105,reply_n,5,6,no there's absolutely nothing there,,178.3435,179.6296,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.g.move.107.5,,5,6,,,179.6297,180.8175,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.f.move.106,acknowledge,5,6,right,,179.6168,179.7951,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.f.move.108.5,,5,6,,,181.285,182.0748,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.g.move.108,reply_y,5,6,you can drop right down there yeah,lowamp,180.8175,182.153,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.g.move.110.5,,5,6,,,182.153,184.9097,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.f.move.109,acknowledge,5,6,okay,,182.0748,182.4299,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.f.move.111.5,,5,6,,,184.6986,186.7477,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.g.move.111,reply_y,5,6,go 'til you're down to the level with this field,,184.9097,186.6285,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.g.move.113,align,5,6,station okay,,186.6285,188.1245,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.f.move.112,acknowledge,5,6,field station okay then,,186.7477,188.1168,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.f.move.115.5,,5,6,,,188.1168,195.8295,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.g.move.113.5,,5,6,,,188.1245,188.8045,no,no,m10,4,83,down,down
+2,q4nc2.transaction.5,normal,q4nc2.g.move.114,ready,5,6,right,,188.8046,189.1724,no,no,m10,4,83,down,down
+2,q4nc2.transaction.6,normal,q4nc2.g.move.115,instruct,6,7,now you've got to turn left and go towards the field station but only 'til you're level with,,189.9429,195.3862,no,no,m10,4,83,down,down
+2,q4nc2.transaction.6,normal,q4nc2.g.move.116.5,,6,7,,,195.3862,197.2211,no,no,m10,4,83,down,down
+2,q4nc2.transaction.6,normal,q4nc2.f.move.116,query_yn,6,7,the diamond or the banana tree,,195.8295,197.9533,no,no,m10,4,83,down,down
+2,q4nc2.transaction.6,normal,q4nc2.f.move.120.5,,6,7,,,197.9533,203.3038,no,no,m10,4,83,down,down
+2,q4nc2.transaction.6,normal,q4nc2.g.move.117,reply_n,6,7,no no not as far a-- not f-- not as far across as that,,197.2211,199.7937,no,no,m10,4,83,down,down
+2,q4nc2.transaction.6,normal,q4nc2.g.move.122.5,,6,7,,,202.5636,206.7021,no,no,m10,4,83,down,down
+2,q4nc2.transaction.6,normal,q4nc2.f.move.121,acknowledge,6,7,okay then right okay,lowamp,203.3038,206.5982,no,no,m10,4,83,down,down
+2,q4nc2.transaction.6,normal,q4nc2.f.move.123.5,,6,7,,,206.5982,207.2477,no,no,m10,4,83,down,down
+2,q4nc2.transaction.6,normal,q4nc2.g.move.123,align,6,7,okay,,206.7021,207.0307,no,no,m10,4,83,down,down
+2,q4nc2.transaction.6,normal,q4nc2.f.move.124,reply_y,6,7,uh-huh,,207.2477,207.5911,no,no,m10,4,83,down,down
+2,q4nc2.transaction.7,normal,q4nc2.g.move.125,ready,7,8,right,,207.2405,207.4294,no,no,m10,4,83,down,down
+2,q4nc2.transaction.7,normal,q4nc2.g.move.127.5,,7,8,,,211.6337,213.6803,no,no,m10,4,83,down,down
+2,q4nc2.transaction.7,normal,q4nc2.f.move.127,acknowledge,7,8,uh-huh right,,211.2921,212.3764,no,no,m10,4,83,down,down
+2,q4nc2.transaction.7,normal,q4nc2.f.move.128.5,,7,8,,laugh,212.3764,220.5117,no,no,m10,4,83,down,down
+2,q4nc2.transaction.7,normal,q4nc2.g.move.128,instruct,7,8,and drop straight down ehm,,213.6803,216.0269,no,no,m10,4,83,down,down
+2,q4nc2.transaction.7,normal,q4nc2.g.move.131.5,,7,8,,,222.5242,223.0203,no,no,m10,4,83,down,down
+2,q4nc2.transaction.7,normal,q4nc2.f.move.129,explain,7,8,i've went in a circle,,220.5117,221.722,no,no,m10,4,83,down,down
+2,q4nc2.transaction.7,normal,q4nc2.f.move.132.5,,7,8,,,222.9276,223.5725,no,no,m10,4,83,down,down
+2,q4nc2.transaction.7,normal,q4nc2.g.move.132,check,7,8,you do,,223.0203,223.4513,no,no,m10,4,83,down,down
+2,q4nc2.transaction.7,normal,q4nc2.g.move.133.5,,7,8,,,223.4514,223.7507,no,no,m10,4,83,down,down
+2,q4nc2.transaction.7,normal,q4nc2.f.move.133,reply_y,7,8,uh-huh,,223.5725,223.9766,no,no,m10,4,83,down,down
+2,q4nc2.transaction.7,normal,q4nc2.f.move.134.5,,7,8,,,223.9766,224.9135,no,no,m10,4,83,down,down
+2,q4nc2.transaction.7,normal,q4nc2.g.move.134,instruct,7,8,drop straight down,,223.7508,224.7652,no,no,m10,4,83,down,down
+2,q4nc2.transaction.7,normal,q4nc2.g.move.135.5,,7,8,,,224.7652,225.0182,no,no,m10,4,83,down,down
+2,q4nc2.transaction.7,normal,q4nc2.f.move.135,acknowledge,7,8,mmhmm,,224.9136,225.2547,no,no,m10,4,83,off,down
+2,q4nc2.transaction.7,normal,q4nc2.f.move.136.5,,7,8,,,225.2547,227.9532,no,no,m10,4,83,down,down
+2,q4nc2.transaction.7,normal,q4nc2.g.move.136,instruct,7,8,so-- 'til you're level with the top branches of the banana tree,lowamp,225.0182,227.7741,no,no,m10,4,83,down,down
+2,q4nc2.transaction.7,normal,q4nc2.g.move.138.5,,7,8,,,227.7742,231.3165,no,no,m10,4,83,down,down
+2,q4nc2.transaction.7,normal,q4nc2.f.move.137,acknowledge,7,8,right okay mmhmm,,227.9533,230.8925,no,no,m10,4,83,down,down
+2,q4nc2.transaction.7,normal,q4nc2.f.move.139.5,,7,8,,,230.8925,231.7732,no,no,m10,4,83,down,down
+2,q4nc2.transaction.7,normal,q4nc2.g.move.139,align,7,8,okay,,231.3165,231.7086,no,no,m10,4,83,down,down
+2,q4nc2.transaction.7,normal,q4nc2.f.move.140,reply_y,7,8,mmhmm,,231.7732,232.0929,no,no,m10,4,83,down,down
+2,q4nc2.transaction.8,normal,q4nc2.g.move.141,instruct,8,9,and then i want you to come across and go round the top of the banana tree,lowamp,233.365,236.9756,no,no,m10,4,83,down,down
+2,q4nc2.transaction.8,normal,q4nc2.g.move.142.5,,8,9,,,236.9756,237.7519,no,no,m10,4,83,down,down
+2,q4nc2.transaction.8,normal,q4nc2.f.move.144,check,8,9,just straight across,,237.4753,238.6133,no,no,m10,4,83,off,down
+2,q4nc2.transaction.8,normal,q4nc2.f.move.146.5,,8,9,,,238.6133,240.6242,no,no,m10,4,83,down,down
+2,q4nc2.transaction.8,normal,q4nc2.g.move.143,uncodable,8,9,you co--,,237.7519,238.0099,no,no,m10,4,83,off,down
+2,q4nc2.transaction.8,normal,q4nc2.g.move.147.5,,8,9,,,240.402,244.7926,no,no,m10,4,83,down,down
+2,q4nc2.transaction.8,normal,q4nc2.f.move.147,acknowledge,8,9,okay right,lowamp,240.6242,243.9972,no,no,m10,4,83,down,down
+2,q4nc2.transaction.8,normal,q4nc2.f.move.148.5,,8,9,,,243.9972,246.6598,no,no,m10,4,83,down,down
+2,q4nc2.transaction.8,normal,q4nc2.g.move.148,query_yn,8,9,you don't have any other obstacles in the way there do you,,244.7926,246.4706,no,no,m10,4,83,down,down
+2,q4nc2.transaction.8,normal,q4nc2.g.move.149.5,,8,9,,,246.4706,247.3566,no,no,m10,4,83,down,down
+2,q4nc2.transaction.8,normal,q4nc2.f.move.149,reply_n,8,9,no,,246.6598,246.9819,no,no,m10,4,83,down,down
+2,q4nc2.transaction.8,normal,q4nc2.g.move.150,acknowledge,8,9,right okay,,247.3566,247.7658,no,no,m10,4,83,down,down
+2,q4nc2.transaction.9,normal,q4nc2.g.move.151,query_yn,9,10,have you got a gold marked,,248.4883,249.5733,no,no,m10,4,83,down,down
+2,q4nc2.transaction.9,normal,q4nc2.g.move.152.5,,9,10,,,249.5733,252.2672,no,no,m10,4,83,down,down
+2,q4nc2.transaction.9,normal,q4nc2.f.move.152,reply_n,9,10,ehm no,,250.2481,252.0215,no,no,m10,4,83,down,down
+2,q4nc2.transaction.9,normal,q4nc2.g.move.153,acknowledge,9,10,right,,252.2672,252.4397,no,no,m10,4,83,down,down
+2,q4nc2.transaction.9,normal,q4nc2.f.move.154.5,,9,10,,,252.0215,256.3711,no,no,m10,4,83,down,down
+2,q4nc2.transaction.9,normal,q4nc2.g.move.154,instruct,9,10,from the banana tree y-- you're dropping straight down,,252.4397,255.5982,no,no,m10,4,83,down,down
+2,q4nc2.transaction.9,normal,q4nc2.f.move.155,acknowledge,9,10,mmhmm,,256.3711,256.7392,no,no,m10,4,83,down,down
+2,q4nc2.transaction.9,normal,q4nc2.g.move.155.5,,9,10,,,255.5982,257.1217,no,no,m10,4,83,down,down
+2,q4nc2.transaction.9,normal,q4nc2.f.move.156.5,,9,10,,,256.7392,261.4843,no,no,m10,4,83,down,down
+2,q4nc2.transaction.9,normal,q4nc2.g.move.156,query_yn,9,10,ehm a rope bridge is that marked,,257.1218,260.5058,no,no,m10,4,83,down,down
+2,q4nc2.transaction.9,normal,q4nc2.g.move.157.5,,9,10,,,260.5059,262.1332,no,no,m10,4,83,down,down
+2,q4nc2.transaction.9,normal,q4nc2.f.move.157,reply_y,9,10,uh-huh,,261.4843,261.8431,no,no,m10,4,83,down,down
+2,q4nc2.transaction.9,normal,q4nc2.g.move.158,acknowledge,9,10,okay,,262.1332,262.4858,no,no,m10,4,83,down,down
+2,q4nc2.transaction.9,normal,q4nc2.f.move.159.5,,9,10,,,261.8431,267.8413,no,no,m10,4,83,down,down
+2,q4nc2.transaction.9,normal,q4nc2.g.move.158.5,,9,10,,,262.4859,262.7243,no,no,m10,4,83,down,down
+2,q4nc2.transaction.9,normal,q4nc2.g.move.162.5,,9,10,,,269.0948,270.8521,no,no,m10,4,83,down,down
+2,q4nc2.transaction.9,normal,q4nc2.f.move.160,query_yn,9,10,can i,,267.8414,268.1433,no,no,m10,4,83,down,down
+2,q4nc2.transaction.9,normal,q4nc2.f.move.166.5,,9,10,,,271.5078,278.1966,no,no,m10,4,83,down,down
+2,q4nc2.transaction.9,normal,q4nc2.g.move.163,reply_y,9,10,come down in a straight line,,270.8521,271.8995,no,no,m10,4,83,down,down
+2,q4nc2.transaction.9,normal,q4nc2.g.move.169.5,,9,10,,,278.5454,280.275,no,no,m10,4,83,down,down
+2,q4nc2.transaction.9,normal,q4nc2.f.move.167,acknowledge,9,10,okay and,,278.1966,278.6659,no,no,m10,4,83,down,down
+2,q4nc2.transaction.9,normal,q4nc2.f.move.170.5,,9,10,,,280.2651,281.3577,no,no,m10,4,83,down,down
+2,q4nc2.transaction.9,normal,q4nc2.g.move.170,reply_y,9,10,no obstacles,,280.275,281.0668,no,no,m10,4,83,down,down
+2,q4nc2.transaction.9,normal,q4nc2.g.move.171.5,,9,10,,,281.0668,281.36,no,no,m10,4,83,down,down
+2,q4nc2.transaction.9,normal,q4nc2.f.move.171,acknowledge,9,10,right okay,,281.3577,281.9051,no,no,m10,4,83,down,down
+2,q4nc2.transaction.9,normal,q4nc2.f.move.172.5,,9,10,,,281.9051,281.9764,no,no,m10,4,83,down,down
+2,q4nc2.transaction.9,normal,q4nc2.g.move.172,reply_y,9,10,straight straight,,281.36,282.2672,no,no,m10,4,83,down,down
+2,q4nc2.transaction.9,normal,q4nc2.g.move.174.5,,9,10,,,282.2672,283.433,no,no,m10,4,83,down,down
+2,q4nc2.transaction.9,normal,q4nc2.f.move.173,ready,9,10,right,,281.9764,282.2386,no,no,m10,4,83,down,down
+2,q4nc2.transaction.9,normal,q4nc2.f.move.176.5,,9,10,,,283.3312,285.958,no,no,m10,4,83,down,down
+2,q4nc2.transaction.9,normal,q4nc2.g.move.175,reply_n,9,10,no you've not,,283.433,283.9353,no,no,m10,4,83,down,down
+2,q4nc2.transaction.9,normal,q4nc2.g.move.177.5,,9,10,,,285.8983,286.2401,no,no,m10,4,83,down,down
+2,q4nc2.transaction.9,normal,q4nc2.f.move.177,reply_n,9,10,no it's just it's,,285.958,287.3519,no,no,m10,4,83,down,down
+2,q4nc2.transaction.9,normal,q4nc2.f.move.178.5,,9,10,,,287.3519,287.5612,no,no,m10,4,83,down,down
+2,q4nc2.transaction.9,normal,q4nc2.g.move.178,acknowledge,9,10,you you just come straight down right,,286.2401,287.6839,no,no,m10,4,83,down,down
+2,q4nc2.transaction.9,normal,q4nc2.g.move.179.5,,9,10,,,287.6839,287.8908,no,no,m10,4,83,down,down
+2,q4nc2.transaction.9,normal,q4nc2.f.move.179,acknowledge,9,10,yeah,,287.5612,287.7487,no,no,m10,4,83,down,down
+2,q4nc2.transaction.9,normal,q4nc2.f.move.181.5,,9,10,,,288.686,289.6198,no,no,m10,4,83,down,down
+2,q4nc2.transaction.9,normal,q4nc2.g.move.180,ready,9,10,okay so you're,,287.8908,288.4749,no,no,m10,4,83,down,down
+2,q4nc2.transaction.9,normal,q4nc2.g.move.181,ready,9,10,okay,,289.086,289.3928,no,no,m10,4,83,down,down
+2,q4nc2.transaction.9,normal,q4nc2.f.move.182,explain,9,10,vertical line,,289.6198,290.2156,no,no,m10,4,83,down,down
+2,q4nc2.transaction.10,normal,q4nc2.g.move.181.9,ready,10,11,now,,289.6793,289.9937,no,no,m10,4,83,down,down
+2,q4nc2.transaction.10,normal,q4nc2.g.move.184.5,,10,11,,laugh,296.8587,301.2502,no,no,m10,4,83,down,down
+2,q4nc2.transaction.10,normal,q4nc2.f.move.184,query_yn,10,11,why didn't you just go straight down from the start sign it would've been easier,,296.4559,301.353,no,no,m10,4,83,down,down
+2,q4nc2.transaction.10,normal,q4nc2.f.move.187.5,,10,11,,,301.353,304.0372,no,no,m10,4,83,down,down
+2,q4nc2.transaction.10,normal,q4nc2.g.move.185,reply_y,10,11,yeah you're not kidding,,301.2502,304.0483,no,no,m10,4,83,down,down
+2,q4nc2.transaction.10,normal,q4nc2.g.move.186.5,,10,11,,,304.0483,304.6908,no,no,m10,4,83,down,down
+2,q4nc2.transaction.10,normal,q4nc2.f.move.188,explain,10,11,i mean it's just straight down from there,,304.0372,306.7445,no,no,m10,4,83,down,down
+2,q4nc2.transaction.10,normal,q4nc2.g.move.187,uncodable,10,11,ehm,,304.6909,305.197,no,no,m10,4,83,down,down
+2,q4nc2.transaction.10,normal,q4nc2.g.move.188.5,,10,11,,,305.197,306.5951,no,no,m10,4,83,down,down
+2,q4nc2.transaction.10,normal,q4nc2.f.move.190.5,,10,11,,,306.7445,308.2902,no,no,m10,4,83,down,down
+2,q4nc2.transaction.10,normal,q4nc2.g.move.189,ready,10,11,okay,,306.5951,306.8324,no,no,m10,4,83,down,down
+2,q4nc2.transaction.10,normal,q4nc2.g.move.190,query_yn,10,11,have you got a rock fall marked,,306.8324,308.0809,no,no,m10,4,83,down,down
+2,q4nc2.transaction.10,normal,q4nc2.f.move.191,reply_y,10,11,uh-huh,,308.2902,308.8031,no,no,m10,4,83,down,down
+2,q4nc2.transaction.10,normal,q4nc2.g.move.191.5,,10,11,,,308.0809,309.1269,no,no,m10,4,83,down,down
+2,q4nc2.transaction.10,normal,q4nc2.f.move.193.5,,10,11,,,308.8031,315.8255,no,no,m10,4,83,down,down
+2,q4nc2.transaction.10,normal,q4nc2.g.move.192,ready,10,11,okay,,309.1269,309.4008,no,no,m10,4,83,down,down
+2,q4nc2.transaction.10,normal,q4nc2.g.move.194.5,,10,11,,,315.42,316.8688,no,no,m10,4,83,down,down
+2,q4nc2.transaction.10,normal,q4nc2.f.move.194,acknowledge,10,11,mmhmm,,315.8255,316.1981,no,no,m10,4,83,down,down
+2,q4nc2.transaction.10,normal,q4nc2.f.move.195.5,,10,11,,,316.1981,317.067,no,no,m10,4,83,down,down
+2,q4nc2.transaction.10,normal,q4nc2.g.move.195,align,10,11,okay,,316.8689,317.2213,no,no,m10,4,83,down,down
+2,q4nc2.transaction.10,normal,q4nc2.f.move.196,reply_y,10,11,right okay in a straight line,,317.067,318.3343,no,no,m10,4,83,down,down
+2,q4nc2.transaction.11,normal,q4nc2.g.move.197,instruct,11,12,and now head across for,,318.2472,320.1031,no,no,m10,4,83,down,down
+2,q4nc2.transaction.11,normal,q4nc2.g.move.198.5,,11,12,,,320.1031,320.1716,no,no,m10,4,83,down,down
+2,q4nc2.transaction.11,normal,q4nc2.f.move.198,uncodable,11,12,oops,,320.0417,320.4028,no,no,m10,4,83,down,down
+2,q4nc2.transaction.11,normal,q4nc2.f.move.199.5,,11,12,,,320.4028,324.6558,no,no,m10,4,83,down,down
+2,q4nc2.transaction.11,normal,q4nc2.g.move.199,instruct,11,12,the r-- now head across to the rope bridge you can just go straight straight across from there to the rope bridge,,320.1716,324.5489,no,no,m10,4,83,down,down
+2,q4nc2.transaction.11,normal,q4nc2.g.move.200.5,,11,12,,,324.5489,325.9256,no,no,m10,4,83,down,down
+2,q4nc2.transaction.11,normal,q4nc2.f.move.200,check,11,12,,,,,no,no,m10,4,83,,
+2,q4nc2.transaction.11,normal,q4nc2.f.move.201.5,,11,12,,,325.6334,326.588,no,no,m10,4,83,down,down
+2,q4nc2.transaction.11,normal,q4nc2.g.move.201,reply_y,11,12,yeah,,325.9257,326.1589,no,no,m10,4,83,down,down
+2,q4nc2.transaction.11,normal,q4nc2.g.move.204.5,,11,12,,,326.9946,330.4643,no,no,m10,4,83,down,down
+2,q4nc2.transaction.11,normal,q4nc2.f.move.202,ready,11,12,right,,326.588,326.8662,no,no,m10,4,83,down,down
+2,q4nc2.transaction.11,normal,q4nc2.f.move.205.5,,11,12,,,331.1837,331.5402,no,no,m10,4,83,down,down
+2,q4nc2.transaction.11,normal,q4nc2.g.move.205,uncodable,11,12,li-- like,,330.4643,330.9029,no,no,m10,4,83,down,down
+2,q4nc2.transaction.11,normal,q4nc2.g.move.210.5,,11,12,,,339.1052,339.7314,no,no,m10,4,83,down,down
+2,q4nc2.transaction.11,normal,q4nc2.f.move.206,ready,11,12,well,,331.5402,331.8323,no,no,m10,4,83,down,down
+2,q4nc2.transaction.11,normal,q4nc2.f.move.211.5,,11,12,,,340.0139,342.3906,no,no,m10,4,83,down,down
+2,q4nc2.transaction.11,normal,q4nc2.g.move.211,reply_w,11,12,aye well not straight across but you you're you'll be going back up towards the rope bridge,,339.7314,342.9021,no,no,m10,4,83,down,down
+2,q4nc2.transaction.11,normal,q4nc2.g.move.215.5,,11,12,,,342.9022,347.1222,no,no,m10,4,83,down,down
+2,q4nc2.transaction.11,normal,q4nc2.f.move.212,uncodable,11,12,just,,342.3907,343.0042,no,no,m10,4,83,down,down
+2,q4nc2.transaction.11,normal,q4nc2.f.move.217.5,,11,12,,,346.9966,352.3796,no,no,m10,4,83,down,down
+2,q4nc2.transaction.11,normal,q4nc2.g.move.216,reply_y,11,12,so so you're at the moment you're below the rope bridge,,347.1222,349.4131,no,no,m10,4,83,down,down
+2,q4nc2.transaction.11,normal,q4nc2.g.move.221.5,,11,12,,,355.286,357.0989,no,no,m10,4,83,down,down
+2,q4nc2.transaction.11,normal,q4nc2.f.move.218,acknowledge,11,12,mmhmm,,352.3796,352.6602,no,no,m10,4,83,down,down
+2,q4nc2.transaction.11,normal,q4nc2.f.move.224.5,,11,12,,,358.662,360.4209,no,no,m10,4,83,down,down
+2,q4nc2.transaction.11,normal,q4nc2.g.move.222,reply_y,11,12,heading for the rope bridge yeah,lowamp,357.0989,358.3762,no,no,m10,4,83,down,down
+2,q4nc2.transaction.11,normal,q4nc2.g.move.225.5,,11,12,,,359.9869,364.8522,no,no,m10,4,83,down,down
+2,q4nc2.transaction.11,normal,q4nc2.f.move.225,check,11,12,from there in like a uh-huh a diagonal line then from the rock fall,lowamp,360.4209,365.2044,no,no,m10,4,83,down,down
+2,q4nc2.transaction.11,normal,q4nc2.f.move.226.5,,11,12,,,365.2044,366.2178,no,no,m10,4,83,down,down
+2,q4nc2.transaction.11,normal,q4nc2.g.move.226,reply_y,11,12,yeah that's right yeah,lowamp,364.8522,365.7203,no,no,m10,4,83,down,down
+2,q4nc2.transaction.11,normal,q4nc2.g.move.227.5,,11,12,,,365.7203,367.8601,no,no,m10,4,83,down,down
+2,q4nc2.transaction.11,normal,q4nc2.f.move.227,check,11,12,you don't want me to go across and up,,366.2178,368.0114,no,no,m10,4,83,down,down
+2,q4nc2.transaction.11,normal,q4nc2.f.move.228.5,,11,12,,,368.0114,370.1304,no,no,m10,4,83,down,down
+2,q4nc2.transaction.11,normal,q4nc2.g.move.228,reply_n,11,12,no just straight just a diagonal line up to the rope bridge,,367.8601,370.3392,no,no,m10,4,83,down,down
+2,q4nc2.transaction.11,normal,q4nc2.f.move.229,acknowledge,11,12,okay then,,370.1304,370.7856,no,no,m10,4,83,down,down
+2,q4nc2.transaction.11,normal,q4nc2.f.move.230,acknowledge,11,12,right,,372.9371,373.2368,no,no,m10,4,83,down,down
+2,q4nc2.transaction.12,normal,q4nc2.g.move.231,instruct,12,13,and then a-- across the rope bridge to the right-hand side of the page,,373.5363,376.7239,no,no,m10,4,83,down,down
+2,q4nc2.transaction.12,normal,q4nc2.g.move.232.5,,12,13,,,376.724,380.5437,no,no,m10,4,83,down,down
+2,q4nc2.transaction.12,normal,q4nc2.f.move.232,query_yn,12,13,oh from the the top of the rope bridge or,lowamp,377.7024,380.2327,no,no,m10,4,83,down,down
+2,q4nc2.transaction.12,normal,q4nc2.f.move.233.5,,12,13,,,380.2327,381.8707,no,no,m10,4,83,down,down
+2,q4nc2.transaction.12,normal,q4nc2.g.move.233,reply_y,12,13,yeah across the top of the rope bridge,,380.5437,382.0934,no,no,m10,4,83,down,down
+2,q4nc2.transaction.12,normal,q4nc2.g.move.236.5,,12,13,,,382.0934,386.8036,no,no,m10,4,83,down,down
+2,q4nc2.transaction.12,normal,q4nc2.f.move.234,acknowledge,12,13,right okay,,381.8707,382.4701,no,no,m10,4,83,down,down
+2,q4nc2.transaction.13,review,q4nc2.f.move.235,explain,11,13,i've went and drawn this,,382.4701,383.2833,no,no,m10,4,83,down,down
+2,q4nc2.transaction.13,review,q4nc2.f.move.239.5,,11,13,,,389.4543,390.3651,no,no,m10,4,83,down,down
+2,q4nc2.transaction.13,review,q4nc2.g.move.237,reply_y,11,13,yeah fine yeah,,386.8036,387.6052,no,no,m10,4,83,down,down
+2,q4nc2.transaction.13,review,q4nc2.g.move.239,reply_y,11,13,and across the rope bridge,,389.1456,390.1378,no,no,m10,4,83,down,down
+2,q4nc2.transaction.13,review,q4nc2.f.move.240,acknowledge,11,13,uh-huh,,390.3651,390.7554,no,no,m10,4,83,down,down
+2,q4nc2.transaction.13,review,q4nc2.f.move.241,ready,11,13,right i've done that,,390.8321,391.4943,no,no,m10,4,83,down,down
+2,q4nc2.transaction.14,normal,q4nc2.g.move.242,query_yn,13,14,have you got giraffes marked,,392.5053,393.6275,no,no,m10,4,83,down,down
+2,q4nc2.transaction.14,normal,q4nc2.f.move.243,reply_y,13,14,uh-huh,,393.7713,394.1546,no,no,m10,4,83,down,down
+2,q4nc2.transaction.14,normal,q4nc2.g.move.244.5,,13,14,,,393.6275,395.4926,no,no,m10,4,83,down,down
+2,q4nc2.transaction.14,normal,q4nc2.f.move.243.5,,13,14,,,394.1546,394.3096,no,no,m10,4,83,down,down
+2,q4nc2.transaction.14,normal,q4nc2.f.move.244,explain,13,14,i've got crocodiles as well,,394.3096,395.5108,no,no,m10,4,83,down,down
+2,q4nc2.transaction.14,normal,q4nc2.g.move.245,acknowledge,13,14,crocodiles,,395.4926,395.9712,no,no,m10,4,83,down,down
+2,q4nc2.transaction.14,normal,q4nc2.f.move.246.5,,13,14,,,395.5108,404.2708,no,no,m10,4,83,down,down
+2,q4nc2.transaction.14,normal,q4nc2.g.move.246,instruct,13,14,well you'll have to avoid the crocodiles as well but but you've got to go round the the the giraffes at the bottom right-hand corner of the page,,395.9712,404.1666,no,no,m10,4,83,down,down
+2,q4nc2.transaction.14,normal,q4nc2.g.move.247.5,,13,14,,nonvocal,404.1666,405.8951,no,no,m10,4,83,down,down
+2,q4nc2.transaction.14,normal,q4nc2.f.move.247,check,13,14,so i just go straight down right,,404.2708,405.6788,no,no,m10,4,83,down,down
+2,q4nc2.transaction.14,normal,q4nc2.f.move.248.5,,13,14,,,405.6788,406.8892,no,no,m10,4,83,down,down
+2,q4nc2.transaction.14,normal,q4nc2.g.move.248,reply_y,13,14,yeah that's right mmhmm,,405.8952,406.9871,no,no,m10,4,83,down,down
+2,q4nc2.transaction.14,normal,q4nc2.g.move.250.5,,13,14,,,406.9872,411.2616,no,no,m10,4,83,down,down
+2,q4nc2.transaction.14,normal,q4nc2.f.move.249,acknowledge,13,14,okay i just go straight down,,406.8893,408.1486,no,no,m10,4,83,down,down
+2,q4nc2.transaction.14,normal,q4nc2.f.move.251.5,,13,14,,,412.0821,412.879,no,no,m10,4,83,down,down
+2,q4nc2.transaction.14,normal,q4nc2.g.move.251,acknowledge,13,14,d-- okay,,411.2616,412.6703,no,no,m10,4,83,down,down
+2,q4nc2.transaction.14,normal,q4nc2.f.move.252,ready,13,14,okay,lowamp,412.879,413.3646,no,no,m10,4,83,down,down
+2,q4nc2.transaction.15,normal,q4nc2.g.move.253,instruct,14,15,now the only thing you've got to dodge is the great lake,,414.3548,416.9314,no,no,m10,4,83,down,down
+2,q4nc2.transaction.15,normal,q4nc2.g.move.254.5,,14,15,,,416.9314,418.2278,no,no,m10,4,83,down,down
+2,q4nc2.transaction.15,normal,q4nc2.f.move.254,explain,14,15,i've got that on,,417.4701,418.3367,no,no,m10,4,83,down,down
+2,q4nc2.transaction.15,normal,q4nc2.f.move.255.5,,14,15,,,418.3367,419.136,no,no,m10,4,83,down,down
+2,q4nc2.transaction.15,normal,q4nc2.g.move.255,check,14,15,you've got that marked,,418.2279,419.1131,no,no,m10,4,83,down,down
+2,q4nc2.transaction.15,normal,q4nc2.f.move.256,reply_y,14,15,uh-huh,,419.136,419.4102,no,no,m10,4,83,down,down
+2,q4nc2.transaction.15,normal,q4nc2.g.move.256.5,,14,15,,,419.1131,419.7683,no,no,m10,4,83,down,down
+2,q4nc2.transaction.15,normal,q4nc2.f.move.257.5,,14,15,,,419.4102,424.7517,no,no,m10,4,83,down,down
+2,q4nc2.transaction.15,normal,q4nc2.g.move.257,explain,14,15,now the great the great lake on my map is in the bottom left-hand,,419.7683,424.7156,no,no,m10,4,83,down,down
+2,q4nc2.transaction.15,normal,q4nc2.g.move.259.5,,14,15,,,424.7156,425.8377,no,no,m10,4,83,down,down
+2,q4nc2.transaction.15,normal,q4nc2.f.move.258,acknowledge,14,15,yeah,,424.7517,424.9422,no,no,m10,4,83,down,down
+2,q4nc2.transaction.15,normal,q4nc2.f.move.260.5,,14,15,,,425.7369,428.1857,no,no,m10,4,83,down,down
+2,q4nc2.transaction.15,normal,q4nc2.g.move.260,explain,14,15,corner it's di-- directly below the rock fall,,425.8377,428.0375,no,no,m10,4,83,off,down
+2,q4nc2.transaction.15,normal,q4nc2.g.move.261.5,,14,15,,,428.0376,429.0814,no,no,m10,4,83,down,down
+2,q4nc2.transaction.15,normal,q4nc2.f.move.261,acknowledge,14,15,mmhmm,,428.1857,428.5156,no,no,m10,4,83,down,down
+2,q4nc2.transaction.15,normal,q4nc2.f.move.262.5,,14,15,,,428.5156,429.2127,no,no,m10,4,83,down,down
+2,q4nc2.transaction.15,normal,q4nc2.g.move.262,instruct,14,15,so you've got t--,,429.0814,429.6487,no,no,m10,4,83,down,down
+2,q4nc2.transaction.15,normal,q4nc2.f.move.263,check,14,15,and parallel to the disused warehouse,,429.2127,431.5988,no,no,m10,4,83,down,down
+2,q4nc2.transaction.15,normal,q4nc2.g.move.263.5,,14,15,,,429.6488,431.8954,no,no,m10,4,83,down,down
+2,q4nc2.transaction.15,normal,q4nc2.f.move.264.5,,14,15,,,431.5988,433.4134,no,no,m10,4,83,down,down
+2,q4nc2.transaction.15,normal,q4nc2.g.move.264,explain,14,15,i don't have a a disused warehouse on mine,,431.8954,433.6504,no,no,m10,4,83,down,down
+2,q4nc2.transaction.15,normal,q4nc2.f.move.265,acknowledge,14,15,oh right,,433.4134,433.7938,no,no,m10,4,83,down,down
+2,q4nc2.transaction.15,normal,q4nc2.g.move.267.5,,14,15,,,433.6504,443.3163,no,no,m10,4,83,down,down
+2,q4nc2.transaction.15,normal,q4nc2.f.move.267,explain,14,15,well i-- it's just parallel to it like just ehm well not underneath the giraffes you know over to the left,,433.7938,442.9394,no,no,m10,4,83,down,down
+2,q4nc2.transaction.15,normal,q4nc2.g.move.268,acknowledge,14,15,yeah,,443.3163,443.5559,no,no,m10,4,83,down,down
+2,q4nc2.transaction.15,normal,q4nc2.f.move.269.5,,14,15,,outbreath,442.9394,452.9895,no,no,m10,4,83,down,down
+2,q4nc2.transaction.15,normal,q4nc2.g.move.269,instruct,14,15,well i i would come down c-- i i would head right yeah on according to my map you've got to go ehm down towards the bottom of the page and underneath the great lake,,443.556,454.2109,no,no,m10,4,83,down,down
+2,q4nc2.transaction.15,normal,q4nc2.g.move.272.5,,14,15,,,454.2109,455.496,no,no,m10,4,83,down,down
+2,q4nc2.transaction.15,normal,q4nc2.f.move.270,acknowledge,14,15,uh-huh,,452.9895,453.2554,no,no,m10,4,83,down,down
+2,q4nc2.transaction.15,normal,q4nc2.f.move.274.5,,14,15,,,455.1467,458.274,no,no,m10,4,83,down,down
+2,q4nc2.transaction.15,normal,q4nc2.g.move.273,reply_y,14,15,yeah,,455.4961,455.7956,no,no,m10,4,83,down,down
+2,q4nc2.transaction.15,normal,q4nc2.g.move.275.5,,14,15,,,457.9667,458.6619,no,no,m10,4,83,down,down
+2,q4nc2.transaction.15,normal,q4nc2.f.move.275,acknowledge,14,15,okay,,458.274,458.6667,no,no,m10,4,83,down,down
+2,q4nc2.transaction.15,normal,q4nc2.f.move.277.5,,14,15,,,458.6667,465.3395,no,no,m10,4,83,down,down
+2,q4nc2.transaction.15,normal,q4nc2.g.move.276,explain,14,15,the lake's in the b-- the lake in mine is b-- directly below the l-- the rock fall,,458.6619,461.9431,no,no,m10,4,83,down,down
+2,q4nc2.transaction.15,normal,q4nc2.g.move.278.5,,14,15,,,464.9921,465.3676,no,no,m10,4,83,down,down
+2,q4nc2.transaction.15,normal,q4nc2.f.move.278,acknowledge,14,15,uh-huh,,465.3395,465.616,no,no,m10,4,83,down,down
+2,q4nc2.transaction.15,normal,q4nc2.f.move.279.5,,14,15,,,465.616,468.4686,no,no,m10,4,83,down,down
+2,q4nc2.transaction.15,normal,q4nc2.g.move.279,instruct,14,15,you can you can just come straight across i would not straight across and down a bit,,465.3676,470.7501,no,no,m10,4,83,down,down
+2,q4nc2.transaction.15,normal,q4nc2.g.move.282.5,,14,15,,,470.7501,471.7985,no,no,m10,4,83,down,down
+2,q4nc2.transaction.15,normal,q4nc2.f.move.280,acknowledge,14,15,so oh right okay right,,468.4686,469.6837,no,no,m10,4,83,down,down
+2,q4nc2.transaction.15,normal,q4nc2.f.move.283.5,,14,15,,,471.8451,472.9324,no,no,m10,4,83,down,down
+2,q4nc2.transaction.15,normal,q4nc2.g.move.283,instruct,14,15,and below the great lake,,471.7985,472.8307,no,no,m10,4,83,down,down
+2,q4nc2.transaction.15,normal,q4nc2.f.move.284,acknowledge,14,15,okay oops,,472.9324,474.7819,no,no,m10,4,83,down,down
+2,q4nc2.transaction.16,normal,q4nc2.g.move.285,instruct,15,16,and turn r-- turn right once you've gone past the lake and come up,,475.1257,481.022,no,no,m10,4,83,down,down
+2,q4nc2.transaction.16,normal,q4nc2.g.move.288.5,,15,16,,,483.8562,487.3883,no,no,m10,4,83,down,down
+2,q4nc2.transaction.16,normal,q4nc2.f.move.286,check,15,16,turn right,,481.7871,482.577,no,no,m10,4,83,down,down
+2,q4nc2.transaction.16,normal,q4nc2.f.move.291.5,,15,16,,,489.603,493.0161,no,no,m10,4,83,down,down
+2,q4nc2.transaction.16,normal,q4nc2.g.move.289,align,15,16,you've drawn a line you've,,487.3884,488.7156,no,no,m10,4,83,down,down
+2,q4nc2.transaction.16,normal,q4nc2.g.move.292.5,,15,16,,,492.7755,493.2795,no,no,m10,4,83,down,down
+2,q4nc2.transaction.16,normal,q4nc2.f.move.292,reply_y,15,16,uh-huh,,493.0161,493.3623,no,no,m10,4,83,down,down
+2,q4nc2.transaction.16,normal,q4nc2.f.move.293.5,,15,16,,,493.3623,494.7814,no,no,m10,4,83,down,down
+2,q4nc2.transaction.16,normal,q4nc2.g.move.293,align,15,16,coming across towards the great lake,,493.2795,494.8325,no,no,m10,4,83,down,down
+2,q4nc2.transaction.16,normal,q4nc2.g.move.294.5,,15,16,,,494.8325,495.1418,no,no,m10,4,83,down,down
+2,q4nc2.transaction.16,normal,q4nc2.f.move.294,reply_y,15,16,uh-huh,,494.7814,495.0422,no,no,m10,4,83,down,down
+2,q4nc2.transaction.16,normal,q4nc2.f.move.296,explain,15,16,well it's over the d-- great i mean i've went under the,,495.0909,497.7931,no,no,m10,4,83,down,down
+2,q4nc2.transaction.16,normal,q4nc2.g.move.295,acknowledge,15,16,okay,,495.1418,495.5035,no,no,m10,4,83,down,down
+2,q4nc2.transaction.16,normal,q4nc2.g.move.297,check,15,16,you've gone under it,,497.7939,498.6464,no,no,m10,4,83,down,down
+2,q4nc2.transaction.16,normal,q4nc2.f.move.298,reply_y,15,16,great lake uh-huh,,497.7931,499.129,no,no,m10,4,83,down,down
+2,q4nc2.transaction.16,normal,q4nc2.g.move.298.5,,15,16,,inbreath,498.6464,498.7864,no,no,m10,4,83,down,down
+2,q4nc2.transaction.16,normal,q4nc2.f.move.300.5,,15,16,,,499.129,500.3279,no,no,m10,4,83,down,down
+2,q4nc2.transaction.16,normal,q4nc2.g.move.299,ready,15,16,right,,498.7864,498.9944,no,no,m10,4,83,down,down
+2,q4nc2.transaction.16,normal,q4nc2.g.move.301.5,,15,16,,,499.9938,500.8169,no,no,m10,4,83,down,down
+2,q4nc2.transaction.16,normal,q4nc2.f.move.301,check,15,16,go up it,lowamp,500.3279,501.0436,no,no,m10,4,83,down,down
+2,q4nc2.transaction.16,normal,q4nc2.f.move.302.5,,15,16,,,501.0436,502.134,no,no,m10,4,83,down,down
+2,q4nc2.transaction.16,normal,q4nc2.g.move.302,reply_y,15,16,up yeah towa--,,500.8169,501.84,no,no,m10,4,83,down,down
+2,q4nc2.transaction.16,normal,q4nc2.g.move.303.5,,15,16,,,501.84,502.2617,no,no,m10,4,83,down,down
+2,q4nc2.transaction.16,normal,q4nc2.f.move.303,query_yn,15,16,towards the rock fall,,502.134,503.0719,no,no,m10,4,83,down,down
+2,q4nc2.transaction.16,normal,q4nc2.f.move.304.5,,15,16,,,503.0719,507.2099,no,no,m10,4,83,down,down
+2,q4nc2.transaction.16,normal,q4nc2.g.move.304,reply_w,15,16,up well not towards ehm stay on the left-hand side but go up,,502.2617,506.0726,no,no,m10,4,83,down,down
+2,q4nc2.transaction.16,normal,q4nc2.g.move.305.5,,15,16,,,506.0727,507.6649,no,no,m10,4,83,down,down
+2,q4nc2.transaction.16,normal,q4nc2.f.move.305,query_w,15,16,where from,,507.2099,507.728,no,no,m10,4,83,down,down
+2,q4nc2.transaction.16,normal,q4nc2.f.move.306.5,,15,16,,laugh,507.728,513.597,no,no,m10,4,83,down,down
+2,q4nc2.transaction.16,normal,q4nc2.g.move.306,reply_w,15,16,ehm until you're just about half an inch below the rock fall and that's the finish,,507.6649,512.3239,no,no,m10,4,83,down,down
+2,q4nc2.transaction.16,normal,q4nc2.g.move.307.5,,15,16,,,512.3239,515.344,no,no,m10,4,83,down,down
+2,q4nc2.transaction.16,normal,q4nc2.f.move.307,query_w,15,16,where from which bit of the great lake,,513.597,515.2977,no,no,m10,4,83,down,down
+2,q4nc2.transaction.16,normal,q4nc2.f.move.310.5,,15,16,,,516.3386,517.8488,no,no,m10,4,83,down,down
+2,q4nc2.transaction.16,normal,q4nc2.g.move.308,acknowledge,15,16,the great lake right,,515.344,516.234,no,no,m10,4,83,down,down
+2,q4nc2.transaction.17,review,q4nc2.g.move.310,align,14,15,you've come right under the great lake,lowamp,516.2754,517.7424,no,no,m10,4,83,down,down
+2,q4nc2.transaction.17,review,q4nc2.g.move.311.5,,14,15,,,517.7424,518.2319,no,no,m10,4,83,down,down
+2,q4nc2.transaction.17,review,q4nc2.f.move.311,reply_y,14,15,uh-huh,,517.8488,518.3345,no,no,m10,4,83,down,down
+2,q4nc2.transaction.17,review,q4nc2.f.move.312.5,,14,15,,,518.3345,521.1085,no,no,m10,4,83,down,down
+2,q4nc2.transaction.17,review,q4nc2.g.move.312,align,14,15,ehm you've got to the far left-hand edge of the great lake,,518.2319,521.1366,no,no,m10,4,83,down,down
+2,q4nc2.transaction.17,review,q4nc2.g.move.313.5,,14,15,,,521.1366,521.9782,no,no,m10,4,83,down,down
+2,q4nc2.transaction.17,review,q4nc2.f.move.313,reply_y,14,15,mmhmm,,521.1086,521.4292,no,no,m10,4,83,down,down
+2,q4nc2.transaction.18,review,q4nc2.g.move.314,instruct,15,16,ehm head up until you're level with the giraffes,,521.9783,527.5289,no,no,m10,4,83,down,down
+2,q4nc2.transaction.18,review,q4nc2.g.move.315.5,,15,16,,,527.5289,529.9782,no,no,m10,4,83,down,down
+2,q4nc2.transaction.18,review,q4nc2.f.move.315,acknowledge,15,16,okay,,528.2833,528.7062,no,no,m10,4,83,down,down
+2,q4nc2.transaction.18,review,q4nc2.f.move.316.5,,15,16,,,528.7062,529.9538,no,no,m10,4,83,down,down
+2,q4nc2.transaction.18,review,q4nc2.g.move.316,explain,15,16,the the l-- giraffes,,529.9783,530.8423,no,no,m10,4,83,down,down
+2,q4nc2.transaction.18,review,q4nc2.g.move.317.5,,15,16,,,530.8423,530.9299,no,no,m10,4,83,down,down
+2,q4nc2.transaction.18,review,q4nc2.f.move.317,check,15,16,so we're on the far side of the,,529.9538,531.3921,no,no,m10,4,83,down,down
+2,q4nc2.transaction.18,review,q4nc2.f.move.318.5,,15,16,,laugh,531.3921,534.8431,no,no,m10,4,83,down,down
+2,q4nc2.transaction.18,review,q4nc2.g.move.318,instruct,15,16,head up until you're level with the giraffes' kneecaps,,530.9299,533.0266,no,no,m10,4,83,down,down
+2,q4nc2.transaction.18,review,q4nc2.g.move.321.5,,15,16,,,533.0266,539.4414,no,no,m10,4,83,down,down
+2,q4nc2.transaction.18,review,q4nc2.f.move.319,acknowledge,15,16,just to be exact,,534.8431,535.8972,no,no,m10,4,83,down,down
+2,q4nc2.transaction.18,review,q4nc2.f.move.322.5,,15,16,,,539.2395,539.8191,no,no,m10,4,83,down,down
+2,q4nc2.transaction.18,review,q4nc2.g.move.322,reply_y,15,16,yeah,,539.4414,539.7294,no,no,m10,4,83,down,down
+2,q4nc2.transaction.18,review,q4nc2.g.move.324.5,,15,16,,,539.7294,543.5358,no,no,m10,4,83,down,down
+2,q4nc2.transaction.18,review,q4nc2.f.move.323,acknowledge,15,16,oh right okay,,539.8191,540.3837,no,no,m10,4,83,down,down
+2,q4nc2.transaction.18,review,q4nc2.f.move.326.5,,15,16,,,543.446,544.0547,no,no,m10,4,83,down,down
+2,q4nc2.transaction.18,review,q4nc2.g.move.325,reply_y,15,16,yeah,,543.5358,543.7893,no,no,m10,4,83,down,down
+2,q4nc2.transaction.18,review,q4nc2.g.move.328.5,,15,16,,,544.5451,544.688,no,no,m10,4,83,down,up
+2,q4nc2.transaction.18,review,q4nc2.f.move.327,acknowledge,15,16,okay,lowamp,544.0547,544.5565,no,no,m10,4,83,down,down
+2,q4nc2.transaction.18,review,q4nc2.f.move.327.5,,15,16,,,544.5565,544.7888,no,no,m10,4,83,down,down
+2,q4nc2.transaction.18,review,q4nc2.g.move.329,reply_y,15,16,yeah we've done it,,544.688,545.264,no,no,m10,4,83,down,down
+2,q4nc2.transaction.18,review,q4nc2.f.move.328,check,15,16,that's us,,544.7889,545.2628,no,no,m10,4,83,down,down
+2,q4nc2.transaction.18,review,q4nc2.g.move.331.5,,15,16,,,545.264,548.0958,no,no,m10,4,83,down,down
+2,q4nc2.transaction.18,review,q4nc2.f.move.330,explain,15,16,right i'll draw this line again,,545.2629,546.2154,no,no,m10,4,83,down,down
+2,q4nc2.transaction.18,review,q4nc2.f.move.333.5,,15,16,,,547.3865,548.7177,no,no,m10,4,83,down,down
+2,q4nc2.transaction.18,review,q4nc2.g.move.332,reply_y,15,16,yeah i think so yeah,,548.0958,548.8238,no,no,m10,4,83,down,down
+2,q4nc2.transaction.18,review,q4nc2.f.move.334,acknowledge,15,16,right okay it's just i drew this line wrong okay,,548.7178,552.412,no,no,m10,4,83,down,down
+2,q4nc2.transaction.18,review,q4nc2.g.move.334.5,,15,16,,,548.8239,552.9022,no,no,m10,4,83,down,down
+2,q4nc2.transaction.18,review,q4nc2.f.move.335.5,,15,16,,,552.412,555.2512,no,no,m10,4,83,down,down
+2,q4nc2.transaction.18,review,q4nc2.g.move.335,explain,15,16,i think we've got it,,552.9022,553.5883,no,no,m10,4,83,down,down
+2,q4nc2.transaction.18,review,q4nc2.g.move.336.5,,15,16,,laugh,553.5883,557.7271,no,no,m10,4,83,down,down
+2,q4nc2.transaction.18,review,q4nc2.f.move.336,acknowledge,15,16,right,,555.2513,555.6323,no,no,m10,4,83,down,down
+2,q4nc2.transaction.18,review,q4nc2.f.move.337.5,,15,16,,,555.6323,556.8195,no,no,m10,4,83,down,down
+2,q4nc2.transaction.18,review,q4nc2.g.move.337,explain,15,16,i'd like to see this,,557.7271,558.4854,no,no,m10,4,83,down,down
+2,q4nc2.transaction.18,review,q4nc2.f.move.338,explain,15,16,i think that's it it looks,,556.8196,558.0231,no,no,m10,4,83,down,down

@@ -1,0 +1,116 @@
+conversation_id,transaction_id,transaction_type,move_id,label,map_start_point,map_end_point,timed_units,timed_unit_type,timed_unit_start,timed_unit_end,eyecontact,familiar,map,quad,devscore,f_gaze_type,g_gaze_type
+2,q3ec2.transaction.1,normal,q3ec2.g.move.1,query_yn,1,2,right have you got a starting point at,phongesture,0.0904,2.4732,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.1,normal,q3ec2.g.move.4.5,,1,2,,,7.1648,7.6657,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.1,normal,q3ec2.f.move.4,reply_y,1,2,yeah,lowamp,0.0,7.5524,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.1,normal,q3ec2.g.move.5,acknowledge,1,2,right,,7.6657,8.0889,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.1,normal,q3ec2.f.move.6.5,,1,2,,,7.5524,26.8528,yes,no,m11,3,191,off,down
+2,q3ec2.transaction.1,normal,q3ec2.g.move.5.5,,1,2,,,8.0889,8.6832,yes,no,m11,3,191,off,down
+2,q3ec2.transaction.1,normal,q3ec2.g.move.6,instruct,1,2,eh could you move about due south from that starting point about eh four inches,,8.6832,21.0618,yes,no,m11,3,191,off,down
+2,q3ec2.transaction.1,normal,q3ec2.f.move.7,acknowledge,1,2,right,,26.8528,27.1314,yes,no,m11,3,191,off,down
+2,q3ec2.transaction.2,normal,q3ec2.g.move.8,instruct,2,3,could could you move to the right of the point you're at now by three inches,,26.8869,34.4732,yes,no,m11,3,191,off,down
+2,q3ec2.transaction.2,normal,q3ec2.f.move.9,acknowledge,2,3,right,,40.4066,40.655,yes,no,m11,3,191,off,down
+2,q3ec2.transaction.3,normal,q3ec2.g.move.10,instruct,3,4,could you move up three inches,,41.0124,42.4589,yes,no,m11,3,191,off,down
+2,q3ec2.transaction.3,normal,q3ec2.g.move.11.5,,3,4,,,42.4589,45.0279,yes,no,m11,3,191,off,down
+2,q3ec2.transaction.3,normal,q3ec2.f.move.11,check,3,4,three inches,,44.1642,44.8841,yes,no,m11,3,191,off,down
+2,q3ec2.transaction.3,normal,q3ec2.f.move.12.5,,3,4,,,44.8841,49.6321,yes,no,m11,3,191,off,down
+2,q3ec2.transaction.3,normal,q3ec2.g.move.12,reply_y,3,4,mmhmm,,45.0279,45.3038,yes,no,m11,3,191,off,down
+2,q3ec2.transaction.3,normal,q3ec2.f.move.13,acknowledge,3,4,okay,,49.6321,49.8651,yes,no,m11,3,191,off,down
+2,q3ec2.transaction.4,normal,q3ec2.g.move.14,instruct,4,5,could you move to your right again approximately five inches,,49.6467,56.9251,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.4,normal,q3ec2.g.move.15.5,,4,5,,,56.9251,62.3242,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.4,normal,q3ec2.f.move.15,acknowledge,4,5,right,,61.3582,61.6283,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.4,normal,q3ec2.f.move.17.5,,4,5,,,61.6284,125.115,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.4,normal,q3ec2.g.move.16,instruct,4,5,could you,,62.3242,63.1067,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.4,normal,q3ec2.f.move.18,acknowledge,4,5,okay,,125.115,125.423,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.4,normal,q3ec2.g.move.18.5,,4,5,,nonvocal,63.1067,126.3379,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.4,normal,q3ec2.f.move.22.5,,4,5,,,125.423,139.649,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.4,normal,q3ec2.g.move.19,ready,4,5,right right right,,126.3379,129.2029,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.4,normal,q3ec2.g.move.20,explain,4,5,i think i know where you are,,129.2454,130.0716,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.5,normal,q3ec2.g.move.21,ready,5,6,right,,130.46,130.6894,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.5,normal,q3ec2.g.move.22,instruct,5,6,could you move down from the point you're at by about eh three inches,,130.7337,137.0389,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.5,normal,q3ec2.f.move.23,acknowledge,5,6,okay,,139.649,139.8962,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.6,normal,q3ec2.g.move.24,instruct,6,7,could you go to your right another three inches,,140.1065,142.5602,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.6,normal,q3ec2.g.move.25.5,,6,7,,,142.5602,146.3205,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.6,normal,q3ec2.f.move.25,explain,6,7,eh well no a bit off the edge of the page,,143.3556,145.4941,yes,no,m11,3,191,down,up
+2,q3ec2.transaction.6,normal,q3ec2.f.move.27.5,,6,7,,,145.4941,148.4511,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.6,normal,q3ec2.g.move.26,acknowledge,6,7,right,,146.3205,146.7501,yes,no,m11,3,191,down,up
+2,q3ec2.transaction.6,normal,q3ec2.g.move.27,instruct,6,7,well whatever you can manage,,146.896,148.3209,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.6,normal,q3ec2.f.move.28,acknowledge,6,7,okay,,148.4511,148.7078,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.7,normal,q3ec2.g.move.29,instruct,7,8,ehm could you move down from that point about three inches,,150.9527,158.3757,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.7,normal,q3ec2.f.move.30,acknowledge,7,8,right,,162.4799,162.705,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.8,normal,q3ec2.g.move.31,instruct,8,9,could you move back from that point eh another three inches,,163.5286,173.0213,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.8,normal,q3ec2.g.move.32.5,,8,9,,,173.0213,177.5393,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.8,normal,q3ec2.f.move.32,check,8,9,that's left,lowamp,176.1994,176.7815,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.8,normal,q3ec2.f.move.34.5,,8,9,,,176.7815,179.9242,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.8,normal,q3ec2.g.move.33,reply_y,8,9,that's left,lowamp,177.5393,177.9941,yes,no,m11,3,191,down,up
+2,q3ec2.transaction.8,normal,q3ec2.g.move.34,clarify,8,9,it's away from the edge of the paper,,178.5123,179.7332,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.8,normal,q3ec2.f.move.35,acknowledge,8,9,mm okay,,179.9242,181.6091,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.9,normal,q3ec2.g.move.36,ready,9,10,right eh,,181.9143,183.2915,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.9,normal,q3ec2.g.move.37.2,uncodable,9,10,oh,,190.315,190.6979,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.9,normal,q3ec2.f.move.38,acknowledge,9,10,right,,196.6187,196.8045,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.9,normal,q3ec2.g.move.37.4,,9,10,,,190.6979,192.1102,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.9,normal,q3ec2.g.move.37.9,instruct,9,10,could you move down from that point one inch,,192.1102,194.0996,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.10,normal,q3ec2.g.move.39,instruct,10,11,could you move back across to the edge of the paper again,,197.2147,199.6398,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.10,normal,q3ec2.g.move.41.5,,10,11,,,202.1703,202.3443,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.10,normal,q3ec2.f.move.40,check,10,11,right the way across,,200.5927,201.357,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.10,normal,q3ec2.f.move.42.5,,10,11,,,201.357,203.4907,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.10,normal,q3ec2.g.move.42,reply_y,10,11,yeah,,202.3443,202.4683,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.10,normal,q3ec2.f.move.43,acknowledge,10,11,okay,,203.4907,203.6826,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.11,normal,q3ec2.g.move.44,instruct,11,12,can you move down eh three inches,,204.8262,208.8408,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.12,normal,q3ec2.g.move.45,instruct,12,13,could you move to your left ah approximately six inches,,214.0837,220.7603,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.12,normal,q3ec2.g.move.48.5,,12,13,,,220.7603,233.4719,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.12,normal,q3ec2.f.move.46,query_yn,12,13,am i allowed to say if i'm going to go into one of these obstacles,lowamp,223.0572,225.3395,yes,no,m11,3,191,down,up
+2,q3ec2.transaction.12,normal,q3ec2.f.move.52.5,,12,13,,,233.1807,238.3864,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.12,normal,q3ec2.g.move.49,reply_y,12,13,mmhmm,,233.4719,233.8002,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.12,normal,q3ec2.f.move.53,acknowledge,12,13,right,,238.3864,238.5414,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.12,normal,q3ec2.f.move.53.2,acknowledge,12,13,okay,,241.0916,241.3631,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.12,normal,q3ec2.g.move.50.5,,12,13,,,233.8002,243.041,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.12,normal,q3ec2.f.move.53.4,,12,13,,,241.3631,250.8305,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.12,normal,q3ec2.g.move.51,instruct,12,13,could you move,,243.0411,247.4774,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.12,normal,q3ec2.g.move.52,acknowledge,12,13,you're going to be in the middle of the water,,248.6262,249.7382,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.12,normal,q3ec2.f.move.53.9,explain,12,13,but i'm not any more i've fixed it,,250.8305,252.057,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.13,normal,q3ec2.g.move.54,acknowledge,13,14,right eh,,253.302,254.5786,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.13,normal,q3ec2.g.move.55,instruct,13,14,could you move down approximately three inches,,255.4464,260.228,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.13,normal,q3ec2.f.move.56,acknowledge,13,14,okay,,262.3545,262.571,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.14,normal,q3ec2.g.move.57,instruct,14,15,could you move to your left approximately three inches,,264.6168,268.708,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.14,normal,q3ec2.f.move.58,acknowledge,14,15,right,,270.3025,270.5096,yes,no,m11,3,191,up,down
+2,q3ec2.transaction.15,normal,q3ec2.g.move.59,instruct,15,16,could you move diagonally down and to your left,,272.7221,282.2871,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.15,normal,q3ec2.g.move.60.5,,15,16,,,282.2871,284.7019,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.15,normal,q3ec2.f.move.60,acknowledge,15,16,mmhmm,,282.4615,282.6846,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.15,normal,q3ec2.f.move.61.5,,15,16,,,282.6846,291.8304,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.15,normal,q3ec2.g.move.61,instruct,15,16,approximately four inches,,284.7019,288.2141,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.15,normal,q3ec2.f.move.62,acknowledge,15,16,okay,,291.8304,292.1928,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.16,normal,q3ec2.g.move.63,instruct,16,17,could you move down from that point two inches,,293.1027,301.2154,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.16,normal,q3ec2.f.move.64,acknowledge,16,17,right,,305.5559,305.7525,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.17,normal,q3ec2.g.move.65,instruct,17,18,could you move left from that point approximately three inches,,307.7808,313.0455,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.17,normal,q3ec2.g.move.66.5,,17,18,,,313.0455,314.9903,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.17,normal,q3ec2.f.move.66,explain,17,18,no i'll be off the edge of the page again,,313.4056,314.8545,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.17,normal,q3ec2.f.move.67.5,,17,18,,,314.8545,315.0567,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.17,normal,q3ec2.g.move.67,instruct,17,18,well to the edge of,,314.9903,315.6238,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.17,normal,q3ec2.f.move.68,check,17,18,i'll go as far as i can,,315.0567,316.3574,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.17,normal,q3ec2.f.move.69.5,,17,18,,,316.3575,316.5631,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.17,normal,q3ec2.g.move.69,reply_y,17,18,the paper go as far as you can,,315.6238,317.3397,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.18,normal,q3ec2.f.move.70,acknowledge,18,19,right okay,,316.5631,318.4169,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.18,normal,q3ec2.g.move.70.5,,18,19,,,317.3398,318.9499,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.18,normal,q3ec2.f.move.71.5,,18,19,,,318.417,328.5915,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.18,normal,q3ec2.g.move.71,instruct,18,19,could you move down from that point another three inches,,318.9499,324.9456,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.18,normal,q3ec2.f.move.72,acknowledge,18,19,okay,,328.5915,328.9133,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.19,normal,q3ec2.g.move.73,instruct,19,20,and could you finally move to your right two inches,,329.2876,335.732,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.19,normal,q3ec2.g.move.75.5,,19,20,,,349.1982,351.0267,yes,no,m11,3,191,down,up
+2,q3ec2.transaction.19,normal,q3ec2.f.move.75,query_w,19,20,well what's the finish point,,349.3378,350.729,yes,no,m11,3,191,down,up
+2,q3ec2.transaction.19,normal,q3ec2.f.move.76.5,,19,20,,,350.729,352.3327,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.19,normal,q3ec2.g.move.76,reply_w,19,20,i don't know but that's where it i've got i've got cro--,,351.0267,352.9926,yes,no,m11,3,191,down,up
+2,q3ec2.transaction.19,normal,q3ec2.g.move.79.5,,19,20,,,359.4069,360.5203,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.19,normal,q3ec2.f.move.77,query_yn,19,20,is it just got,,352.3327,352.9195,yes,no,m11,3,191,down,up
+2,q3ec2.transaction.19,normal,q3ec2.f.move.80.5,,19,20,,,360.8458,361.7667,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.19,normal,q3ec2.g.move.80,reply_w,19,20,bottom left of the page,,360.5203,361.694,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.19,normal,q3ec2.g.move.81.5,,19,20,,,361.694,363.1081,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.19,normal,q3ec2.f.move.81,acknowledge,19,20,yeah,,361.7667,361.9646,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.19,normal,q3ec2.f.move.82.5,,19,20,,,361.9646,363.5139,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.19,normal,q3ec2.g.move.82,query_yn,19,20,have you got a tree there,,363.1082,363.7266,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.19,normal,q3ec2.g.move.83.5,,19,20,,,363.7266,364.53,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.19,normal,q3ec2.f.move.83,explain,19,20,i'm at a chestnut tree,,363.5139,364.4172,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.19,normal,q3ec2.g.move.84,acknowledge,19,20,you're at a chestnut tree,,364.53,365.3801,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.19,normal,q3ec2.f.move.85.5,,19,20,,,364.4172,370.6343,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.19,normal,q3ec2.g.move.84.5,,19,20,,,365.3801,368.9666,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.19,normal,q3ec2.g.move.85,query_yn,19,20,right is that it,,368.9666,370.4531,yes,no,m11,3,191,down,down
+2,q3ec2.transaction.19,normal,q3ec2.f.move.86,check,19,20,is that all we have to do,,370.6343,371.3013,yes,no,m11,3,191,down,up

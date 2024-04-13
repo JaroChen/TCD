@@ -1,0 +1,147 @@
+conversation_id,transaction_id,transaction_type,move_id,label,map_start_point,map_end_point,timed_units,timed_unit_type,timed_unit_start,timed_unit_end,eyecontact,familiar,map,quad,devscore,f_gaze_type,g_gaze_type
+7,q3nc7.transaction.1,normal,q3nc7.g.move.1,ready,1,2,right,,0.0,0.1276,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.1,normal,q3nc7.g.move.5.5,,1,2,,,3.1958,3.6545,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.1,normal,q3nc7.f.move.3,reply_y,1,2,mmhmm,,1.0356,1.2766,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.1,normal,q3nc7.f.move.5,reply_y,1,2,mmhmm,,3.0735,3.3444,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.1,normal,q3nc7.g.move.6,acknowledge,1,2,okay,,3.6545,3.8422,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.1,normal,q3nc7.f.move.8.5,,1,2,,,3.3444,17.4634,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.1,normal,q3nc7.g.move.6.5,,1,2,,inbreath,3.8422,4.2967,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.1,normal,q3nc7.g.move.7,instruct,1,2,eh s-- straight down 'til you're just underneath the diamond and horizontally along under the diamond along,,4.2968,15.6835,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.2,normal,q3nc7.g.move.8,query_yn,2,3,you don't have the graveyard,,16.0837,17.0891,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.2,normal,q3nc7.g.move.9.5,,2,3,,,17.0891,17.8755,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.2,normal,q3nc7.f.move.9,query_w,2,3,the what,,17.4634,17.8448,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.2,normal,q3nc7.f.move.10.5,,2,3,,,17.8448,18.4824,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.2,normal,q3nc7.g.move.10,clarify,2,3,graveyard,,17.8755,18.5277,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.2,normal,q3nc7.g.move.11.5,,2,3,,,18.5277,18.8818,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.2,normal,q3nc7.f.move.11,reply_n,2,3,no,,18.4824,18.7367,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.2,normal,q3nc7.f.move.13.5,,2,3,,nonvocal,18.7367,23.4225,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.2,normal,q3nc7.g.move.12,acknowledge,2,3,no,,18.8818,18.9806,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.2,normal,q3nc7.g.move.14.5,,2,3,,,23.1481,23.9196,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.2,normal,q3nc7.f.move.14,reply_y,2,3,mmhmm,,23.4225,23.6768,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.2,normal,q3nc7.f.move.16.5,,2,3,,,23.6769,39.5795,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.2,normal,q3nc7.g.move.15,acknowledge,2,3,right,,23.9196,24.0724,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.2,normal,q3nc7.g.move.17.5,,2,3,,,37.2373,39.9464,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.2,normal,q3nc7.f.move.17,acknowledge,2,3,right,,39.5795,39.9801,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.3,normal,q3nc7.g.move.18,align,3,4,okay,,39.9465,40.2018,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.3,normal,q3nc7.f.move.20.5,,3,4,,,39.9801,46.1836,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.3,normal,q3nc7.g.move.18.5,,3,4,,,40.2018,40.7279,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.3,normal,q3nc7.g.move.19,instruct,3,4,straight down the right-hand side of the carved stones,,40.7279,42.8978,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.4,normal,q3nc7.g.move.20,query_yn,4,5,ehm do you have indian country,,44.2563,46.0539,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.4,normal,q3nc7.g.move.21.5,,4,5,,,46.0539,46.2561,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.4,normal,q3nc7.f.move.21,reply_y,4,5,mmhmm,,46.1836,46.4478,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.4,normal,q3nc7.g.move.22,acknowledge,4,5,no yeah,,46.2561,46.8264,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.4,normal,q3nc7.f.move.24.5,,4,5,,,46.4478,50.4854,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.4,normal,q3nc7.g.move.22.5,,4,5,,,46.8264,47.2101,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.4,normal,q3nc7.g.move.25.5,,4,5,,,49.617,50.8344,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.4,normal,q3nc7.f.move.25,reply_n,4,5,nope,,50.4854,50.7165,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.4,normal,q3nc7.f.move.28.5,,4,5,,,50.7165,54.8005,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.4,normal,q3nc7.g.move.26,query_yn,4,5,along from,,50.8344,51.4287,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.4,normal,q3nc7.g.move.29.5,,4,5,,,54.2737,55.851,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.4,normal,q3nc7.f.move.29,acknowledge,4,5,mmhmm,lowamp,54.8005,55.3923,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.5,normal,q3nc7.g.move.30,instruct,5,6,eh diagonally t-- down eh southwest 'til you're ehm underneath indian country about two inches away from it on your left,,55.851,68.6759,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.5,normal,q3nc7.g.move.31.5,,5,6,,,68.6759,70.312,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.5,normal,q3nc7.f.move.31,query_w,5,6,say that again,,69.5678,70.0074,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.5,normal,q3nc7.f.move.34.5,,5,6,,,70.0075,79.3974,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.5,normal,q3nc7.g.move.32,clarify,5,6,right go to indian country go horizontally along from it two inches and join a line from above it to,,70.3121,75.2561,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.5,normal,q3nc7.g.move.35.5,,5,6,,,79.641,80.2273,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.5,normal,q3nc7.f.move.35,reply_y,5,6,yeah,,79.3974,79.7165,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.5,normal,q3nc7.f.move.37.5,,5,6,,,79.7166,89.508,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.5,normal,q3nc7.g.move.36,clarify,5,6,right slope down ehm towards the left,,80.2273,84.1089,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.5,normal,q3nc7.g.move.37,align,5,6,okay,,88.8562,89.1987,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.5,normal,q3nc7.f.move.38,reply_y,5,6,mmhmm,,89.508,89.7407,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.6,normal,q3nc7.g.move.39,instruct,6,7,and then horizontally along above the gold,lowamp,90.037,92.3504,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.6,normal,q3nc7.f.move.42,acknowledge,6,7,mmhmm,,93.4043,93.5705,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.7,normal,q3nc7.g.move.41,instruct,7,8,ehm round the left-hand side of the gold direct-- down for about five inches,,96.623,101.1469,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.7,normal,q3nc7.g.move.42.5,,7,8,,,101.1469,106.1232,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.7,normal,q3nc7.f.move.42.9,check,7,8,past the totem pole,,103.4691,104.2752,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.7,normal,q3nc7.f.move.43.5,,7,8,,outbreath,104.2753,111.8251,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.7,normal,q3nc7.g.move.43,explain,7,8,i haven't got a totem pole,,106.1232,107.1977,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.7,normal,q3nc7.g.move.45,instruct,7,8,eh 'til you're i would imagine 'til you're underneath the totem pole then,,109.1815,111.7671,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.7,normal,q3nc7.f.move.44,acknowledge,7,8,right,,111.8251,112.2263,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.8,normal,q3nc7.g.move.47,query_yn,8,9,ehm you have a trout farm,,113.0575,115.5419,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.8,normal,q3nc7.f.move.48,reply_n,8,9,nope,,115.7064,115.8909,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.8,normal,q3nc7.g.move.48.5,,8,9,,,115.5419,116.1251,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.8,normal,q3nc7.f.move.49.5,,8,9,,,115.8909,117.5697,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.8,normal,q3nc7.g.move.49,query_yn,8,9,cavalry,,116.1251,116.6096,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.8,normal,q3nc7.g.move.50.5,,8,9,,,116.6097,118.9676,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.8,normal,q3nc7.f.move.50,acknowledge,8,9,right now,,117.5698,118.4707,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.8,normal,q3nc7.f.move.51.5,,8,9,,outbreath,118.4707,119.0724,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.8,normal,q3nc7.g.move.51,acknowledge,8,9,no ca--,,118.9676,119.3384,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.8,normal,q3nc7.g.move.52.5,,8,9,,,119.3384,121.657,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.8,normal,q3nc7.f.move.52,explain,8,9,oh wait a minute wait a minute i've got a trout farm,,119.0725,120.6001,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.8,normal,q3nc7.g.move.53,acknowledge,8,9,okay,,121.657,121.9637,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.8,normal,q3nc7.f.move.54.5,,8,9,,outbreath,120.6001,123.3352,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.8,normal,q3nc7.g.move.53.5,,8,9,,,121.9637,122.3494,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.8,normal,q3nc7.g.move.55.5,,8,9,,,123.6437,125.0532,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.8,normal,q3nc7.f.move.55,query_w,8,9,but where is it your trout farm,,123.3352,125.4396,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.8,normal,q3nc7.f.move.56.5,,8,9,,,125.4396,127.7941,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.8,normal,q3nc7.g.move.56,reply_w,8,9,ehm the right-hand side of the page,,125.0532,127.7066,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.8,normal,q3nc7.g.move.57.5,,8,9,,,127.7066,128.2653,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.8,normal,q3nc7.f.move.57,acknowledge,8,9,mmhmm,,127.7941,128.0301,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.8,normal,q3nc7.g.move.58,acknowledge,8,9,right okay,,128.2653,128.621,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.8,normal,q3nc7.f.move.60.5,,8,9,,,128.0302,138.341,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.8,normal,q3nc7.g.move.58.5,,8,9,,inbreath,128.621,129.0025,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.8,normal,q3nc7.g.move.62.5,,8,9,,,137.8324,139.009,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.8,normal,q3nc7.f.move.61,reply_w,8,9,,,,,no,yes,m14,3,55,,
+7,q3nc7.transaction.8,normal,q3nc7.f.move.61.5,,8,9,,,138.838,139.1289,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.8,normal,q3nc7.g.move.63,acknowledge,8,9,r--,,139.0091,139.4814,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.8,normal,q3nc7.f.move.62,explain,8,9,i'm no sure how much an inch is to be honest but there we go,,139.1289,142.1526,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.8,normal,q3nc7.g.move.63.4,,8,9,,,139.4814,142.258,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.8,normal,q3nc7.f.move.64.5,,8,9,,,142.1526,145.4313,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.8,normal,q3nc7.g.move.63.5,ready,8,9,right okay eh,,142.258,143.4614,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.8,normal,q3nc7.g.move.64,instruct,8,9,have you if you're underneath the totem pole then,,143.6841,145.3097,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.8,normal,q3nc7.f.move.65,acknowledge,8,9,right,,145.4313,145.7662,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.8,normal,q3nc7.g.move.65.5,,8,9,,,145.3098,145.7877,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.8,normal,q3nc7.f.move.66.5,,8,9,,,145.7662,148.1066,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.8,normal,q3nc7.g.move.66,query_yn,8,9,is totem pole below the trout farm,,145.7877,147.3701,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.8,normal,q3nc7.g.move.68.5,,8,9,,,147.3701,149.3606,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.8,normal,q3nc7.f.move.67,reply_n,8,9,,,,,no,yes,m14,3,55,,
+7,q3nc7.transaction.8,normal,q3nc7.f.move.68,reply_w,8,9,well it's kind opposite it,,148.3868,149.4215,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.8,normal,q3nc7.g.move.69,acknowledge,8,9,opposite it right,,149.3606,150.0198,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.8,normal,q3nc7.f.move.70.5,,8,9,,,149.4215,152.2373,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.8,normal,q3nc7.g.move.69.5,,8,9,,,150.0198,150.3222,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.8,normal,q3nc7.g.move.70,instruct,8,9,go below the the totem pole then then and then acro-- horizontally across the page underneath the trout farm,,150.3223,156.1077,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.8,normal,q3nc7.f.move.71,check,8,9,b-- below it,,152.2373,152.8008,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.8,normal,q3nc7.f.move.73,acknowledge,8,9,mmhmm,,156.4261,156.8185,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.9,normal,q3nc7.g.move.74,instruct,9,10,then round 'til you're about an inch from the side two centimetres from the side of the page the trout farm,,157.7558,162.5839,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.9,normal,q3nc7.f.move.75,uncodable,9,10,oops,,158.3011,158.5837,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.9,normal,q3nc7.f.move.77,acknowledge,9,10,right,,162.8764,163.1464,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.10,normal,q3nc7.g.move.78,instruct,10,11,and straight down,,163.7914,164.7538,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.10,normal,q3nc7.g.move.79.5,,10,11,,,164.7538,166.5557,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.10,normal,q3nc7.f.move.79,check,10,11,towards the cattle stockade,lowamp,165.6719,166.8516,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.10,normal,q3nc7.f.move.81.5,,10,11,,,166.8516,170.0564,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.10,normal,q3nc7.g.move.80,reply_y,10,11,uh-huh,,166.5557,166.9282,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.10,normal,q3nc7.g.move.81,instruct,10,11,straight down and underneath the cattle stockade,,166.9282,168.8089,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.10,normal,q3nc7.f.move.82,ready,10,11,mmhmm,lowamp,170.0564,170.4512,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.11,normal,q3nc7.g.move.83,instruct,11,12,round underneath the cattle stockade curve up on a wee kind hill,,171.4144,176.6123,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.11,normal,q3nc7.g.move.84.5,,11,12,,,176.6123,178.3577,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.11,normal,q3nc7.f.move.84,acknowledge,11,12,right,,178.0061,178.2538,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.12,normal,q3nc7.g.move.85,instruct,12,13,and then underneath the bandit territory,,178.3577,180.0265,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.12,normal,q3nc7.g.move.86.5,,12,13,,,180.0265,183.008,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.12,normal,q3nc7.f.move.86,check,12,13,underneath it,,182.3578,182.9335,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.12,normal,q3nc7.f.move.88.5,,12,13,,,182.9336,187.4483,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.12,normal,q3nc7.g.move.87,reply_y,12,13,uh-huh,,183.008,183.2978,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.12,normal,q3nc7.g.move.89.5,,12,13,,inbreath,187.6158,188.0837,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.12,normal,q3nc7.f.move.89,reply_y,12,13,mmhmm,,187.4483,187.7118,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.13,normal,q3nc7.g.move.90,acknowledge,13,14,right,,188.0837,188.3411,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.13,normal,q3nc7.f.move.92.5,,13,14,,,187.7118,200.349,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.13,normal,q3nc7.g.move.91,instruct,13,14,just go s-- ehm to the left the bandit territory go north until you get to eh just about level to where the top of his the tree is,,188.3411,199.2819,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.13,normal,q3nc7.g.move.93.5,,13,14,,inbreath,200.3078,201.4462,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.13,normal,q3nc7.f.move.93,query_w,13,14,what tree,,200.349,200.8161,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.13,normal,q3nc7.f.move.94.5,,13,14,,,200.8161,202.7501,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.13,normal,q3nc7.g.move.94,clarify,13,14,the tree in the bandit territory,,201.4462,202.9416,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.13,normal,q3nc7.g.move.95.5,,13,14,,,202.9416,203.5067,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.13,normal,q3nc7.f.move.95,check,13,14,the cactus,,202.7501,203.4215,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.13,normal,q3nc7.f.move.96.5,,13,14,,,203.4215,205.6449,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.13,normal,q3nc7.g.move.96,reply_y,13,14,uh-huh,,203.5067,203.8364,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.13,normal,q3nc7.g.move.97.5,,13,14,,,203.8364,206.4937,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.13,normal,q3nc7.f.move.97,check,13,14,to about the top of it,,205.6449,206.4827,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.13,normal,q3nc7.f.move.98.5,,13,14,,,206.4827,207.8772,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.13,normal,q3nc7.g.move.98,reply_y,13,14,uh-huh,,206.4937,206.7364,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.13,normal,q3nc7.g.move.99.5,,13,14,,,206.7364,208.5366,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.13,normal,q3nc7.f.move.99,query_yn,13,14,is that the finish,,207.8772,208.6693,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.13,normal,q3nc7.f.move.100.5,,13,14,,,208.6693,213.2679,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.13,normal,q3nc7.g.move.100,reply_y,13,14,yeah,,208.5366,208.7095,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.13,normal,q3nc7.g.move.101.5,,13,14,,inbreath,208.7095,211.9035,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.13,normal,q3nc7.f.move.101,acknowledge,13,14,okay,,213.2679,213.5188,no,yes,m14,3,55,down,down
+7,q3nc7.transaction.13,normal,q3nc7.g.move.102,uncodable,13,14,phew,,211.9035,212.2559,no,yes,m14,3,55,down,down

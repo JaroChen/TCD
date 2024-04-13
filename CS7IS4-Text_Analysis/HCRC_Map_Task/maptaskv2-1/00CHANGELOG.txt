@@ -1,0 +1,9 @@
+Changes Between version 2.0 and version 2.1
+-------------------------------------------
+
+Minor release to fix one omission:
+Data/corpus-resources/maptask-corpus.xml now includes path deviance
+scores for all dialogues. Metadata file Data/maptask.xml altered to
+declare the path deviance attribute.
+
+Version 2.1 built by JAK 8.2.2011

@@ -1,0 +1,247 @@
+conversation_id,transaction_id,transaction_type,move_id,label,map_start_point,map_end_point,timed_units,timed_unit_type,timed_unit_start,timed_unit_end,eyecontact,familiar,map,quad,devscore,f_gaze_type,g_gaze_type
+4,q4ec4.transaction.1,normal,q4ec4.g.move.1,instruct,1,2,right eh from start position you move down past the camera shop to the bottom left corner,,0.0,5.878,yes,yes,m0,4,73,down,up
+4,q4ec4.transaction.1,normal,q4ec4.g.move.4.5,,1,2,,,5.878,10.9681,yes,yes,m0,4,73,down,up
+4,q4ec4.transaction.1,normal,q4ec4.f.move.2,acknowledge,1,2,right right,,7.0065,7.8367,yes,yes,m0,4,73,down,up
+4,q4ec4.transaction.1,normal,q4ec4.f.move.6.5,,1,2,,,11.6674,14.089,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.1,normal,q4ec4.g.move.5,reply_y,1,2,yes,lowamp,10.9681,11.4094,yes,yes,m0,4,73,up,down
+4,q4ec4.transaction.1,normal,q4ec4.g.move.6,instruct,1,2,you move down to l-- past the left-hand side of the camera shop,,11.6231,13.9603,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.1,normal,q4ec4.f.move.7,acknowledge,1,2,no right,,14.089,14.3265,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.2,normal,q4ec4.g.move.8,query_yn,2,3,and have you got parked van marked there beneath the camera shop,,15.9652,18.8072,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.2,normal,q4ec4.g.move.9.5,,2,3,,,18.8072,19.4391,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.2,normal,q4ec4.f.move.9,reply_n,2,3,no,lowamp,18.8549,19.3139,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.2,normal,q4ec4.g.move.10,acknowledge,2,3,no,lowamp,19.4391,19.8145,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.2,normal,q4ec4.f.move.10.5,,2,3,,,19.3139,19.4131,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.2,normal,q4ec4.g.move.11.5,,2,3,,,19.8145,23.2873,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.2,normal,q4ec4.f.move.11,explain,2,3,no-- it's just allotments to the eh right,,19.4131,22.6441,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.2,normal,q4ec4.f.move.15.5,,2,3,,,24.1363,36.7009,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.2,normal,q4ec4.g.move.12,instruct,2,3,you move,,23.2873,23.754,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.2,normal,q4ec4.g.move.16.5,,2,3,,inbreath,32.1886,38.2791,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.2,normal,q4ec4.f.move.16,query_w,2,3,and where do i stop,,36.7009,37.5461,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.2,normal,q4ec4.f.move.17.5,,2,3,,,37.5461,42.2959,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.2,normal,q4ec4.g.move.17,clarify,2,3,stop just at the bot-- the top right corner of the allotments just above that little shed,,38.2791,41.9436,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.2,normal,q4ec4.f.move.18,acknowledge,2,3,right,,42.2959,42.6003,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.2,normal,q4ec4.f.move.19,ready,2,3,right,,46.3481,46.7308,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.3,normal,q4ec4.g.move.20,instruct,3,4,then you move in an angle slo-- sloping slightly upwards to approximately a third of the way across the page from the right and stop,,47.2544,54.3598,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.3,normal,q4ec4.g.move.21.5,,3,4,,,54.3598,59.6752,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.3,normal,q4ec4.f.move.21,query_w,3,4,so what is this eh there's a flight museum here on the,,56.6279,58.8845,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.3,normal,q4ec4.f.move.22.5,,3,4,,,58.8845,60.6911,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.3,normal,q4ec4.g.move.22,reply_w,3,4,it's not marked on my map,,59.6752,60.5272,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.3,normal,q4ec4.g.move.24.5,,3,4,,,60.5272,66.8361,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.3,normal,q4ec4.f.move.23,acknowledge,3,4,oh right,,60.6911,60.9861,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.3,normal,q4ec4.f.move.25.5,,3,4,,,66.2056,71.3286,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.3,normal,q4ec4.g.move.25,instruct,3,4,slightly below approximately level with the top of the camera shop,,66.8361,69.9819,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.3,normal,q4ec4.g.move.27.5,,3,4,,,69.9819,74.4655,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.3,normal,q4ec4.f.move.26,acknowledge,3,4,right,,71.3286,71.5723,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.3,normal,q4ec4.f.move.28.5,,3,4,,,74.1203,75.6327,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.3,normal,q4ec4.g.move.28,reply_y,3,4,a straight line yes,,74.4655,75.2395,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.3,normal,q4ec4.g.move.30.5,,3,4,,,75.2395,79.7843,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.3,normal,q4ec4.f.move.29,acknowledge,3,4,right,,75.6327,75.8506,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.3,normal,q4ec4.f.move.32.5,,3,4,,,78.9036,84.1883,yes,yes,m0,4,73,down,up
+4,q4ec4.transaction.3,normal,q4ec4.g.move.31,reply_y,3,4,yeah,,79.7843,80.1494,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.3,normal,q4ec4.g.move.33.5,,3,4,,,83.5806,85.0288,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.3,normal,q4ec4.f.move.33,check,3,4,uh from the right-hand side of the page,lowamp,84.1883,85.6643,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.3,normal,q4ec4.f.move.36.5,,3,4,,,85.6643,87.6717,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.3,normal,q4ec4.g.move.34,reply_n,3,4,no sorry,,85.0288,85.3579,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.3,normal,q4ec4.g.move.42.5,,3,4,,,,,yes,yes,m0,4,73,,
+4,q4ec4.transaction.3,normal,q4ec4.f.move.37,acknowledge,3,4,right,,87.6717,87.8861,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.3,normal,q4ec4.f.move.41.5,,3,4,,,91.1405,93.4683,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.3,normal,q4ec4.g.move.43,instruct,3,4,,outbreath,0.7509,1.3863,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.3,normal,q4ec4.g.move.43.3,,3,4,the camera shop,,3.9233,4.732,yes,yes,m0,4,73,down,up
+4,q4ec4.transaction.3,normal,q4ec4.f.move.42,reply_y,3,4,yes uh-huh,,93.4683,94.0599,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.3,normal,q4ec4.f.move.43.5,,3,4,,,94.0599,100.5384,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.3,normal,q4ec4.g.move.43.4,clarify,3,4,well it's just slightly to the left of the yacht club on a level with the camera shop roof,,94.32,98.6811,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.3,normal,q4ec4.f.move.44,acknowledge,3,4,okay,,100.5384,100.9016,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.4,normal,q4ec4.f.move.45,query_w,4,5,and where do we go after that,,100.9016,102.2394,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.4,normal,q4ec4.f.move.48.5,,4,5,,inbreath,102.2394,112.1281,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.4,normal,q4ec4.g.move.46,reply_w,4,5,you turn straight up the page and make a straight line which curves over and around top of the disused monastery,lowamp,103.2353,110.9704,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.4,normal,q4ec4.g.move.49.5,,4,5,,,111.9091,113.4468,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.4,normal,q4ec4.f.move.49,check,4,5,what on top of the monastery,,112.1281,113.3254,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.4,normal,q4ec4.f.move.50.5,,4,5,,,113.3254,114.7582,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.4,normal,q4ec4.g.move.50,clarify,4,5,above the monastery,lowamp,113.4468,114.4455,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.4,normal,q4ec4.g.move.51.5,,4,5,,,114.4455,116.1738,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.4,normal,q4ec4.f.move.51,acknowledge,4,5,and uh right okay that's okay,,114.7582,116.5893,yes,yes,m0,4,73,down,up
+4,q4ec4.transaction.4,normal,q4ec4.f.move.52.5,,4,5,,,116.5893,119.4641,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.4,normal,q4ec4.g.move.52,clarify,4,5,to the left up the to the right and then curves over to the left,,116.1738,119.3809,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.4,normal,q4ec4.g.move.54.5,,4,5,,,119.3809,126.0358,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.4,normal,q4ec4.f.move.53,acknowledge,4,5,right,,119.4641,119.7359,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.5,review,q4ec4.f.move.54,check,3,4,so we're going from like above the allotments to just above the yacht club no just above but ehm about,,119.8413,126.1242,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.5,review,q4ec4.f.move.55.5,,3,4,,,126.1242,126.8821,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.5,review,q4ec4.g.move.55,clarify,3,4,approximately three inches,lowamp,126.0358,127.4614,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.5,review,q4ec4.g.move.57,clarify,3,4,three four inches,,127.5284,128.2504,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.5,review,q4ec4.f.move.56,check,3,4,same level as the camera shop basically,,126.8821,128.3863,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.5,review,q4ec4.f.move.59.5,,3,4,,,128.3863,129.2848,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.5,review,q4ec4.g.move.58,reply_y,3,4,yeah,lowamp,128.2504,128.4918,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.6,review,q4ec4.f.move.60,check,4,5,and then eh from there going to disused monastery,,129.2848,131.3783,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.6,review,q4ec4.f.move.61.5,,4,5,,,131.3783,131.957,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.6,review,q4ec4.g.move.61,reply_y,4,5,yes,,131.6712,132.0132,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.6,review,q4ec4.g.move.62.5,,4,5,,,132.0132,132.5699,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.6,review,q4ec4.f.move.62,acknowledge,4,5,right,,131.957,132.1585,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.6,review,q4ec4.f.move.63.5,,4,5,,,132.1585,134.5214,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.6,review,q4ec4.g.move.63,clarify,4,5,curving around the top of the disused monastery,,132.57,134.4415,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.6,review,q4ec4.f.move.64,acknowledge,4,5,yeah right,,134.5215,135.017,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.7,normal,q4ec4.f.move.65,ready,5,7,right,,137.1714,137.3635,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.7,normal,q4ec4.f.move.67.5,,5,7,,,139.5461,154.6034,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.7,normal,q4ec4.g.move.67,reply_w,5,7,and stop on the level with the base of it then the curve reverses itself and goes approximately li-- like it was before and then goes vertically up the side of the gr-- the alpine garden,lowamp,139.2543,152.7714,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.7,normal,q4ec4.g.move.69.5,,5,7,,,152.7714,156.7582,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.7,normal,q4ec4.f.move.68,acknowledge,5,7,right,,154.6035,154.7581,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.7,normal,q4ec4.f.move.69,query_w,5,7,could you just say that again,,154.7581,155.6836,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.8,review,q4ec4.g.move.70,clarify,5,6,right from the disused monastery the left-hand side of disused monastery the curve makes a dip rather than a rise a trough,,156.7582,164.4037,yes,yes,m0,4,73,down,up
+4,q4ec4.transaction.8,review,q4ec4.g.move.71.5,,5,6,,,164.4037,165.0177,yes,yes,m0,4,73,down,up
+4,q4ec4.transaction.8,review,q4ec4.f.move.71,acknowledge,5,6,right,,164.8964,165.1658,yes,yes,m0,4,73,down,up
+4,q4ec4.transaction.8,review,q4ec4.f.move.72.5,,5,6,,,165.1658,168.999,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.8,review,q4ec4.g.move.72,clarify,5,6,and stops level with the left-hand side of the alpine garden,lipsmack,165.0177,168.6938,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.8,review,q4ec4.g.move.74.5,,5,6,,,168.6938,174.975,yes,yes,m0,4,73,down,up
+4,q4ec4.transaction.8,review,q4ec4.f.move.73,acknowledge,5,6,right,,168.999,169.1654,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.8,review,q4ec4.f.move.76.5,,5,6,,,173.9487,178.3628,yes,yes,m0,4,73,down,up
+4,q4ec4.transaction.8,review,q4ec4.g.move.75,reply_n,5,6,no,,174.975,175.1084,yes,yes,m0,4,73,up,up
+4,q4ec4.transaction.8,review,q4ec4.g.move.78.5,,5,6,,,178.1635,182.8655,yes,yes,m0,4,73,up,down
+4,q4ec4.transaction.8,review,q4ec4.f.move.77,explain,5,6,that's what i mean,,178.3629,178.8642,yes,yes,m0,4,73,down,up
+4,q4ec4.transaction.8,review,q4ec4.f.move.79.5,,5,6,,,182.9786,183.5665,yes,yes,m0,4,73,up,down
+4,q4ec4.transaction.8,review,q4ec4.g.move.79,reply_y,5,6,yes,lowamp,182.8655,184.0716,yes,yes,m0,4,73,up,down
+4,q4ec4.transaction.8,review,q4ec4.g.move.81.5,,5,6,,,184.0716,192.1354,yes,yes,m0,4,73,up,down
+4,q4ec4.transaction.8,review,q4ec4.f.move.80,acknowledge,5,6,right,,183.5665,183.7346,yes,yes,m0,4,73,up,down
+4,q4ec4.transaction.8,review,q4ec4.f.move.83.5,,5,6,,,192.153,197.4711,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.8,review,q4ec4.g.move.82,reply_y,5,6,yeah,,192.1354,192.3896,yes,yes,m0,4,73,up,down
+4,q4ec4.transaction.8,review,q4ec4.g.move.83,clarify,5,6,you stop on a level with the m-- disused monastery to slightly to the left of the alpine garden,,192.4358,196.7184,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.8,review,q4ec4.f.move.84,acknowledge,5,6,right,,197.4711,197.8497,yes,yes,m0,4,73,down,up
+4,q4ec4.transaction.8,review,q4ec4.f.move.85,ready,5,6,right,,201.3757,201.6445,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.9,review,q4ec4.g.move.86,instruct,6,7,then you go up vertically 'til just above the alpine garden,,202.2088,205.0918,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.10,normal,q4ec4.g.move.87,instruct,7,8,then you mak-- go right to the end of the alpine garden,,207.3509,210.2795,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.10,normal,q4ec4.g.move.89.5,,7,8,,,215.1288,218.5299,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.10,normal,q4ec4.f.move.89,explain,7,8,there is no youth hostel,,216.64,217.881,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.10,normal,q4ec4.f.move.90.5,,7,8,,,217.881,220.2824,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.10,normal,q4ec4.g.move.90,clarify,7,8,then about three inches,lowamp,218.5299,219.7129,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.10,normal,q4ec4.g.move.91.5,,7,8,,,219.7129,221.9287,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.10,normal,q4ec4.f.move.91,query_w,7,8,where was the youth hostel,lowamp,220.2825,221.4137,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.10,normal,q4ec4.f.move.92.5,,7,8,,,221.4137,229.4514,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.10,normal,q4ec4.g.move.92,reply_w,7,8,,,,,yes,yes,m0,4,73,,
+4,q4ec4.transaction.10,normal,q4ec4.g.move.99.5,,7,8,,nonvocal,230.5123,235.7943,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.10,normal,q4ec4.f.move.93,acknowledge,7,8,right,,229.4514,229.7359,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.10,normal,q4ec4.f.move.95,acknowledge,7,8,right i think i know where it is,,230.2937,231.8349,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.11,normal,q4ec4.f.move.96,query_w,8,9,right ehm where where would i be going after that,,231.8349,235.1526,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.11,normal,q4ec4.f.move.98.5,,8,9,,,235.1526,236.6243,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.11,normal,q4ec4.g.move.100,query_w,8,9,,lipsmack,0.7509,1.5342,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.11,normal,q4ec4.g.move.100.4,,8,9,,,236.2693,238.2923,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.11,normal,q4ec4.f.move.99,reply_w,8,9,after the this youth hostel,,236.6243,237.9527,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.11,normal,q4ec4.f.move.101.5,,8,9,,,237.9527,251.1584,yes,yes,m0,4,73,down,up
+4,q4ec4.transaction.11,normal,q4ec4.g.move.100.9,query_w,8,9,after youth hostel,,238.2923,238.9791,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.11,normal,q4ec4.g.move.103.5,,8,9,,,249.9165,255.5075,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.11,normal,q4ec4.f.move.102,acknowledge,8,9,right,,251.1584,251.6288,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.11,normal,q4ec4.f.move.104.5,,8,9,,,255.1436,256.8528,yes,yes,m0,4,73,down,up
+4,q4ec4.transaction.11,normal,q4ec4.g.move.104,reply_w,8,9,the telephone box,,255.5075,256.3694,yes,yes,m0,4,73,down,up
+4,q4ec4.transaction.11,normal,q4ec4.g.move.107.5,,8,9,,,256.3694,266.5593,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.11,normal,q4ec4.f.move.105,acknowledge,8,9,right okay uh right,,256.8528,260.5961,yes,yes,m0,4,73,down,up
+4,q4ec4.transaction.11,normal,q4ec4.f.move.109.5,,8,9,,,266.6019,269.4021,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.11,normal,q4ec4.g.move.108,reply_n,8,9,no,,266.5593,266.8866,yes,yes,m0,4,73,up,down
+4,q4ec4.transaction.11,normal,q4ec4.g.move.109,instruct,8,9,you go to about t-- two inches below the parked van,lowamp,266.8866,269.3909,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.11,normal,q4ec4.f.move.110,acknowledge,8,9,right,,269.4021,269.6956,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.11,normal,q4ec4.g.move.115.5,,8,9,,,269.3909,275.6652,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.11,normal,q4ec4.f.move.110.5,,8,9,,,269.6956,273.2148,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.11,normal,q4ec4.f.move.114.5,,8,9,,,275.2355,275.7126,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.11,normal,q4ec4.g.move.116,instruct,8,9,right eh,,0.0,0.7509,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.11,normal,q4ec4.g.move.116.4,,8,9,,,276.2902,276.716,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.11,normal,q4ec4.f.move.115,check,8,9,so it's,,275.7126,276.0173,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.11,normal,q4ec4.f.move.116.5,,8,9,,,276.0173,279.98,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.11,normal,q4ec4.g.move.116.9,instruct,8,9,from start position you move down past the camera shop to the bottom left corner yes you move down to l-- past the left-hand side of the camera shop and have you got parked van marked there beneath the camera shop no you move well approximately three inches below the camera shop you make an arc and then move up up and around the left-hand side of the allotments stop just at the bot-- the top right corner of the allotments just above that little shed then you move in an angle slo-- sloping slightly upwards to approximately a third of the way across the page from the right and stop it's not marked on my map slightly below approximately level with the top of the camera shop a straight line yes yeah approximately two thirds away t-- from the right-hand side of the page no sorry one third away from the right-hand side of the page well it's just slightly to the left of the yacht club on a level with the camera shop roof you turn straight up the page and make a straight line which curves over and around top of the disused monastery have you got that mark above the monastery to the left up the to the right and then curves over to the left approximately three inches three four inches yeah yes curving around the top of the disused monastery and stop on the level with the base of it then the curve reverses itself and goes approximately li-- like it was before and then goes vertically up the side of the gr-- the alpine garden right from the disused monastery the left-hand side of disused monastery the curve makes a dip rather than a rise a trough and stops level with the left-hand side of the alpine garden no a curve poin-- going down the way uh yes yeah you stop on a level with the m-- disused monastery to slightly to the left of the alpine garden then you go up vertically 'til just above the alpine garden then you mak-- go right to the end of the alpine garden then vertically again to the top of the youth hostel then about three inches youth hostel was t-- upwards and to the right of the alpine garden if you go up from four inches from where you stopped at the alpine garden vertically after youth hostel you'd be going an inch to your right and then a diagonal line sloping at approximately eh what'd it be now hundred and thirty five degrees from vertical the telephone box no you go to about t-- two inches below the parked van and then a straight line diagonally 'til underneath the telephone box,lowamp,1.3863,283.6781,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.11,normal,q4ec4.g.move.118.5,,8,9,,,283.6782,290.4791,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.11,normal,q4ec4.f.move.117,acknowledge,8,9,right,,279.9801,280.1795,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.11,normal,q4ec4.f.move.119.5,,8,9,,,290.0943,291.3824,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.11,normal,q4ec4.g.move.119,reply_y,8,9,yes,,290.4791,290.9438,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.11,normal,q4ec4.g.move.120.5,,8,9,,,290.9438,291.4028,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.11,normal,q4ec4.f.move.120,acknowledge,8,9,right,,291.3824,291.6265,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.12,normal,q4ec4.g.move.121,clarify,9,10,not directly underneath it,lowamp,291.4028,292.7968,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.12,normal,q4ec4.g.move.122.5,,9,10,,,292.7968,293.3839,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.12,normal,q4ec4.f.move.122,uncodable,9,10,ehm,lowamp,293.2888,293.8174,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.12,normal,q4ec4.f.move.123.5,,9,10,,,293.8174,299.6238,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.12,normal,q4ec4.g.move.123,clarify,9,10,you're going to draw a s-- you're going to have to draw a straight line adding on to that that passes underneath the telephone box,,293.3839,297.9541,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.12,normal,q4ec4.f.move.124,acknowledge,9,10,right right okay,,299.6239,301.5346,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.12,normal,q4ec4.f.move.125,ready,9,10,okay,lowamp,306.2032,306.7677,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.12,normal,q4ec4.g.move.125.5,,9,10,,,297.9541,307.408,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.12,normal,q4ec4.f.move.126.5,,9,10,,,306.7677,309.868,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.12,normal,q4ec4.g.move.126,instruct,9,10,then there's a straight line going under the telephone box,,307.408,309.5712,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.12,normal,q4ec4.g.move.127.5,,9,10,,,309.5712,311.3521,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.12,normal,q4ec4.f.move.127,acknowledge,9,10,right,,309.868,310.2668,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.13,normal,q4ec4.g.move.128,instruct,10,11,and a vertical line going up the right-hand side of the telephone box,lowamp,311.3522,314.3052,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.13,normal,q4ec4.g.move.129.5,,10,11,,,314.3052,316.2543,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.13,normal,q4ec4.f.move.129,query_w,10,11,and where does it go to,lowamp,314.8009,315.5826,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.14,normal,q4ec4.g.move.130,reply_w,11,12,it stops about level with the top of the telephone box,lowamp,316.2543,319.086,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.14,normal,q4ec4.f.move.131.5,,11,12,,outbreath,315.5826,340.9657,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.14,normal,q4ec4.g.move.130.5,,11,12,,,319.086,324.741,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.14,normal,q4ec4.g.move.132.5,,11,12,,,338.8238,342.7657,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.14,normal,q4ec4.f.move.132,query_yn,11,12,and where's it going to is it going to the level crossing,,340.9657,342.5607,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.14,normal,q4ec4.f.move.135.5,,11,12,,,342.5607,348.179,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.14,normal,q4ec4.g.move.133,reply_w,11,12,it's going,,342.7657,343.1796,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.14,normal,q4ec4.g.move.136.5,,11,12,,,348.7202,349.4657,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.14,normal,q4ec4.f.move.136,explain,11,12,i don't have a thatched mud hut,,348.179,349.6373,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.14,normal,q4ec4.f.move.137.5,,11,12,,,349.6373,351.0665,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.14,normal,q4ec4.g.move.137,acknowledge,11,12,no,lowamp,349.4657,349.8206,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.14,normal,q4ec4.g.move.138.5,,11,12,,,349.8207,352.4416,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.14,normal,q4ec4.f.move.138,query_yn,11,12,whe-- have you got an east lake,,351.0665,352.377,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.14,normal,q4ec4.f.move.140.5,,11,12,,,352.377,357.8743,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.14,normal,q4ec4.g.move.139,reply_y,11,12,yes,,352.4416,352.8867,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.14,normal,q4ec4.g.move.142.5,,11,12,,,357.0438,364.235,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.14,normal,q4ec4.f.move.141,acknowledge,11,12,mm right,,357.8743,358.459,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.14,normal,q4ec4.f.move.143.5,,11,12,,,363.6852,366.8416,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.14,normal,q4ec4.g.move.143,instruct,11,12,it'll probably mean go through that then,,364.235,365.5001,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.14,normal,q4ec4.g.move.145.5,,11,12,,nonvocal,365.5001,375.3417,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.14,normal,q4ec4.f.move.144,acknowledge,11,12,through the level crossing,,366.8416,368.2619,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.14,normal,q4ec4.f.move.146.5,,11,12,,,374.7013,376.0172,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.14,normal,q4ec4.g.move.146,check,11,12,avoid them,,375.3417,375.8296,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.14,normal,q4ec4.g.move.147.5,,11,12,,,375.8296,378.3297,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.14,normal,q4ec4.f.move.147,reply_y,11,12,yeah,,376.0172,376.2692,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.14,normal,q4ec4.f.move.148.5,,11,12,,,376.2692,382.6081,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.14,normal,q4ec4.g.move.148,acknowledge,11,12,right ehm,,378.3297,379.1854,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.15,normal,q4ec4.f.move.149,query_w,12,13,i need to go ehm where where is it going is it going to eh eh parked van or some place,phongesture,382.6081,386.7698,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.15,normal,q4ec4.f.move.151.5,,12,13,,,386.7698,386.8554,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.15,normal,q4ec4.g.move.150,reply_n,12,13,ehm no,lowamp,386.3523,387.5896,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.15,normal,q4ec4.g.move.150.5,,12,13,,,387.5896,388.1192,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.15,normal,q4ec4.f.move.152,query_w,12,13,eh where,,386.8555,388.3047,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.15,normal,q4ec4.f.move.152.4,,12,13,,,388.3047,398.0181,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.15,normal,q4ec4.g.move.151,reply_w,12,13,it's going to the right of the parked van underneath the lef-- the very left-hand point of the east lake,,388.1192,396.1447,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.15,normal,q4ec4.g.move.153.5,,12,13,,,396.1447,403.4903,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.15,normal,q4ec4.f.move.152.5,acknowledge,12,13,right,,398.0181,398.5188,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.15,normal,q4ec4.f.move.155.5,,12,13,,,402.0036,406.1736,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.15,normal,q4ec4.g.move.154,clarify,12,13,it's on a level with the picket fence,,403.4903,404.8458,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.15,normal,q4ec4.g.move.156.5,,12,13,,,406.0278,407.2853,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.15,normal,q4ec4.f.move.156,reply_y,12,13,yeah i've got that,,406.1736,406.7664,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.15,normal,q4ec4.f.move.157.5,,12,13,,,406.7665,412.5685,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.15,normal,q4ec4.g.move.157,clarify,12,13,the finish point is on a level with that underneath the most left point of the east lake,lowamp,407.2853,411.1821,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.15,normal,q4ec4.f.move.158,acknowledge,12,13,right,,412.5685,412.8403,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.16,review,q4ec4.f.move.159,explain,11,12,r-- i'll go round it the level crossing,,413.5188,415.416,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.16,review,q4ec4.f.move.160,align,11,12,okay,lowamp,417.3313,417.809,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.16,review,q4ec4.g.move.161,reply_y,11,12,right,,418.0323,418.2682,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.16,review,q4ec4.f.move.162.5,,11,12,,,417.809,418.952,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.16,review,q4ec4.g.move.163.5,,11,12,,,418.2682,420.5254,yes,yes,m0,4,73,up,down
+4,q4ec4.transaction.16,review,q4ec4.f.move.163,query_w,11,12,is it a straight line or a curve,,418.952,420.1641,yes,yes,m0,4,73,up,down
+4,q4ec4.transaction.16,review,q4ec4.f.move.165.5,,11,12,,,420.1641,425.9612,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.16,review,q4ec4.g.move.164,reply_w,11,12,it curves,,420.5254,421.3498,yes,yes,m0,4,73,up,down
+4,q4ec4.transaction.16,review,q4ec4.g.move.166.5,,11,12,,,425.2409,426.2845,yes,yes,m0,4,73,up,down
+4,q4ec4.transaction.16,review,q4ec4.f.move.166,acknowledge,11,12,right,,425.9612,426.274,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.16,review,q4ec4.g.move.167,clarify,11,12,from that's from seen from my point of view,lowamp,426.2845,428.4428,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.16,review,q4ec4.f.move.167.5,,11,12,,,426.274,428.5896,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.16,review,q4ec4.g.move.168.5,,11,12,,,428.4428,430.6572,yes,yes,m0,4,73,down,up
+4,q4ec4.transaction.16,review,q4ec4.f.move.168,query_yn,11,12,and that's from the right-hand side of the telephone box,,428.5896,430.4802,yes,yes,m0,4,73,down,up
+4,q4ec4.transaction.16,review,q4ec4.f.move.169.5,,11,12,,,430.4803,433.0659,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.16,review,q4ec4.g.move.169,clarify,11,12,from the right-hand side of the telephone box it goes to the left-hand point,,430.6572,433.0219,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.16,review,q4ec4.f.move.170,acknowledge,11,12,right,,433.0659,433.2125,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.16,review,q4ec4.g.move.171.5,,11,12,,,433.0219,436.8928,yes,yes,m0,4,73,down,up
+4,q4ec4.transaction.16,review,q4ec4.f.move.171,explain,11,12,well i can't do an exponential so,unintelligible,433.2125,434.9681,yes,yes,m0,4,73,down,up
+4,q4ec4.transaction.16,review,q4ec4.f.move.172.5,,11,12,,,434.9681,440.8392,yes,yes,m0,4,73,down,up
+4,q4ec4.transaction.16,review,q4ec4.g.move.172,explain,11,12,that's the path marked there,lowamp,436.8928,438.218,yes,yes,m0,4,73,down,up
+4,q4ec4.transaction.16,review,q4ec4.f.move.173,explain,11,12,i'll see what i can do,lowamp,440.8392,442.7794,yes,yes,m0,4,73,down,up
+4,q4ec4.transaction.16,review,q4ec4.f.move.174,ready,11,12,right,,444.3653,444.6222,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.17,review,q4ec4.g.move.175,align,12,13,that you at the finish point,,445.3271,446.0902,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.17,review,q4ec4.g.move.176.5,,12,13,,,446.0903,451.7206,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.17,review,q4ec4.f.move.176,reply_w,12,13,i'm just at the eh left-hand bottom corner of the east lake,,446.5821,450.854,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.17,review,q4ec4.g.move.177,acknowledge,12,13,the left-hand bot-- corner,,451.7206,452.878,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.17,review,q4ec4.f.move.178.5,,12,13,,,450.854,456.2395,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.17,review,q4ec4.g.move.178,instruct,12,13,you go just about an inch to your left,lowamp,452.878,455.4809,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.17,review,q4ec4.g.move.182.5,,12,13,,,455.4809,456.6372,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.17,review,q4ec4.f.move.179,acknowledge,12,13,right,,456.2395,456.4766,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.17,review,q4ec4.f.move.180.5,,12,13,,,456.4766,459.6419,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.17,review,q4ec4.g.move.183,instruct,12,13,eh from start position,,0.3352,2.5785,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.17,review,q4ec4.g.move.183.5,,12,13,you move down past the camera shop to the bottom left corner yes you move down to l-- past the left-hand side of the camera shop and have you got parked van marked there beneath the camera shop no you move well approximately three inches below the camera shop you make an arc and then move up up and around the left-hand side of the allotments stop just at the bot-- the top right corner of the allotments just above that little shed then you move in an angle slo-- sloping slightly upwards to approximately a third of the way across the page from the right and stop it's not marked on my map slightly below approximately level with the top of the camera shop a straight line yes yeah approximately two thirds away t-- from the right-hand side of the page no sorry one third away from the right-hand side of the page well it's just slightly to the left of the yacht club on a level with the camera shop roof you turn straight up the page and make a straight line which curves over and around top of the disused monastery have you got that mark above the monastery to the left up the to the right and then curves over to the left approximately three inches three four inches yeah yes curving around the top of the disused monastery and stop on the level with the base of it then the curve reverses itself and goes approximately li-- like it was before and then goes vertically up the side of the gr-- the alpine garden right from the disused monastery the left-hand side of disused monastery the curve makes a dip rather than a rise a trough and stops level with the left-hand side of the alpine garden no a curve poin-- going down the way uh yes yeah you stop on a level with the m-- disused monastery to slightly to the left of the alpine garden then you go up vertically 'til just above the alpine garden then you mak-- go right to the end of the alpine garden then vertically again to the top of the youth hostel then about three inches youth hostel was t-- upwards and to the right of the alpine garden if you go up from four inches from where you stopped at the alpine garden vertically after youth hostel you'd be going an inch to your right and then a diagonal line sloping at approximately eh what'd it be now hundred and thirty five degrees from vertical the telephone box no you go to about t-- two inches below the parked van and then a straight line diagonally 'til underneath the telephone box yes not directly underneath it you're going to draw a s-- you're going to have to draw a straight line adding on to that that passes underneath the telephone box then there's a straight line going under the telephone box and a vertical line going up the right-hand side of the telephone box it stops about level with the top of the telephone box then there's a sort exponential curve that goes up to your right from that point and it starts to become vertical to the left of the telephone box on a l-- line left of the telephone box it's going not marked on my map it's going to the right to the left of the thatched mud hut and no yes it stops approximately th-- on a line through the middle of the east lake it'll probably mean go through that then avoid them right ehm ehm no it's going to the right of the parked van underneath the lef-- the very left-hand point of the east lake it's on a level with the picket fence have you got that top left corner the finish point is on a level with that underneath the most left point of the east lake right it curves eh if the telephone box is there it curves up and then goes like that from that's from seen from my point of view from the right-hand side of the telephone box it goes to the left-hand point that's the path marked there that you at the finish point the left-hand bot-- corner you go just about an inch to your left,,2.5786,459.6217,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.17,review,q4ec4.f.move.181,acknowledge,12,13,right,,459.642,459.8462,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.17,review,q4ec4.f.move.184.5,,12,13,,,459.8462,461.4901,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.17,review,q4ec4.g.move.184,instruct,12,13,on a level with the picket fence,lowamp,459.6217,460.9995,yes,yes,m0,4,73,down,down
+4,q4ec4.transaction.17,review,q4ec4.f.move.185,check,12,13,on a level with the picket fence,,461.4901,462.6148,yes,yes,m0,4,73,down,up
